@@ -610,7 +610,7 @@ export default function App() {
                   }}
                 >
 
-                  <img
+                  <img loading="lazy"
                     src={normalizePath(r.image)}
                     alt=""
                     style={{
@@ -674,7 +674,7 @@ export default function App() {
               </div>
             )}
 
-            <img
+            <img loading="lazy"
               src={
                 item.image ||
                 'https://placehold.co/400x500?text=No+Photo'
@@ -742,7 +742,7 @@ export default function App() {
                   key={photo+index}
                 >
 
-                  <img
+                  <img loading="lazy"
                     src={photo}
                     alt=""
                     onClick={()=>
@@ -953,7 +953,7 @@ export default function App() {
           }
         >
 
-          <img
+          <img loading="lazy"
             src={zoom}
             alt=""
           />
