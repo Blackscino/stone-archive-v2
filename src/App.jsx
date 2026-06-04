@@ -302,8 +302,25 @@ export default function App() {
       visualScore:x.visualScore || null
     }))
 
-    await supabase.from('items').delete().neq('id','___never___')
-    await supabase.from('items').insert(payload)
+    const delRes =
+      await supabase
+        .from('items')
+        .delete()
+        .neq('id','___never___')
+
+    console.log('DELETE', delRes)
+
+    const insRes =
+      await supabase
+        .from('items')
+        .insert(payload)
+
+    console.log('INSERT', insRes)
+
+    if(insRes.error){
+      alert('ERRORE: ' + insRes.error.message)
+      return
+    }
 
     alert('Backup Cloud completato')
   }
