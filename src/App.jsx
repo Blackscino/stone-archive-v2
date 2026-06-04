@@ -91,11 +91,36 @@ export default function App() {
 
     async function loadDB(){
 
+      try{
+
+        const { data } =
+          await supabase
+            .from('items')
+            .select('*')
+
+        if(data && data.length){
+
+          const clean =
+            data.map(normalizeItem)
+
+          setItems(clean)
+
+          await set(DB_KEY, clean)
+
+          setLoaded(true)
+          return
+        }
+
+      }catch(e){
+        console.log('SUPABASE LOAD ERROR',e)
+      }
+
       const stored = await get(DB_KEY)
 
       if(stored && Array.isArray(stored)){
         setItems(stored)
       } else {
+
         const clean =
           itemsData.map(normalizeItem)
 
@@ -112,8 +137,44 @@ export default function App() {
   },[])
 
   async function persist(next){
+
     setItems(next)
+
     await set(DB_KEY,next)
+
+    try{
+
+      const payload = next.map(x=>({
+        id:x.id,
+        name:x.name,
+        value:x.value,
+        category:x.category || '',
+        source:x.source || '',
+        notes:x.notes || '',
+        buyer:x.buyer || '',
+        image:x.image || '',
+        photos:x.photos || [],
+        page:x.page || '',
+        keywords:x.keywords || '',
+        visualScore:x.visualScore || null
+      }))
+
+      await supabase
+        .from('items')
+        .delete()
+        .neq('id','___never___')
+
+      await supabase
+        .from('items')
+        .insert(payload)
+
+    }catch(err){
+
+      console.log(
+        'AUTO CLOUD SAVE ERROR',
+        err
+      )
+    }
   }
 
   async function searchByImage(file){
