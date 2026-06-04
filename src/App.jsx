@@ -505,15 +505,6 @@ export default function App() {
 
 
   const typeOptions = useMemo(()=>{\n
-  const categoryOptions = useMemo(()=>{
-
-    return [...new Set(
-      items
-        .map(x => x.category || '')
-        .filter(Boolean)
-    )].sort()
-
-  },[items])
 
 
 
@@ -525,7 +516,19 @@ export default function App() {
 
   },[items])
 
-\n  const visible = useMemo(()=>{
+\n
+  const categoryOptions = useMemo(()=>{
+
+    return [...new Set(
+      items
+        .map(x => x.category || '')
+        .filter(Boolean)
+    )].sort()
+
+  },[items])
+
+
+  const visible = useMemo(()=>{
 
     const q =
       query.toLowerCase().trim()
