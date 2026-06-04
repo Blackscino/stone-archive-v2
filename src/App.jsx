@@ -504,7 +504,7 @@ export default function App() {
   }
 
 
-  const typeOptions = useMemo(()=>{\n
+  const typeOptions = useMemo(()=>{
 
 
 
@@ -516,7 +516,8 @@ export default function App() {
 
   },[items])
 
-\n
+
+
   const categoryOptions = useMemo(()=>{
 
     return [...new Set(
