@@ -159,14 +159,26 @@ export default function App() {
         visualScore:x.visualScore || null
       }))
 
-      await supabase
-        .from('items')
-        .delete()
-        .neq('id','___never___')
+      const delRes =
+        await supabase
+          .from('items')
+          .delete()
+          .neq('id','___never___')
 
-      await supabase
-        .from('items')
-        .insert(payload)
+      if(delRes.error){
+        alert('ERRORE DELETE CLOUD: ' + delRes.error.message)
+        return
+      }
+
+      const insRes =
+        await supabase
+          .from('items')
+          .insert(payload)
+
+      if(insRes.error){
+        alert('ERRORE INSERT CLOUD: ' + insRes.error.message)
+        return
+      }
 
     }catch(err){
 
@@ -246,8 +258,6 @@ export default function App() {
 
     await persist(next)
 
-    await backupCloud()
-
     setSelected(clean)
   }
 
@@ -264,8 +274,6 @@ export default function App() {
       )
 
     await persist(next)
-
-    await backupCloud()
 
     setSelected(null)
   }
