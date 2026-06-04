@@ -246,6 +246,8 @@ export default function App() {
 
     await persist(next)
 
+    await backupCloud()
+
     setSelected(clean)
   }
 
@@ -262,6 +264,8 @@ export default function App() {
       )
 
     await persist(next)
+
+    await backupCloud()
 
     setSelected(null)
   }
