@@ -503,7 +503,18 @@ export default function App() {
     URL.revokeObjectURL(url)
   }
 
-  const visible = useMemo(()=>{
+
+  const typeOptions = useMemo(()=>{
+
+    return [...new Set(
+      items
+        .map(x => x.type || '')
+        .filter(Boolean)
+    )].sort()
+
+  },[items])
+
+\n  const visible = useMemo(()=>{
 
     const q =
       query.toLowerCase().trim()
@@ -1016,7 +1027,8 @@ export default function App() {
 
               <label>Tipologia</label>
 
-              <select
+              <input
+                list="type-list"
                 value={selected.type || ''}
                 onChange={e=>
                   updateField(
@@ -1024,28 +1036,14 @@ export default function App() {
                     e.target.value
                   )
                 }
-              >
+                placeholder="Scrivi o scegli una tipologia"
+              />
 
-                <option value="">
-                  -- seleziona --
-                </option>
-
-                <option value="Jacket">Jacket</option>
-                <option value="Parka">Parka</option>
-                <option value="Trench">Trench</option>
-                <option value="Overshirt">Overshirt</option>
-                <option value="Hoodie">Hoodie</option>
-                <option value="Crewneck">Crewneck</option>
-                <option value="Knitwear">Knitwear</option>
-                <option value="Vest">Vest</option>
-                <option value="T-Shirt">T-Shirt</option>
-                <option value="Pants">Pants</option>
-                <option value="Shorts">Shorts</option>
-                <option value="Accessory">Accessory</option>
-                <option value="Vintage Jacket">Vintage Jacket</option>
-                <option value="Reference">Reference</option>
-
-              </select>
+              <datalist id="type-list">
+                {typeOptions.map(t=>(
+                  <option key={t} value={t} />
+                ))}
+              </datalist>
 
               <label>Tecnologia / Collezione</label>
 
