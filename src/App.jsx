@@ -504,7 +504,18 @@ export default function App() {
   }
 
 
-  const typeOptions = useMemo(()=>{
+  const typeOptions = useMemo(()=>{\n
+  const categoryOptions = useMemo(()=>{
+
+    return [...new Set(
+      items
+        .map(x => x.category || '')
+        .filter(Boolean)
+    )].sort()
+
+  },[items])
+
+
 
     return [...new Set(
       items
@@ -1047,7 +1058,8 @@ export default function App() {
 
               <label>Tecnologia / Collezione</label>
 
-              <select
+              <input
+                list="category-list"
                 value={selected.category || ''}
                 onChange={e=>
                   updateField(
@@ -1055,25 +1067,14 @@ export default function App() {
                     e.target.value
                   )
                 }
-              >
+                placeholder="Scrivi o scegli una tecnologia"
+              />
 
-                <option value="">
-                  -- seleziona --
-                </option>
-
-                <option value="Reflective">Reflective</option>
-                <option value="Ghost Piece">Ghost Piece</option>
-                <option value="Ice Jacket">Ice Jacket</option>
-                <option value="Shadow Project">Shadow Project</option>
-                <option value="Marina">Marina</option>
-                <option value="Tela Stella">Tela Stella</option>
-                <option value="Raso Gommato">Raso Gommato</option>
-                <option value="Prototype">Prototype</option>
-                <option value="Supreme">Supreme</option>
-                <option value="Nike">Nike</option>
-                <option value="Archive">Archive</option>
-
-              </select>
+              <datalist id="category-list">
+                {categoryOptions.map(c=>(
+                  <option key={c} value={c} />
+                ))}
+              </datalist>
 
               <label>
                 Acquirente / contatto
