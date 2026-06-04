@@ -158,27 +158,24 @@ export default function App() {
         keywords:x.keywords || '',
         visualScore:x.visualScore || null
       }))
-
-      const delRes =
+      const { error } =
         await supabase
           .from('items')
-          .delete()
-          .neq('id','___never___')
+          .upsert(
+            payload,
+            {
+              onConflict:'id'
+            }
+          )
 
-      if(delRes.error){
-        alert('ERRORE DELETE CLOUD: ' + delRes.error.message)
+      if(error){
+        alert(
+          'ERRORE UPSERT CLOUD: ' +
+          error.message
+        )
         return
       }
 
-      const insRes =
-        await supabase
-          .from('items')
-          .insert(payload)
-
-      if(insRes.error){
-        alert('ERRORE INSERT CLOUD: ' + insRes.error.message)
-        return
-      }
 
     }catch(err){
 
