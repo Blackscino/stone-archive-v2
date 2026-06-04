@@ -1,0 +1,6227 @@
+[
+  {
+    "id": "SI-001",
+    "name": "BALOTELLATA",
+    "value": "350€",
+    "page": "1",
+    "image": "images/001_BALOTELLATA.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "BALOTELLATA - 350€",
+    "photos": [
+      "images/001_BALOTELLATA.jpg"
+    ],
+    "keywords": "350 balotellata",
+    "visualScore": 0.8452937134916798
+  },
+  {
+    "id": "SI-002",
+    "name": "ACCAPPATOIO",
+    "value": "250/300€",
+    "page": "2",
+    "image": "images/002_ACCAPPATOIO.jpg",
+    "source": "PDF catalogo",
+    "category": "Accessory",
+    "notes": "ACCAPPATOIO - 250/300€",
+    "photos": [
+      "images/002_ACCAPPATOIO.jpg"
+    ],
+    "keywords": "250 300 accappatoio",
+    "visualScore": 0.6653061543919672
+  },
+  {
+    "id": "SI-003",
+    "name": "CAPPELLO MARINA",
+    "value": "120€",
+    "page": "3",
+    "image": "images/003_CAPPELLO_MARINA.jpg",
+    "source": "PDF catalogo",
+    "category": "Marina",
+    "notes": "CAPPELLO MARINA - 120€",
+    "photos": [
+      "images/003_CAPPELLO_MARINA.jpg"
+    ],
+    "keywords": "120 archive cappello marina nautical sailing",
+    "visualScore": 0.8927861662604537
+  },
+  {
+    "id": "SI-004",
+    "name": "MAGLIETTA SUPREME",
+    "value": "130€",
+    "page": "4",
+    "image": "images/004_MAGLIETTA_SUPREME.jpg",
+    "source": "PDF catalogo",
+    "category": "Supreme",
+    "notes": "MAGLIETTA SUPREME - 130€",
+    "photos": [
+      "images/004_MAGLIETTA_SUPREME.jpg"
+    ],
+    "keywords": "130 maglietta supreme",
+    "visualScore": 0.7719418403420493
+  },
+  {
+    "id": "SI-005",
+    "name": "FELPA SHADOW",
+    "value": "100€",
+    "page": "5",
+    "image": "images/005_FELPA_SHADOW.jpg",
+    "source": "PDF catalogo",
+    "category": "Shadow Project",
+    "notes": "FELPA SHADOW - 100€",
+    "photos": [
+      "images/005_FELPA_SHADOW.jpg"
+    ],
+    "keywords": "100 errolson felpa hugh project shadow technical",
+    "visualScore": 0.825146331245401
+  },
+  {
+    "id": "SI-006",
+    "name": "Garment Dyed Crinkle Reps NY Down",
+    "value": "350€",
+    "page": "6",
+    "image": "images/006_Garment_Dyed_Crinkle_Reps_NY_Down.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "Garment Dyed Crinkle Reps NY Down - 350€",
+    "photos": [
+      "images/006_Garment_Dyed_Crinkle_Reps_NY_Down.jpg"
+    ],
+    "keywords": "350 crinkle down dyed garment ny reps",
+    "visualScore": 0.9117666129319043
+  },
+  {
+    "id": "SI-007",
+    "name": "T L METAL",
+    "value": "400/450€",
+    "page": "7",
+    "image": "images/007_T_L_METAL.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "T L METAL - 400/450€",
+    "photos": [
+      "images/007_T_L_METAL.jpg"
+    ],
+    "keywords": "400 450 l metal t",
+    "visualScore": 0.8664028266694047
+  },
+  {
+    "id": "SI-008",
+    "name": "Paintball Camo",
+    "value": "1300/1400€",
+    "page": "8",
+    "image": "images/008_Paintball_Camo.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "Paintball Camo - 1300/1400€",
+    "photos": [
+      "images/008_Paintball_Camo.jpg"
+    ],
+    "keywords": "1300 1400 camo paintball",
+    "visualScore": 0.8911100477873777
+  },
+  {
+    "id": "SI-009",
+    "name": "Opaque 09 Nylon Tela Down Fishtail Parka",
+    "value": "700€",
+    "page": "9",
+    "image": "images/009_Opaque_09_Nylon_Tela_Down_Fishtail_Parka.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "Opaque 09 Nylon Tela Down Fishtail Parka - 700€",
+    "photos": [
+      "images/009_Opaque_09_Nylon_Tela_Down_Fishtail_Parka.jpg"
+    ],
+    "keywords": "09 700 down fishtail nylon opaque parka tela",
+    "visualScore": 0.8662682449803986
+  },
+  {
+    "id": "SI-010",
+    "name": "David-TC with Primaloft Insulation Technology",
+    "value": "250€",
+    "page": "10",
+    "image": "images/010_David_TC_with_Primaloft_Insulation_Technology.jpg",
+    "source": "PDF catalogo",
+    "category": "David-TC",
+    "notes": "David-TC with Primaloft Insulation Technology - 250€",
+    "photos": [
+      "images/010_David_TC_with_Primaloft_Insulation_Technology.jpg"
+    ],
+    "keywords": "250 david dyed garment insulated insulation military outerwear primaloft tc technical technology with",
+    "visualScore": 0.7209396057974056
+  },
+  {
+    "id": "SI-011",
+    "name": "Naslan Light Watro Down TC",
+    "value": "350/400€",
+    "page": "11",
+    "image": "images/011_Naslan_Light_Watro_Down_TC.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "Naslan Light Watro Down TC - 350/400€",
+    "photos": [
+      "images/011_Naslan_Light_Watro_Down_TC.jpg"
+    ],
+    "keywords": "350 400 down light naslan tc watro",
+    "visualScore": 0.807462487219609
+  },
+  {
+    "id": "SI-012",
+    "name": "PIUMINO VINTAGE MANICHE BLU",
+    "value": "250€",
+    "page": "12",
+    "image": "images/012_PIUMINO_VINTAGE_MANICHE_BLU.jpg",
+    "source": "PDF catalogo",
+    "category": "Vintage",
+    "notes": "PIUMINO VINTAGE MANICHE BLU - 250€",
+    "photos": [
+      "images/012_PIUMINO_VINTAGE_MANICHE_BLU.jpg"
+    ],
+    "keywords": "250 blu maniche piumino vintage",
+    "visualScore": 0.7518702689586806
+  },
+  {
+    "id": "SI-013",
+    "name": "NYLON METAL IN ECONYL REGENERATED NYLON WITH DOWN TC",
+    "value": "400€",
+    "page": "13",
+    "image": "images/013_NYLON_METAL_IN_ECONYL_REGENERATED_NYLON_WITH_DOWN.jpg",
+    "source": "PDF catalogo",
+    "category": "Nylon Metal",
+    "notes": "NYLON METAL IN ECONYL REGENERATED NYLON WITH DOWN TC - 400",
+    "photos": [
+      "images/013_NYLON_METAL_IN_ECONYL_REGENERATED_NYLON_WITH_DOWN.jpg"
+    ],
+    "keywords": "400 down econyl in metal nylon regenerated tc with",
+    "visualScore": 0.8708438493208708
+  },
+  {
+    "id": "SI-014",
+    "name": "PANAMA RECYCLED OXIDE PLATING CLOSED LOOP PROJECT",
+    "value": "500€",
+    "page": "14",
+    "image": "images/014_PANAMA_RECYCLED_OXIDE_PLATING_CLOSED_LOOP_PROJECT.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "PANAMA RECYCLED OXIDE PLATING CLOSED LOOP PROJECT - 500€",
+    "photos": [
+      "images/014_PANAMA_RECYCLED_OXIDE_PLATING_CLOSED_LOOP_PROJECT.jpg"
+    ],
+    "keywords": "500 closed loop oxide panama plating project recycled",
+    "visualScore": 0.8032922344958124
+  },
+  {
+    "id": "SI-015",
+    "name": "DAVID-TC WITH PRIMALOFT INSULATION TECHNOLOGY",
+    "value": "400€",
+    "page": "15",
+    "image": "images/015_DAVID_TC_WITH_PRIMALOFT_INSULATION_TECHNOLOGY.jpg",
+    "source": "PDF catalogo",
+    "category": "David-TC",
+    "notes": "DAVID-TC WITH PRIMALOFT INSULATION TECHNOLOGY - 400€",
+    "photos": [
+      "images/015_DAVID_TC_WITH_PRIMALOFT_INSULATION_TECHNOLOGY.jpg"
+    ],
+    "keywords": "400 david dyed garment insulated insulation military outerwear primaloft tc technical technology with",
+    "visualScore": 0.8589990559988441
+  },
+  {
+    "id": "SI-016",
+    "name": "BERMUDA SHADOW",
+    "value": "150€",
+    "page": "16",
+    "image": "images/016_BERMUDA_SHADOW.jpg",
+    "source": "PDF catalogo",
+    "category": "Shadow Project",
+    "notes": "BERMUDA SHADOW - 150€",
+    "photos": [
+      "images/016_BERMUDA_SHADOW.jpg"
+    ],
+    "keywords": "150 bermuda errolson hugh project shadow technical",
+    "visualScore": 0.8781403259224423
+  },
+  {
+    "id": "SI-017",
+    "name": "MAGLIA STONE ISLAND MARINA",
+    "value": "180€",
+    "page": "17",
+    "image": "images/017_MAGLIA_STONE_ISLAND_MARINA.jpg",
+    "source": "PDF catalogo",
+    "category": "Marina",
+    "notes": "MAGLIA STONE ISLAND MARINA - 180€",
+    "photos": [
+      "images/017_MAGLIA_STONE_ISLAND_MARINA.jpg"
+    ],
+    "keywords": "180 archive island maglia marina nautical sailing stone",
+    "visualScore": 0.7856837989447845
+  },
+  {
+    "id": "SI-018",
+    "name": "ICE JACKET 010",
+    "value": "500€",
+    "page": "18",
+    "image": "images/018_ICE_JACKET_010.jpg",
+    "source": "PDF catalogo",
+    "category": "Ice Jacket",
+    "notes": "ICE JACKET 010 - 500€",
+    "photos": [
+      "images/018_ICE_JACKET_010.jpg"
+    ],
+    "keywords": "010 500 archive garment heat ice jacket reactive thermosensitive",
+    "visualScore": 0.863374233789135
+  },
+  {
+    "id": "SI-019",
+    "name": "NIKE PER STONE ISLAND",
+    "value": "550€",
+    "page": "19",
+    "image": "images/019_NIKE_PER_STONE_ISLAND.jpg",
+    "source": "PDF catalogo",
+    "category": "Nike",
+    "notes": "NIKE PER STONE ISLAND - 550€",
+    "photos": [
+      "images/019_NIKE_PER_STONE_ISLAND.jpg"
+    ],
+    "keywords": "550 island nike per stone",
+    "visualScore": 0.592729611363431
+  },
+  {
+    "id": "SI-020",
+    "name": "MAGLIA FROST",
+    "value": "180€",
+    "page": "20",
+    "image": "images/020_MAGLIA_FROST.jpg",
+    "source": "PDF catalogo",
+    "category": "Knit",
+    "notes": "MAGLIA FROST - 180€",
+    "photos": [
+      "images/020_MAGLIA_FROST.jpg"
+    ],
+    "keywords": "180 frost maglia",
+    "visualScore": 0.8818911017377251
+  },
+  {
+    "id": "SI-021",
+    "name": "GORE-TEX WITH PACLITE PRODUCT TECHNOLOGY",
+    "value": "300€",
+    "page": "21",
+    "image": "images/021_GORE_TEX_WITH_PACLITE_PRODUCT_TECHNOLOGY.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "GORE-TEX WITH PACLITE PRODUCT TECHNOLOGY - 300€",
+    "photos": [
+      "images/021_GORE_TEX_WITH_PACLITE_PRODUCT_TECHNOLOGY.jpg"
+    ],
+    "keywords": "300 gore paclite product technology tex with",
+    "visualScore": 0.7800419084682402
+  },
+  {
+    "id": "SI-022",
+    "name": "LIQUID REFLECTIVE",
+    "value": "400€",
+    "page": "22",
+    "image": "images/022_LIQUID_REFLECTIVE.jpg",
+    "source": "PDF catalogo",
+    "category": "Reflective",
+    "notes": "LIQUID REFLECTIVE - 400€",
+    "photos": [
+      "images/022_LIQUID_REFLECTIVE.jpg"
+    ],
+    "keywords": "400 archive bead glass jacket liquid reflective",
+    "visualScore": 0.8185339739916218
+  },
+  {
+    "id": "SI-023",
+    "name": "PERTEX QUANTUM Y DOWN",
+    "value": "320/330€",
+    "page": "23",
+    "image": "images/023_PERTEX_QUANTUM_Y_DOWN.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "PERTEX QUANTUM Y DOWN - 320/330€",
+    "photos": [
+      "images/023_PERTEX_QUANTUM_Y_DOWN.jpg"
+    ],
+    "keywords": "320 330 down pertex quantum y",
+    "visualScore": 0.7055356766493384
+  },
+  {
+    "id": "SI-024",
+    "name": "GIACCHETTA VINTAGE",
+    "value": "250€",
+    "page": "24",
+    "image": "images/024_GIACCHETTA_VINTAGE.jpg",
+    "source": "PDF catalogo",
+    "category": "Vintage",
+    "notes": "GIACCHETTA VINTAGE - 250€",
+    "photos": [
+      "images/024_GIACCHETTA_VINTAGE.jpg"
+    ],
+    "keywords": "250 giacchetta vintage",
+    "visualScore": 0.7774424343289601
+  },
+  {
+    "id": "SI-025",
+    "name": "VENTILE",
+    "value": "500€",
+    "page": "25",
+    "image": "images/025_VENTILE.jpg",
+    "source": "PDF catalogo",
+    "category": "Archive",
+    "notes": "VENTILE - 500€",
+    "photos": [
+      "images/025_VENTILE.jpg"
+    ],
+    "keywords": "500 archive cotton military ventile",
+    "visualScore": 0.89016948189621
+  },
+  {
+    "id": "SI-026",
+    "name": "INSEGNA STONE ISLAND",
+    "value": "250-300€",
+    "page": "26",
+    "image": "images/026_INSEGNA_STONE_ISLAND.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "INSEGNA STONE ISLAND - 250-300€",
+    "photos": [
+      "images/026_INSEGNA_STONE_ISLAND.jpg"
+    ],
+    "keywords": "250 300 insegna island stone",
+    "visualScore": 0.8214827147613181
+  },
+  {
+    "id": "SI-027",
+    "name": "SCARABEO PARKA",
+    "value": "1600€",
+    "page": "27",
+    "image": "images/027_SCARABEO_PARKA.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "SCARABEO PARKA - 1600€",
+    "photos": [
+      "images/027_SCARABEO_PARKA.jpg"
+    ],
+    "keywords": "1600 parka scarabeo",
+    "visualScore": 0.8452107154975272
+  },
+  {
+    "id": "SI-028",
+    "name": "MULTIPOCKET 2008",
+    "value": "220-250€",
+    "page": "28",
+    "image": "images/028_MULTIPOCKET_2008.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "MULTIPOCKET 2008 - 220-250€",
+    "photos": [
+      "images/028_MULTIPOCKET_2008.jpg"
+    ],
+    "keywords": "2008 220 250 multipocket",
+    "visualScore": 0.8509665176127938
+  },
+  {
+    "id": "SI-029",
+    "name": "3L NYLON S.I. STELLINA",
+    "value": "300€",
+    "page": "29",
+    "image": "images/029_3L_NYLON_S_I_STELLINA.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "3L NYLON S.I. STELLINA - 300€",
+    "photos": [
+      "images/029_3L_NYLON_S_I_STELLINA.jpg"
+    ],
+    "keywords": "300 3l i nylon s stellina",
+    "visualScore": 0.7816815773660962
+  },
+  {
+    "id": "SI-030",
+    "name": "STONE ISLAND PANAMA PLACCATO WITH PANNO JACQUARD",
+    "value": "260€",
+    "page": "30",
+    "image": "images/030_STONE_ISLAND_PANAMA_PLACCATO_WITH_PANNO_JACQUARD.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "STONE ISLAND PANAMA PLACCATO WITH PANNO JACQUARD - 260€",
+    "photos": [
+      "images/030_STONE_ISLAND_PANAMA_PLACCATO_WITH_PANNO_JACQUARD.jpg"
+    ],
+    "keywords": "260 island jacquard panama panno placcato stone with",
+    "visualScore": 0.7289243388804552
+  },
+  {
+    "id": "SI-031",
+    "name": "ICE JACKET",
+    "value": "550€",
+    "page": "31",
+    "image": "images/031_ICE_JACKET.jpg",
+    "source": "PDF catalogo",
+    "category": "Ice Jacket",
+    "notes": "ICE JACKET - 550€",
+    "photos": [
+      "images/031_ICE_JACKET.jpg"
+    ],
+    "keywords": "550 archive garment heat ice jacket reactive thermosensitive",
+    "visualScore": 0.8016639213109019
+  },
+  {
+    "id": "SI-032",
+    "name": "Capo 32",
+    "value": "",
+    "page": "32",
+    "image": "images/032_blank.jpg",
+    "source": "PDF catalogo",
+    "category": "Accessory",
+    "notes": "",
+    "photos": [
+      "images/032_blank.jpg"
+    ],
+    "keywords": "32 capo",
+    "visualScore": 0.12556610271697852
+  },
+  {
+    "id": "SI-033",
+    "name": "STREETCH WOOL NYLON PARKA",
+    "value": "550€",
+    "page": "33",
+    "image": "images/033_STREETCH_WOOL_NYLON_PARKA.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "STREETCH WOOL NYLON PARKA - 550€",
+    "photos": [
+      "images/033_STREETCH_WOOL_NYLON_PARKA.jpg"
+    ],
+    "keywords": "550 nylon parka streetch wool",
+    "visualScore": 0.7073461952709401
+  },
+  {
+    "id": "SI-034",
+    "name": "STONE ISLAND HAND SPRAYED MUSSOLA GOMMAT A TC",
+    "value": "",
+    "page": "34",
+    "image": "images/034_STONE_ISLAND_HAND_SPRAYED_MUSSOLA_GOMMAT_A_TC.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "STONE ISLAND HAND SPRAYED MUSSOLA GOMMAT A TC",
+    "photos": [
+      "images/034_STONE_ISLAND_HAND_SPRAYED_MUSSOLA_GOMMAT_A_TC.jpg"
+    ],
+    "keywords": "a gommat hand island mussola sprayed stone tc",
+    "visualScore": 0.7069182315121378
+  },
+  {
+    "id": "SI-035",
+    "name": "PLATED REFLECTIVE WITH DUST COLOUR FINISH",
+    "value": "600-650€",
+    "page": "35",
+    "image": "images/035_PLATED_REFLECTIVE_WITH_DUST_COLOUR_FINISH.jpg",
+    "source": "PDF catalogo",
+    "category": "Reflective",
+    "notes": "PLATED REFLECTIVE WITH DUST COLOUR FINISH - 600-650€",
+    "photos": [
+      "images/035_PLATED_REFLECTIVE_WITH_DUST_COLOUR_FINISH.jpg"
+    ],
+    "keywords": "600 650 archive bead colour dust finish glass jacket plated reflective with",
+    "visualScore": 0.7479761175002402
+  },
+  {
+    "id": "SI-036",
+    "name": "BRUSHED COTTON 2C CAMO - OVD (GILET SUPREME)",
+    "value": "500€",
+    "page": "36",
+    "image": "images/036_BRUSHED_COTTON_2C_CAMO_OVD_GILET_SUPREME.jpg",
+    "source": "PDF catalogo",
+    "category": "Supreme",
+    "notes": "BRUSHED COTTON 2C CAMO - OVD (GILET SUPREME) - 500€",
+    "photos": [
+      "images/036_BRUSHED_COTTON_2C_CAMO_OVD_GILET_SUPREME.jpg"
+    ],
+    "keywords": "2c 500 brushed camo cotton gilet ovd supreme",
+    "visualScore": 0.9037073195641754
+  },
+  {
+    "id": "SI-037",
+    "name": "DAVID-TC",
+    "value": "300€",
+    "page": "37",
+    "image": "images/037_DAVID_TC.jpg",
+    "source": "PDF catalogo",
+    "category": "David-TC",
+    "notes": "DAVID-TC - 300€",
+    "photos": [
+      "images/037_DAVID_TC.jpg"
+    ],
+    "keywords": "300 david dyed garment military tc",
+    "visualScore": 0.6999213723173894
+  },
+  {
+    "id": "SI-038",
+    "name": "LAMY COVER STAMPATO",
+    "value": "650€",
+    "page": "38",
+    "image": "images/038_LAMY_COVER_STAMPATO.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "LAMY COVER STAMPATO - 650€",
+    "photos": [
+      "images/038_LAMY_COVER_STAMPATO.jpg"
+    ],
+    "keywords": "650 cover lamy stampato",
+    "visualScore": 0.8678189735720532
+  },
+  {
+    "id": "SI-039",
+    "name": "MIL_SPEC_FLYING RASO",
+    "value": "300€",
+    "page": "39",
+    "image": "images/039_MIL_SPEC_FLYING_RASO.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "MIL_SPEC_FLYING RASO - 300€",
+    "photos": [
+      "images/039_MIL_SPEC_FLYING_RASO.jpg"
+    ],
+    "keywords": "300 flying mil raso spec",
+    "visualScore": 0.6996255789846202
+  },
+  {
+    "id": "SI-040",
+    "name": "TANK SHIELD FEATURING MULTI LAYER FUSION TECHNOLOGY",
+    "value": "400-450€",
+    "page": "40",
+    "image": "images/040_TANK_SHIELD_FEATURING_MULTI_LAYER_FUSION_TECHNOLOG.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "TANK SHIELD FEATURING MULTI LAYER FUSION TECHNOLOGY - 400-450",
+    "photos": [
+      "images/040_TANK_SHIELD_FEATURING_MULTI_LAYER_FUSION_TECHNOLOG.jpg"
+    ],
+    "keywords": "400 450 featuring fusion layer multi shield tank technology",
+    "visualScore": 0.903304078381829
+  },
+  {
+    "id": "SI-041",
+    "name": "WOOL REPELLENT",
+    "value": "300€",
+    "page": "41",
+    "image": "images/041_WOOL_REPELLENT.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "WOOL REPELLENT - 300€",
+    "photos": [
+      "images/041_WOOL_REPELLENT.jpg"
+    ],
+    "keywords": "300 repellent wool",
+    "visualScore": 0.3891573180319212
+  },
+  {
+    "id": "SI-042",
+    "name": "REVERSE COLOUR PROCESS",
+    "value": "500€",
+    "page": "42",
+    "image": "images/042_REVERSE_COLOUR_PROCESS.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "REVERSE COLOUR PROCESS - 500€",
+    "photos": [
+      "images/042_REVERSE_COLOUR_PROCESS.jpg"
+    ],
+    "keywords": "500 colour process reverse",
+    "visualScore": 0.8822831786447417
+  },
+  {
+    "id": "SI-043",
+    "name": "O-VENTILE WITH PRIMALOFT INSULATION TECHNOLOGY GHOST PIECE",
+    "value": "600€",
+    "page": "43",
+    "image": "images/043_O_VENTILE_WITH_PRIMALOFT_INSULATION_TECHNOLOGY_GHO.jpg",
+    "source": "PDF catalogo",
+    "category": "Ghost Piece",
+    "notes": "O-VENTILE WITH PRIMALOFT INSULATION TECHNOLOGY GHOST PIECE 600€",
+    "photos": [
+      "images/043_O_VENTILE_WITH_PRIMALOFT_INSULATION_TECHNOLOGY_GHO.jpg"
+    ],
+    "keywords": "600 archive badge cotton ghost insulated insulation military monochromatic o outerwear piece primaloft stealth technical technology tonal ventile with",
+    "visualScore": 0.676598999732557
+  },
+  {
+    "id": "SI-044",
+    "name": "TANK SHIELD FEATURING MULTI LAYER FUSION TECHNOLOGY",
+    "value": "450-500€",
+    "page": "44",
+    "image": "images/044_TANK_SHIELD_FEATURING_MULTI_LAYER_FUSION_TECHNOLOG.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "TANK SHIELD FEATURING MULTI LAYER FUSION TECHNOLOGY - 450-500",
+    "photos": [
+      "images/044_TANK_SHIELD_FEATURING_MULTI_LAYER_FUSION_TECHNOLOG.jpg"
+    ],
+    "keywords": "450 500 featuring fusion layer multi shield tank technology",
+    "visualScore": 0.911464997704053
+  },
+  {
+    "id": "SI-045",
+    "name": "REVERSIBLE SS 1995 VINTAGE",
+    "value": "700€",
+    "page": "45",
+    "image": "images/045_REVERSIBLE_SS_1995_VINTAGE.jpg",
+    "source": "PDF catalogo",
+    "category": "Vintage",
+    "notes": "REVERSIBLE SS 1995 VINTAGE - 700€",
+    "photos": [
+      "images/045_REVERSIBLE_SS_1995_VINTAGE.jpg"
+    ],
+    "keywords": "1995 700 reversible ss vintage",
+    "visualScore": 0.8667176221885465
+  },
+  {
+    "id": "SI-046",
+    "name": "O-VENTILE GHOST PIECE",
+    "value": "300€",
+    "page": "46",
+    "image": "images/046_O_VENTILE_GHOST_PIECE.jpg",
+    "source": "PDF catalogo",
+    "category": "Ghost Piece",
+    "notes": "O-VENTILE GHOST PIECE - 300€",
+    "photos": [
+      "images/046_O_VENTILE_GHOST_PIECE.jpg"
+    ],
+    "keywords": "300 archive badge cotton ghost military monochromatic o piece stealth tonal ventile",
+    "visualScore": 0.7848979040311931
+  },
+  {
+    "id": "SI-047",
+    "name": "LIQUID REFLECTIVE",
+    "value": "350€",
+    "page": "47",
+    "image": "images/047_LIQUID_REFLECTIVE.jpg",
+    "source": "PDF catalogo",
+    "category": "Reflective",
+    "notes": "LIQUID REFLECTIVE - 350€",
+    "photos": [
+      "images/047_LIQUID_REFLECTIVE.jpg"
+    ],
+    "keywords": "350 archive bead glass jacket liquid reflective",
+    "visualScore": 0.7823376750092512
+  },
+  {
+    "id": "SI-048",
+    "name": "HAND CORROSION ON RASO",
+    "value": "1200€",
+    "page": "48",
+    "image": "images/048_HAND_CORROSION_ON_RASO.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "HAND CORROSION ON RASO - 1200€",
+    "photos": [
+      "images/048_HAND_CORROSION_ON_RASO.jpg"
+    ],
+    "keywords": "1200 corrosion hand on raso",
+    "visualScore": 0.9411327252134367
+  },
+  {
+    "id": "SI-049",
+    "name": "PIXEL REFLECTIVE",
+    "value": "500-550€",
+    "page": "49",
+    "image": "images/049_PIXEL_REFLECTIVE.jpg",
+    "source": "PDF catalogo",
+    "category": "Reflective",
+    "notes": "PIXEL REFLECTIVE - 500-550€",
+    "photos": [
+      "images/049_PIXEL_REFLECTIVE.jpg"
+    ],
+    "keywords": "500 550 archive bead glass jacket pixel reflective",
+    "visualScore": 0.7630345600015096
+  },
+  {
+    "id": "SI-050",
+    "name": "ICE KNIT",
+    "value": "1700-1800€",
+    "page": "50",
+    "image": "images/050_ICE_KNIT.jpg",
+    "source": "PDF catalogo",
+    "category": "Knit",
+    "notes": "ICE KNIT - 1700-1800€",
+    "photos": [
+      "images/050_ICE_KNIT.jpg"
+    ],
+    "keywords": "1700 1800 ice knit",
+    "visualScore": 0.8504829860298669
+  },
+  {
+    "id": "SI-051",
+    "name": "GORE-TEX PACLITE PRODUCT TECHNOLOGY WITH PRIMALOFT INSULAT",
+    "value": "",
+    "page": "51",
+    "image": "images/051_GORE_TEX_PACLITE_PRODUCT_TECHNOLOGY_WITH_PRIMALOFT.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "GORE-TEX PACLITE PRODUCT TECHNOLOGY WITH PRIMALOFT INSULAT",
+    "photos": [
+      "images/051_GORE_TEX_PACLITE_PRODUCT_TECHNOLOGY_WITH_PRIMALOFT.jpg"
+    ],
+    "keywords": "gore insulat insulated outerwear paclite primaloft product technical technology tex with",
+    "visualScore": 0.761831990464636
+  },
+  {
+    "id": "SI-052",
+    "name": "STONE ISLAND MARINA",
+    "value": "170€",
+    "page": "52",
+    "image": "images/052_STONE_ISLAND_MARINA.jpg",
+    "source": "PDF catalogo",
+    "category": "Marina",
+    "notes": "STONE ISLAND MARINA - 170€",
+    "photos": [
+      "images/052_STONE_ISLAND_MARINA.jpg"
+    ],
+    "keywords": "170 archive island marina nautical sailing stone",
+    "visualScore": 0.6902411741612362
+  },
+  {
+    "id": "SI-053",
+    "name": "STONE ISLAND",
+    "value": "120€",
+    "page": "53",
+    "image": "images/053_STONE_ISLAND.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "STONE ISLAND - 120€",
+    "photos": [
+      "images/053_STONE_ISLAND.jpg"
+    ],
+    "keywords": "120 island stone",
+    "visualScore": 0.8293425817640185
+  },
+  {
+    "id": "SI-055",
+    "name": "HAND CORROSION 550",
+    "value": "600€",
+    "page": "55",
+    "image": "images/055_HAND_CORROSION_550.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "HAND CORROSION 550-600€",
+    "photos": [
+      "images/055_HAND_CORROSION_550.jpg"
+    ],
+    "keywords": "550 600 corrosion hand",
+    "visualScore": 0.9097574663612489
+  },
+  {
+    "id": "SI-056",
+    "name": "PARKA SHADOW",
+    "value": "400€",
+    "page": "56",
+    "image": "images/056_PARKA_SHADOW.jpg",
+    "source": "PDF catalogo",
+    "category": "Shadow Project",
+    "notes": "PARKA SHADOW 400€",
+    "photos": [
+      "images/056_PARKA_SHADOW.jpg"
+    ],
+    "keywords": "400 errolson hugh parka project shadow technical",
+    "visualScore": 0.7728570658446856
+  },
+  {
+    "id": "SI-057",
+    "name": "GIACCA VINTAGE",
+    "value": "300€",
+    "page": "57",
+    "image": "images/057_GIACCA_VINTAGE.jpg",
+    "source": "PDF catalogo",
+    "category": "Vintage",
+    "notes": "GIACCA VINTAGE - 300€",
+    "photos": [
+      "images/057_GIACCA_VINTAGE.jpg"
+    ],
+    "keywords": "300 giacca vintage",
+    "visualScore": 0.4420582134098995
+  },
+  {
+    "id": "SI-058",
+    "name": "T-SHIRT STONE ISLAND",
+    "value": "80€",
+    "page": "58",
+    "image": "images/058_T_SHIRT_STONE_ISLAND.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "T-SHIRT STONE ISLAND 80€",
+    "photos": [
+      "images/058_T_SHIRT_STONE_ISLAND.jpg"
+    ],
+    "keywords": "80 island shirt stone t",
+    "visualScore": 0.7232669866021406
+  },
+  {
+    "id": "SI-059",
+    "name": "GILET REFLECTIVE 450",
+    "value": "500€",
+    "page": "59",
+    "image": "images/059_GILET_REFLECTIVE_450.jpg",
+    "source": "PDF catalogo",
+    "category": "Reflective",
+    "notes": "GILET REFLECTIVE 450-500€",
+    "photos": [
+      "images/059_GILET_REFLECTIVE_450.jpg"
+    ],
+    "keywords": "450 500 archive bead gilet glass jacket reflective",
+    "visualScore": 0.5530931848565661
+  },
+  {
+    "id": "SI-060",
+    "name": "cotone canapa placcato",
+    "value": "450€",
+    "page": "60",
+    "image": "images/060_cotone_canapa_placcato.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "cotone canapa placcato 450€",
+    "photos": [
+      "images/060_cotone_canapa_placcato.jpg"
+    ],
+    "keywords": "450 canapa cotone placcato",
+    "visualScore": 0.5190825300980604
+  },
+  {
+    "id": "SI-061",
+    "name": "PONCHO",
+    "value": "700€",
+    "page": "61",
+    "image": "images/061_PONCHO.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "PONCHO 700€",
+    "photos": [
+      "images/061_PONCHO.jpg"
+    ],
+    "keywords": "700 poncho",
+    "visualScore": 0.8151328712269661
+  },
+  {
+    "id": "SI-062",
+    "name": "maglia nike per stone island",
+    "value": "300€",
+    "page": "62",
+    "image": "images/062_maglia_nike_per_stone_island.jpg",
+    "source": "PDF catalogo",
+    "category": "Knit",
+    "notes": "maglia nike per stone island 300€",
+    "photos": [
+      "images/062_maglia_nike_per_stone_island.jpg"
+    ],
+    "keywords": "300 island maglia nike per stone",
+    "visualScore": 0.6135429014397021
+  },
+  {
+    "id": "SI-063",
+    "name": "bomber shadow",
+    "value": "350€",
+    "page": "63",
+    "image": "images/063_bomber_shadow.jpg",
+    "source": "PDF catalogo",
+    "category": "Shadow Project",
+    "notes": "bomber shadow 350€",
+    "photos": [
+      "images/063_bomber_shadow.jpg"
+    ],
+    "keywords": "350 bomber errolson hugh project shadow technical",
+    "visualScore": 0.7679477036602027
+  },
+  {
+    "id": "SI-064",
+    "name": "giacca azzurra leggera",
+    "value": "200€",
+    "page": "64",
+    "image": "images/064_giacca_azzurra_leggera.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "giacca azzurra leggera 200€",
+    "photos": [
+      "images/064_giacca_azzurra_leggera.jpg"
+    ],
+    "keywords": "200 azzurra giacca leggera",
+    "visualScore": 0.805654620310299
+  },
+  {
+    "id": "SI-065",
+    "name": "sailcloth",
+    "value": "1000€",
+    "page": "65",
+    "image": "images/065_sailcloth.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "sailcloth 1000€",
+    "photos": [
+      "images/065_sailcloth.jpg"
+    ],
+    "keywords": "1000 sailcloth",
+    "visualScore": 0.5482496163165731
+  },
+  {
+    "id": "SI-066",
+    "name": "insegna stone island",
+    "value": "80€",
+    "page": "66",
+    "image": "images/066_insegna_stone_island.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "insegna stone island 80€",
+    "photos": [
+      "images/066_insegna_stone_island.jpg"
+    ],
+    "keywords": "80 insegna island stone",
+    "visualScore": 0.6813342296939784
+  },
+  {
+    "id": "SI-067",
+    "name": "prototype 06 600",
+    "value": "700€",
+    "page": "67",
+    "image": "images/067_prototype_06_600.jpg",
+    "source": "PDF catalogo",
+    "category": "Prototype",
+    "notes": "prototype 06 600-700€",
+    "photos": [
+      "images/067_prototype_06_600.jpg"
+    ],
+    "keywords": "06 600 700 prototype",
+    "visualScore": 0.5680422888672259
+  },
+  {
+    "id": "SI-068",
+    "name": "stone island per supreme",
+    "value": "200€",
+    "page": "68",
+    "image": "images/068_stone_island_per_supreme.jpg",
+    "source": "PDF catalogo",
+    "category": "Supreme",
+    "notes": "stone island per supreme 200€",
+    "photos": [
+      "images/068_stone_island_per_supreme.jpg"
+    ],
+    "keywords": "200 island per stone supreme",
+    "visualScore": 0.7567681981955162
+  },
+  {
+    "id": "SI-069",
+    "name": "WAXED ICE 2",
+    "value": "350/400€",
+    "page": "69",
+    "image": "images/069_WAXED_ICE_2.jpg",
+    "source": "PDF catalogo",
+    "category": "Ice Jacket",
+    "notes": "WAXED ICE 2 - 350/400€",
+    "photos": [
+      "images/069_WAXED_ICE_2.jpg",
+      "/images/imported/item_68_photo_2.jpeg"
+    ],
+    "keywords": "2 350 400 ice waxed",
+    "visualScore": 0.8522975575620224
+  },
+  {
+    "id": "SI-070",
+    "name": "ANORAK 40 ANNIVERSARIO",
+    "value": "1000-1100€",
+    "page": "70",
+    "image": "images/070_ANORAK_40_ANNIVERSARIO.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "ANORAK 40 ANNIVERSARIO - 1000-1100€",
+    "photos": [
+      "images/070_ANORAK_40_ANNIVERSARIO.jpg"
+    ],
+    "keywords": "1000 1100 40 anniversario anorak",
+    "visualScore": 0.7535434042554914
+  },
+  {
+    "id": "SI-071",
+    "name": "METAL MESH PVD NANOTECHNOLOGY 1600",
+    "value": "1700€",
+    "page": "71",
+    "image": "images/071_METAL_MESH_PVD_NANOTECHNOLOGY_1600.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "METAL MESH PVD NANOTECHNOLOGY 1600-1700€",
+    "photos": [
+      "images/071_METAL_MESH_PVD_NANOTECHNOLOGY_1600.jpg"
+    ],
+    "keywords": "1600 1700 mesh metal nanotechnology pvd",
+    "visualScore": 0.8447383887787436
+  },
+  {
+    "id": "SI-072",
+    "name": "Stone Island Isola Di Pietra SS83 Plated Fleece 700",
+    "value": "800€",
+    "page": "72",
+    "image": "images/072_Stone_Island_Isola_Di_Pietra_SS83_Plated_Fleece_70.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "Stone Island Isola Di Pietra SS83 Plated Fleece 700-800€",
+    "photos": [
+      "images/072_Stone_Island_Isola_Di_Pietra_SS83_Plated_Fleece_70.jpg"
+    ],
+    "keywords": "700 800 di fleece island isola pietra plated ss83 stone",
+    "visualScore": 0.7538036000703435
+  },
+  {
+    "id": "SI-073",
+    "name": "HAND PAINTED CORROSION",
+    "value": "600€",
+    "page": "73",
+    "image": "images/073_HAND_PAINTED_CORROSION.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "HAND PAINTED CORROSION 600€ | Foto aggiunta: Hand Painted Corrosion field jacket",
+    "photos": [
+      "images/073_HAND_PAINTED_CORROSION.jpg",
+      "images/hand_painted_corrosion_field_jacket.jpeg"
+    ],
+    "keywords": "600 aggiunta corrosion field foto hand jacket painted",
+    "visualScore": 0.6963174221019981
+  },
+  {
+    "id": "SI-074",
+    "name": "MEMBRANA + OXFORD 3L WITH DUST COLOUR FINISH",
+    "value": "550-600",
+    "page": "74",
+    "image": "images/074_MEMBRANA_OXFORD_3L_WITH_DUST_COLOUR_FINISH_600_E.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "MEMBRANA + OXFORD 3L WITH DUST COLOUR FINISH",
+    "photos": [
+      "images/074_MEMBRANA_OXFORD_3L_WITH_DUST_COLOUR_FINISH_600_E.jpg"
+    ],
+    "keywords": "3l 550 600 colour dust finish membrana oxford with",
+    "visualScore": 0.7440746266402659
+  },
+  {
+    "id": "SI-075",
+    "name": "TELA PARACADUTE",
+    "value": "220€",
+    "page": "75",
+    "image": "images/075_TELA_PARACADUTE.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "TELA PARACADUTE 220€",
+    "photos": [
+      "images/075_TELA_PARACADUTE.jpg"
+    ],
+    "keywords": "220 paracadute tela",
+    "visualScore": 0.6719214776690337
+  },
+  {
+    "id": "SI-076",
+    "name": "STONE ISLAND MARINA",
+    "value": "300€",
+    "page": "76",
+    "image": "images/076_STONE_ISLAND_MARINA.jpg",
+    "source": "PDF catalogo",
+    "category": "Marina",
+    "notes": "STONE ISLAND MARINA 300€",
+    "photos": [
+      "images/076_STONE_ISLAND_MARINA.jpg"
+    ],
+    "keywords": "300 archive island marina nautical sailing stone",
+    "visualScore": 0.6852594517815669
+  },
+  {
+    "id": "SI-077",
+    "name": "PARKA VINTAGE",
+    "value": "280€",
+    "page": "77",
+    "image": "images/077_PARKA_VINTAGE.jpg",
+    "source": "PDF catalogo",
+    "category": "Vintage",
+    "notes": "PARKA VINTAGE - 280€",
+    "photos": [
+      "images/077_PARKA_VINTAGE.jpg"
+    ],
+    "keywords": "280 parka vintage",
+    "visualScore": 0.7587353984037108
+  },
+  {
+    "id": "SI-078",
+    "name": "TRENCH STONE ISLAND RASO-R",
+    "value": "250€",
+    "page": "78",
+    "image": "images/078_TRENCH_STONE_ISLAND_RASO_R.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "TRENCH STONE ISLAND RASO-R 250€",
+    "photos": [
+      "images/078_TRENCH_STONE_ISLAND_RASO_R.jpg"
+    ],
+    "keywords": "250 island r raso stone trench",
+    "visualScore": 0.8371049903769793
+  },
+  {
+    "id": "SI-079",
+    "name": "FELPA STONE ISLAND 180",
+    "value": "200€",
+    "page": "79",
+    "image": "images/079_FELPA_STONE_ISLAND_180.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "FELPA STONE ISLAND 180-200€",
+    "photos": [
+      "images/079_FELPA_STONE_ISLAND_180.jpg"
+    ],
+    "keywords": "180 200 felpa island stone",
+    "visualScore": 0.6707464403863009
+  },
+  {
+    "id": "SI-080",
+    "name": "CANVAS PLACCATO",
+    "value": "300€",
+    "page": "80",
+    "image": "images/080_CANVAS_PLACCATO.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "CANVAS PLACCATO 300€",
+    "photos": [
+      "images/080_CANVAS_PLACCATO.jpg"
+    ],
+    "keywords": "300 canvas placcato",
+    "visualScore": 0.7266776841768715
+  },
+  {
+    "id": "SI-081",
+    "name": "TELA FLOCK-TC WITH GHILLIE LASER CAMO",
+    "value": "300€",
+    "page": "81",
+    "image": "images/081_TELA_FLOCK_TC_WITH_GHILLIE_LASER_CAMO.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "TELA FLOCK-TC WITH GHILLIE LASER CAMO 300€",
+    "photos": [
+      "images/081_TELA_FLOCK_TC_WITH_GHILLIE_LASER_CAMO.jpg"
+    ],
+    "keywords": "300 camo flock ghillie laser tc tela with",
+    "visualScore": 0.5841397181015416
+  },
+  {
+    "id": "SI-082",
+    "name": "FORMULA STEEL PARKA",
+    "value": "450€",
+    "page": "82",
+    "image": "images/082_FORMULA_STEEL_PARKA.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "FORMULA STEEL PARKA 450€",
+    "photos": [
+      "images/082_FORMULA_STEEL_PARKA.jpg"
+    ],
+    "keywords": "450 formula parka steel",
+    "visualScore": 0.643110726817268
+  },
+  {
+    "id": "SI-083",
+    "name": "NYLON COTTON 3L GHOST PIECE",
+    "value": "300€",
+    "page": "83",
+    "image": "images/083_NYLON_COTTON_3L_GHOST_PIECE.jpg",
+    "source": "PDF catalogo",
+    "category": "Ghost Piece",
+    "notes": "NYLON COTTON 3L GHOST PIECE 300€",
+    "photos": [
+      "images/083_NYLON_COTTON_3L_GHOST_PIECE.jpg"
+    ],
+    "keywords": "300 3l badge cotton ghost military monochromatic nylon piece stealth tonal",
+    "visualScore": 0.889760142858687
+  },
+  {
+    "id": "SI-084",
+    "name": "SUPREME ICE",
+    "value": "700€",
+    "page": "84",
+    "image": "images/084_SUPREME_ICE.jpg",
+    "source": "PDF catalogo",
+    "category": "Supreme",
+    "notes": "SUPREME ICE 700€",
+    "photos": [
+      "images/084_SUPREME_ICE.jpg"
+    ],
+    "keywords": "700 ice supreme",
+    "visualScore": 0.6516341081697408
+  },
+  {
+    "id": "SI-085",
+    "name": "O-VENTILE GHOST PIECE",
+    "value": "550€",
+    "page": "85",
+    "image": "images/085_O_VENTILE_GHOST_PIECE.jpg",
+    "source": "PDF catalogo",
+    "category": "Ghost Piece",
+    "notes": "O-VENTILE GHOST PIECE 550€",
+    "photos": [
+      "images/085_O_VENTILE_GHOST_PIECE.jpg"
+    ],
+    "keywords": "550 archive badge cotton ghost military monochromatic o piece stealth tonal ventile",
+    "visualScore": 0.6352812605073743
+  },
+  {
+    "id": "SI-086",
+    "name": "GARMENT DYED PIXEL REFLECTIVE 450",
+    "value": "500€",
+    "page": "86",
+    "image": "images/086_GARMENT_DYED_PIXEL_REFLECTIVE_450.jpg",
+    "source": "PDF catalogo",
+    "category": "Reflective",
+    "notes": "GARMENT DYED PIXEL REFLECTIVE 450-500€",
+    "photos": [
+      "images/086_GARMENT_DYED_PIXEL_REFLECTIVE_450.jpg"
+    ],
+    "keywords": "450 500 archive bead dyed garment glass jacket pixel reflective",
+    "visualScore": 0.6949617030907783
+  },
+  {
+    "id": "SI-087",
+    "name": "BOMBER SHADOW DPM CHINÈ",
+    "value": "500€",
+    "page": "87",
+    "image": "images/087_BOMBER_SHADOW_DPM_CHIN.jpg",
+    "source": "PDF catalogo",
+    "category": "Shadow Project",
+    "notes": "BOMBER SHADOW DPM CHINÈ 500€",
+    "photos": [
+      "images/087_BOMBER_SHADOW_DPM_CHIN.jpg"
+    ],
+    "keywords": "500 bomber chine dpm errolson hugh project shadow technical",
+    "visualScore": 0.8385754537308157
+  },
+  {
+    "id": "SI-088",
+    "name": "BRUSHED COTTON 2C CAMO - OVD",
+    "value": "700€",
+    "page": "88",
+    "image": "images/088_BRUSHED_COTTON_2C_CAMO_OVD.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "BRUSHED COTTON 2C CAMO - OVD 700€",
+    "photos": [
+      "images/088_BRUSHED_COTTON_2C_CAMO_OVD.jpg"
+    ],
+    "keywords": "2c 700 brushed camo cotton ovd",
+    "visualScore": 0.8353352501551907
+  },
+  {
+    "id": "SI-089",
+    "name": "PERTEX QUANTUM Y DOWN",
+    "value": "400€",
+    "page": "89",
+    "image": "images/089_PERTEX_QUANTUM_Y_DOWN.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "PERTEX QUANTUM Y DOWN - 400€",
+    "photos": [
+      "images/089_PERTEX_QUANTUM_Y_DOWN.jpg"
+    ],
+    "keywords": "400 down pertex quantum y",
+    "visualScore": 0.8838995389478059
+  },
+  {
+    "id": "SI-090",
+    "name": "PRINTED HEAT REACTIVE THERMOSENSITIVE FABRIC 550",
+    "value": "600€",
+    "page": "90",
+    "image": "images/090_PRINTED_HEAT_REACTIVE_THERMOSENSITIVE_FABRIC_550.jpg",
+    "source": "PDF catalogo",
+    "category": "Ice Jacket",
+    "notes": "PRINTED HEAT REACTIVE THERMOSENSITIVE FABRIC 550-600€",
+    "photos": [
+      "images/090_PRINTED_HEAT_REACTIVE_THERMOSENSITIVE_FABRIC_550.jpg"
+    ],
+    "keywords": "550 600 fabric heat printed reactive thermosensitive",
+    "visualScore": 0.766642495037984
+  },
+  {
+    "id": "SI-091",
+    "name": "REFLECTIVE BULL DENIM TC",
+    "value": "1000€",
+    "page": "91",
+    "image": "images/091_REFLECTIVE_BULL_DENIM_TC.jpg",
+    "source": "PDF catalogo",
+    "category": "Reflective",
+    "notes": "REFLECTIVE BULL DENIM TC 1000€",
+    "photos": [
+      "images/091_REFLECTIVE_BULL_DENIM_TC.jpg"
+    ],
+    "keywords": "1000 archive bead bull denim glass jacket reflective tc",
+    "visualScore": 0.7347249992098621
+  },
+  {
+    "id": "SI-092",
+    "name": "PAINTBALL CAMO COTTON CORDURA",
+    "value": "800€",
+    "page": "92",
+    "image": "images/092_PAINTBALL_CAMO_COTTON_CORDURA.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "PAINTBALL CAMO COTTON CORDURA 800€",
+    "photos": [
+      "images/092_PAINTBALL_CAMO_COTTON_CORDURA.jpg"
+    ],
+    "keywords": "800 camo cordura cotton paintball",
+    "visualScore": 0.8130544382908049
+  },
+  {
+    "id": "SI-093",
+    "name": "CORDUROY 800 DOWN WITH DUST COLOUR FROST FINISH",
+    "value": "600€",
+    "page": "93",
+    "image": "images/093_CORDUROY_800_DOWN_WITH_DUST_COLOUR_FROST_FINISH.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "CORDUROY 800 DOWN WITH DUST COLOUR FROST FINISH - 600€",
+    "photos": [
+      "images/093_CORDUROY_800_DOWN_WITH_DUST_COLOUR_FROST_FINISH.jpg"
+    ],
+    "keywords": "600 800 colour corduroy down dust finish frost with",
+    "visualScore": 0.7726497058375784
+  },
+  {
+    "id": "SI-094",
+    "name": "SUEDE SHEEPSKIN 1800",
+    "value": "2000€",
+    "page": "94",
+    "image": "images/094_SUEDE_SHEEPSKIN_1800.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "SUEDE SHEEPSKIN 1800-2000€",
+    "photos": [
+      "images/094_SUEDE_SHEEPSKIN_1800.jpg"
+    ],
+    "keywords": "1800 2000 sheepskin suede",
+    "visualScore": 0.8870899025902166
+  },
+  {
+    "id": "SI-095",
+    "name": "SUPREME X STONE ISLAND NYLON METAL CAMO",
+    "value": "250€",
+    "page": "95",
+    "image": "images/095_SUPREME_X_STONE_ISLAND_NYLON_METAL_CAMO.jpg",
+    "source": "PDF catalogo",
+    "category": "Supreme",
+    "notes": "SUPREME X STONE ISLAND NYLON METAL CAMO 250€",
+    "photos": [
+      "images/095_SUPREME_X_STONE_ISLAND_NYLON_METAL_CAMO.jpg"
+    ],
+    "keywords": "250 camo island metal nylon stone supreme x",
+    "visualScore": 0.7931217204183041
+  },
+  {
+    "id": "SI-096",
+    "name": "DAVID-TC",
+    "value": "300€",
+    "page": "96",
+    "image": "images/096_DAVID_TC.jpg",
+    "source": "PDF catalogo",
+    "category": "David-TC",
+    "notes": "DAVID-TC 300€",
+    "photos": [
+      "images/096_DAVID_TC.jpg"
+    ],
+    "keywords": "300 david dyed garment military tc",
+    "visualScore": 0.7203913214849422
+  },
+  {
+    "id": "SI-097",
+    "name": "MIL_SPEC_FLYING RASO",
+    "value": "300€",
+    "page": "97",
+    "image": "images/097_MIL_SPEC_FLYING_RASO.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "MIL_SPEC_FLYING RASO 300€",
+    "photos": [
+      "images/097_MIL_SPEC_FLYING_RASO.jpg"
+    ],
+    "keywords": "300 flying mil raso spec",
+    "visualScore": 0.7012705288879375
+  },
+  {
+    "id": "SI-098",
+    "name": "MAGLIONE GHOST 150€O",
+    "value": "",
+    "page": "98",
+    "image": "images/098_MAGLIONE_GHOST_150_O.jpg",
+    "source": "PDF catalogo",
+    "category": "Ghost Piece",
+    "notes": "MAGLIONE GHOST 150€O",
+    "photos": [
+      "images/098_MAGLIONE_GHOST_150_O.jpg"
+    ],
+    "keywords": "150 ghost maglione o",
+    "visualScore": 0.7479522056694987
+  },
+  {
+    "id": "SI-099",
+    "name": "GIACCA DENIM VINTAGE",
+    "value": "800€",
+    "page": "99",
+    "image": "images/099_GIACCA_DENIM_VINTAGE.jpg",
+    "source": "PDF catalogo",
+    "category": "Vintage",
+    "notes": "GIACCA DENIM VINTAGE - 800€",
+    "photos": [
+      "images/099_GIACCA_DENIM_VINTAGE.jpg"
+    ],
+    "keywords": "800 denim giacca vintage",
+    "visualScore": 0.7793339783825579
+  },
+  {
+    "id": "SI-100",
+    "name": "K SHIELD GHOST PIECE FEATURING MULTI LAYER FUSION TECHNOLOGY",
+    "value": "3€",
+    "page": "100",
+    "image": "images/100_K_SHIELD_GHOST_PIECE_FEATURING_MULTI_LAYER_FUSION.jpg",
+    "source": "PDF catalogo",
+    "category": "Ghost Piece",
+    "notes": "K SHIELD GHOST PIECE FEATURING MULTI LAYER FUSION TECHNOLOGY - 3",
+    "photos": [
+      "images/100_K_SHIELD_GHOST_PIECE_FEATURING_MULTI_LAYER_FUSION.jpg"
+    ],
+    "keywords": "3 badge featuring fusion ghost k layer military monochromatic multi piece shield stealth technology tonal",
+    "visualScore": 0.795196787891592
+  },
+  {
+    "id": "SI-101",
+    "name": "NYLON SMERIGLIATO AND KNIT GHOST PIECE",
+    "value": "400€",
+    "page": "101",
+    "image": "images/101_NYLON_SMERIGLIATO_AND_KNIT_GHOST_PIECE.jpg",
+    "source": "PDF catalogo",
+    "category": "Ghost Piece",
+    "notes": "NYLON SMERIGLIATO AND KNIT GHOST PIECE - 400€",
+    "photos": [
+      "images/101_NYLON_SMERIGLIATO_AND_KNIT_GHOST_PIECE.jpg"
+    ],
+    "keywords": "400 and badge ghost knit military monochromatic nylon piece smerigliato stealth tonal",
+    "visualScore": 0.8356310448795035
+  },
+  {
+    "id": "SI-102",
+    "name": "OPAQUE NYLON TWILL DOWN-TC",
+    "value": "300€",
+    "page": "102",
+    "image": "images/102_OPAQUE_NYLON_TWILL_DOWN_TC.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "OPAQUE NYLON TWILL DOWN-TC - 300€",
+    "photos": [
+      "images/102_OPAQUE_NYLON_TWILL_DOWN_TC.jpg"
+    ],
+    "keywords": "300 down nylon opaque tc twill",
+    "visualScore": 0.792477457427944
+  },
+  {
+    "id": "SI-103",
+    "name": "STONE ISLAND CORROSION CREW KNIT",
+    "value": "600€",
+    "page": "103",
+    "image": "images/103_STONE_ISLAND_CORROSION_CREW_KNIT.jpg",
+    "source": "PDF catalogo",
+    "category": "Knit",
+    "notes": "STONE ISLAND CORROSION CREW KNIT - 600€",
+    "photos": [
+      "images/103_STONE_ISLAND_CORROSION_CREW_KNIT.jpg"
+    ],
+    "keywords": "600 corrosion crew island knit stone",
+    "visualScore": 0.8984981693066911
+  },
+  {
+    "id": "SI-104",
+    "name": "COTTON RIPSTOP ICE JACKET CAMOUFLAGE",
+    "value": "750€",
+    "page": "104",
+    "image": "images/104_COTTON_RIPSTOP_ICE_JACKET_CAMOUFLAGE.jpg",
+    "source": "PDF catalogo",
+    "category": "Ice Jacket",
+    "notes": "COTTON RIPSTOP ICE JACKET CAMOUFLAGE - 750€",
+    "photos": [
+      "images/104_COTTON_RIPSTOP_ICE_JACKET_CAMOUFLAGE.jpg"
+    ],
+    "keywords": "750 archive camouflage cotton garment heat ice jacket reactive ripstop thermosensitive",
+    "visualScore": 0.8216887680339621
+  },
+  {
+    "id": "SI-105",
+    "name": "COMFORT TECH NIKE X STONE ISLAND",
+    "value": "350€",
+    "page": "105",
+    "image": "images/105_COMFORT_TECH_NIKE_X_STONE_ISLAND.jpg",
+    "source": "PDF catalogo",
+    "category": "Nike",
+    "notes": "COMFORT TECH NIKE X STONE ISLAND - 350€",
+    "photos": [
+      "images/105_COMFORT_TECH_NIKE_X_STONE_ISLAND.jpg"
+    ],
+    "keywords": "350 comfort island nike stone tech x",
+    "visualScore": 0.915226097200537
+  },
+  {
+    "id": "SI-106",
+    "name": "TRENCH STONE ISLAND (CON VINYL COVER) - 300€ /",
+    "value": "1000€",
+    "page": "106",
+    "image": "images/106_TRENCH_STONE_ISLAND_CON_VINYL_COVER_300.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "TRENCH STONE ISLAND (CON VINYL COVER) - 300€ / 1000€",
+    "photos": [
+      "images/106_TRENCH_STONE_ISLAND_CON_VINYL_COVER_300.jpg"
+    ],
+    "keywords": "1000 300 con cover island stone trench vinyl",
+    "visualScore": 0.8755190609567258
+  },
+  {
+    "id": "SI-107",
+    "name": "MEMBRANA 3L TC",
+    "value": "250€",
+    "page": "107",
+    "image": "images/107_MEMBRANA_3L_TC.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "MEMBRANA 3L TC - 250€",
+    "photos": [
+      "images/107_MEMBRANA_3L_TC.jpg"
+    ],
+    "keywords": "250 3l membrana tc",
+    "visualScore": 0.9209419617978669
+  },
+  {
+    "id": "SI-108",
+    "name": "TELA STELLA 30 ANNI",
+    "value": "1.400€",
+    "page": "108",
+    "image": "images/108_TELA_STELLA_30_ANNI.jpg",
+    "source": "PDF catalogo",
+    "category": "Tela Stella",
+    "notes": "TELA STELLA 30 ANNI - 1.400€",
+    "photos": [
+      "images/108_TELA_STELLA_30_ANNI.jpg"
+    ],
+    "keywords": "1 30 400 anni archive coat experimental garment jacket massimo osti stella tela",
+    "visualScore": 0.822238855978314
+  },
+  {
+    "id": "SI-109",
+    "name": "CARPENTER",
+    "value": "1.000€",
+    "page": "109",
+    "image": "images/109_CARPENTER.jpg",
+    "source": "PDF catalogo",
+    "category": "Archive",
+    "notes": "CARPENTER - 1.000€",
+    "photos": [
+      "images/109_CARPENTER.jpg"
+    ],
+    "keywords": "000 1 archive carpenter massimo osti workwear",
+    "visualScore": 0.8405663462001192
+  },
+  {
+    "id": "SI-110",
+    "name": "CARPENTER",
+    "value": "700€",
+    "page": "110",
+    "image": "images/110_CARPENTER.jpg",
+    "source": "PDF catalogo",
+    "category": "Archive",
+    "notes": "CARPENTER - 700€",
+    "photos": [
+      "images/110_CARPENTER.jpg"
+    ],
+    "keywords": "700 archive carpenter massimo osti workwear",
+    "visualScore": 0.8132110488970614
+  },
+  {
+    "id": "SI-111",
+    "name": "PAINTBALL CAMO COTTON/CORDURA",
+    "value": "800€",
+    "page": "111",
+    "image": "images/111_PAINTBALL_CAMO_COTTON_CORDURA.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "PAINTBALL CAMO COTTON/CORDURA - 800€",
+    "photos": [
+      "images/111_PAINTBALL_CAMO_COTTON_CORDURA.jpg"
+    ],
+    "keywords": "800 camo cordura cotton paintball",
+    "visualScore": 0.8787684737690225
+  },
+  {
+    "id": "SI-112",
+    "name": "MARINA 40 ANNI RASO GOMMATO COVER COLORATO BIO",
+    "value": "1.000€",
+    "page": "112",
+    "image": "images/112_MARINA_40_ANNI_RASO_GOMMATO_COVER_COLORATO_BIO.jpg",
+    "source": "PDF catalogo",
+    "category": "Marina",
+    "notes": "MARINA 40 ANNI RASO GOMMATO COVER COLORATO BIO - 1.000€",
+    "photos": [
+      "images/112_MARINA_40_ANNI_RASO_GOMMATO_COVER_COLORATO_BIO.jpg"
+    ],
+    "keywords": "000 1 40 anni archive bio colorato cover gommato marina nautical raso sailing",
+    "visualScore": 0.7151315487480999
+  },
+  {
+    "id": "SI-113",
+    "name": "BLACK GARMENT DYED CRINKLE REPS NY DOWN AW2018",
+    "value": "300-350€",
+    "page": "113",
+    "image": "images/113_BLACK_GARMENT_DYED_CRINKLE_REPS_NY_DOWN_AW2018.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "BLACK GARMENT DYED CRINKLE REPS NY DOWN AW2018 - 300-350€",
+    "photos": [
+      "images/113_BLACK_GARMENT_DYED_CRINKLE_REPS_NY_DOWN_AW2018.jpg"
+    ],
+    "keywords": "300 350 aw2018 black crinkle down dyed garment ny reps",
+    "visualScore": 0.7015315736065616
+  },
+  {
+    "id": "SI-114",
+    "name": "MICRO REPS DOWN",
+    "value": "400€",
+    "page": "114",
+    "image": "images/114_MICRO_REPS_DOWN.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "MICRO REPS DOWN - 400€",
+    "photos": [
+      "images/114_MICRO_REPS_DOWN.jpg"
+    ],
+    "keywords": "400 down micro reps",
+    "visualScore": 0.8192650532159592
+  },
+  {
+    "id": "SI-115",
+    "name": "3L PERFORMANCE COTTON: GHOST PIECE",
+    "value": "350€",
+    "page": "115",
+    "image": "images/115_3L_PERFORMANCE_COTTON_GHOST_PIECE.jpg",
+    "source": "PDF catalogo",
+    "category": "Ghost Piece",
+    "notes": "3L PERFORMANCE COTTON: GHOST PIECE - 350€",
+    "photos": [
+      "images/115_3L_PERFORMANCE_COTTON_GHOST_PIECE.jpg"
+    ],
+    "keywords": "350 3l badge cotton ghost military monochromatic performance piece stealth tonal",
+    "visualScore": 0.7995224440961037
+  },
+  {
+    "id": "SI-116",
+    "name": "RUBBER WAX POPLIN DOWN MARINA AW2023",
+    "value": "500€",
+    "page": "116",
+    "image": "images/116_RUBBER_WAX_POPLIN_DOWN_MARINA_AW2023.jpg",
+    "source": "PDF catalogo",
+    "category": "Marina",
+    "notes": "RUBBER WAX POPLIN DOWN MARINA AW2023 - 500€",
+    "photos": [
+      "images/116_RUBBER_WAX_POPLIN_DOWN_MARINA_AW2023.jpg"
+    ],
+    "keywords": "500 archive aw2023 down marina nautical poplin rubber sailing wax",
+    "visualScore": 0.8040197186010714
+  },
+  {
+    "id": "SI-117",
+    "name": "ANTHRACITE DAVID TC FIELD JACKET AW2013",
+    "value": "300€",
+    "page": "117",
+    "image": "images/117_ANTHRACITE_DAVID_TC_FIELD_JACKET_AW2013.jpg",
+    "source": "PDF catalogo",
+    "category": "David-TC",
+    "notes": "ANTHRACITE DAVID TC FIELD JACKET AW2013 - 300€",
+    "photos": [
+      "images/117_ANTHRACITE_DAVID_TC_FIELD_JACKET_AW2013.jpg"
+    ],
+    "keywords": "300 anthracite aw2013 david dyed field garment jacket military tc",
+    "visualScore": 0.7469526459198094
+  },
+  {
+    "id": "SI-118",
+    "name": "LIGHT COTTON NYLON TWILL SS2017",
+    "value": "250-300€",
+    "page": "118",
+    "image": "images/118_LIGHT_COTTON_NYLON_TWILL_SS2017.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "LIGHT COTTON NYLON TWILL SS2017 - 250-300€",
+    "photos": [
+      "images/118_LIGHT_COTTON_NYLON_TWILL_SS2017.jpg"
+    ],
+    "keywords": "250 300 cotton light nylon ss2017 twill",
+    "visualScore": 0.7449379534919476
+  },
+  {
+    "id": "SI-119",
+    "name": "EMBROIDERED LOGO HEAVY COTTON SHORTS SS2022",
+    "value": "180€",
+    "page": "119",
+    "image": "images/119_EMBROIDERED_LOGO_HEAVY_COTTON_SHORTS_SS2022.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "EMBROIDERED LOGO HEAVY COTTON SHORTS SS2022 - 180€",
+    "photos": [
+      "images/119_EMBROIDERED_LOGO_HEAVY_COTTON_SHORTS_SS2022.jpg"
+    ],
+    "keywords": "180 cotton embroidered heavy logo shorts ss2022",
+    "visualScore": 0.8096369155657792
+  },
+  {
+    "id": "SI-120",
+    "name": "MONTGOMERY",
+    "value": "450€",
+    "page": "120",
+    "image": "images/120_MONTGOMERY.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "MONTGOMERY - 450€",
+    "photos": [
+      "images/120_MONTGOMERY.jpg"
+    ],
+    "keywords": "450 montgomery",
+    "visualScore": 0.7636789450574121
+  },
+  {
+    "id": "SI-121",
+    "name": "PIUMINO",
+    "value": "400€",
+    "page": "121",
+    "image": "images/121_PIUMINO.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "PIUMINO - 400€",
+    "photos": [
+      "images/121_PIUMINO.jpg"
+    ],
+    "keywords": "400 piumino",
+    "visualScore": 0.8474610609267661
+  },
+  {
+    "id": "SI-122",
+    "name": "VINTAGE STONE ISLAND SCRIPT LOGO TURTLENECK SWEATER MAGLIA",
+    "value": "150€",
+    "page": "122",
+    "image": "images/122_VINTAGE_STONE_ISLAND_SCRIPT_LOGO_TURTLENECK_SWEATE.jpg",
+    "source": "PDF catalogo",
+    "category": "Vintage",
+    "notes": "VINTAGE STONE ISLAND SCRIPT LOGO TURTLENECK SWEATER MAGLIA - 150€",
+    "photos": [
+      "images/122_VINTAGE_STONE_ISLAND_SCRIPT_LOGO_TURTLENECK_SWEATE.jpg"
+    ],
+    "keywords": "150 island logo maglia script stone sweater turtleneck vintage",
+    "visualScore": 0.8133884812006337
+  },
+  {
+    "id": "SI-123",
+    "name": "MAGLIA STONE ISLAND",
+    "value": "180€",
+    "page": "123",
+    "image": "images/123_MAGLIA_STONE_ISLAND.jpg",
+    "source": "PDF catalogo",
+    "category": "Knit",
+    "notes": "MAGLIA STONE ISLAND - 180€",
+    "photos": [
+      "images/123_MAGLIA_STONE_ISLAND.jpg"
+    ],
+    "keywords": "180 island maglia stone",
+    "visualScore": 0.7368055056090808
+  },
+  {
+    "id": "SI-124",
+    "name": "TRENCH STONE ISLAND",
+    "value": "250-300€",
+    "page": "124",
+    "image": "images/124_TRENCH_STONE_ISLAND.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "TRENCH STONE ISLAND - 250-300€",
+    "photos": [
+      "images/124_TRENCH_STONE_ISLAND.jpg"
+    ],
+    "keywords": "250 300 island stone trench",
+    "visualScore": 0.8760652792931474
+  },
+  {
+    "id": "SI-125",
+    "name": "TRYLON-R SHADOW",
+    "value": "250€",
+    "page": "125",
+    "image": "images/125_TRYLON_R_SHADOW.jpg",
+    "source": "PDF catalogo",
+    "category": "Shadow Project",
+    "notes": "TRYLON-R SHADOW - 250€",
+    "photos": [
+      "images/125_TRYLON_R_SHADOW.jpg"
+    ],
+    "keywords": "250 errolson hugh project r shadow technical trylon",
+    "visualScore": 0.7259320791512484
+  },
+  {
+    "id": "SI-126",
+    "name": "TRENCH",
+    "value": "250-300€",
+    "page": "126",
+    "image": "images/126_TRENCH.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "TRENCH - 250-300€",
+    "photos": [
+      "images/126_TRENCH.jpg"
+    ],
+    "keywords": "250 300 trench",
+    "visualScore": 0.758991674595765
+  },
+  {
+    "id": "SI-127",
+    "name": "O-VENTILE GHOST PIECE",
+    "value": "400€",
+    "page": "127",
+    "image": "images/127_O_VENTILE_GHOST_PIECE.jpg",
+    "source": "PDF catalogo",
+    "category": "Ghost Piece",
+    "notes": "O-VENTILE GHOST PIECE - 400€",
+    "photos": [
+      "images/127_O_VENTILE_GHOST_PIECE.jpg"
+    ],
+    "keywords": "400 archive badge cotton ghost military monochromatic o piece stealth tonal ventile",
+    "visualScore": 0.8294391499857439
+  },
+  {
+    "id": "SI-128",
+    "name": "3L PERFORMANCE COTTON GHOST PIECE",
+    "value": "350€",
+    "page": "128",
+    "image": "images/128_3L_PERFORMANCE_COTTON_GHOST_PIECE.jpg",
+    "source": "PDF catalogo",
+    "category": "Ghost Piece",
+    "notes": "3L PERFORMANCE COTTON GHOST PIECE - 350€",
+    "photos": [
+      "images/128_3L_PERFORMANCE_COTTON_GHOST_PIECE.jpg"
+    ],
+    "keywords": "350 3l badge cotton ghost military monochromatic performance piece stealth tonal",
+    "visualScore": 0.8225014547564413
+  },
+  {
+    "id": "SI-129",
+    "name": "GIACCA DI PELLE SHADOW",
+    "value": "1000€",
+    "page": "129",
+    "image": "images/129_GIACCA_DI_PELLE_SHADOW.jpg",
+    "source": "PDF catalogo",
+    "category": "Shadow Project",
+    "notes": "GIACCA DI PELLE SHADOW - 1000€",
+    "photos": [
+      "images/129_GIACCA_DI_PELLE_SHADOW.jpg"
+    ],
+    "keywords": "1000 di errolson giacca hugh pelle project shadow technical",
+    "visualScore": 0.7803201296605298
+  },
+  {
+    "id": "SI-130",
+    "name": "PARKA STONE ISLAND",
+    "value": "350€",
+    "page": "130",
+    "image": "images/130_PARKA_STONE_ISLAND.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "PARKA STONE ISLAND - 350€",
+    "photos": [
+      "images/130_PARKA_STONE_ISLAND.jpg"
+    ],
+    "keywords": "350 island parka stone",
+    "visualScore": 0.726442633828112
+  },
+  {
+    "id": "SI-131",
+    "name": "DAVID TC",
+    "value": "300€",
+    "page": "131",
+    "image": "images/131_DAVID_TC.jpg",
+    "source": "PDF catalogo",
+    "category": "David-TC",
+    "notes": "DAVID TC - 300€",
+    "photos": [
+      "images/131_DAVID_TC.jpg"
+    ],
+    "keywords": "300 david dyed garment military tc",
+    "visualScore": 0.8385103843147965
+  },
+  {
+    "id": "SI-132",
+    "name": "MARINA",
+    "value": "350€",
+    "page": "132",
+    "image": "images/132_MARINA.jpg",
+    "source": "PDF catalogo",
+    "category": "Marina",
+    "notes": "MARINA - 350€",
+    "photos": [
+      "images/132_MARINA.jpg"
+    ],
+    "keywords": "350 archive marina nautical sailing",
+    "visualScore": 0.8639278809532209
+  },
+  {
+    "id": "SI-133",
+    "name": "MAGLIONE",
+    "value": "150€",
+    "page": "133",
+    "image": "images/133_MAGLIONE.jpg",
+    "source": "PDF catalogo",
+    "category": "Knit",
+    "notes": "MAGLIONE - 150€",
+    "photos": [
+      "images/133_MAGLIONE.jpg"
+    ],
+    "keywords": "150 maglione",
+    "visualScore": 0.7263000553322754
+  },
+  {
+    "id": "SI-134",
+    "name": "FELPA MARINA",
+    "value": "200€",
+    "page": "134",
+    "image": "images/134_FELPA_MARINA.jpg",
+    "source": "PDF catalogo",
+    "category": "Marina",
+    "notes": "FELPA MARINA - 200€",
+    "photos": [
+      "images/134_FELPA_MARINA.jpg"
+    ],
+    "keywords": "200 archive felpa marina nautical sailing",
+    "visualScore": 0.7874783622591777
+  },
+  {
+    "id": "SI-135",
+    "name": "WATER REPELLENT WOOL GHOST PIECE",
+    "value": "450€",
+    "page": "135",
+    "image": "images/135_WATER_REPELLENT_WOOL_GHOST_PIECE.jpg",
+    "source": "PDF catalogo",
+    "category": "Ghost Piece",
+    "notes": "WATER REPELLENT WOOL GHOST PIECE - 450€",
+    "photos": [
+      "images/135_WATER_REPELLENT_WOOL_GHOST_PIECE.jpg"
+    ],
+    "keywords": "450 badge ghost military monochromatic piece repellent stealth tonal water wool",
+    "visualScore": 0.8297804645139761
+  },
+  {
+    "id": "SI-136",
+    "name": "SUPREME",
+    "value": "800-850€",
+    "page": "136",
+    "image": "images/136_SUPREME.jpg",
+    "source": "PDF catalogo",
+    "category": "Supreme",
+    "notes": "SUPREME - 800-850€",
+    "photos": [
+      "images/136_SUPREME.jpg"
+    ],
+    "keywords": "800 850 supreme",
+    "visualScore": 0.7892104813552202
+  },
+  {
+    "id": "SI-137",
+    "name": "ICE JACKET",
+    "value": "650€",
+    "page": "137",
+    "image": "images/137_ICE_JACKET.jpg",
+    "source": "PDF catalogo",
+    "category": "Ice Jacket",
+    "notes": "ICE JACKET - 650€",
+    "photos": [
+      "images/137_ICE_JACKET.jpg"
+    ],
+    "keywords": "650 archive garment heat ice jacket reactive thermosensitive",
+    "visualScore": 0.943039580648247
+  },
+  {
+    "id": "SI-138",
+    "name": "DAVID TC",
+    "value": "330€",
+    "page": "138",
+    "image": "images/138_DAVID_TC.jpg",
+    "source": "PDF catalogo",
+    "category": "David-TC",
+    "notes": "DAVID TC - 330€",
+    "photos": [
+      "images/138_DAVID_TC.jpg"
+    ],
+    "keywords": "330 david dyed garment military tc",
+    "visualScore": 0.8355542028719307
+  },
+  {
+    "id": "SI-139",
+    "name": "DAVID-TC WITH PRIMALOFT® INSULATION TECHNOLOGY",
+    "value": "250€",
+    "page": "139",
+    "image": "images/139_DAVID_TC_WITH_PRIMALOFT_INSULATION_TECHNOLOGY.jpg",
+    "source": "PDF catalogo",
+    "category": "David-TC",
+    "notes": "DAVID-TC WITH PRIMALOFT® INSULATION TECHNOLOGY - 250€",
+    "photos": [
+      "images/139_DAVID_TC_WITH_PRIMALOFT_INSULATION_TECHNOLOGY.jpg"
+    ],
+    "keywords": "250 david dyed garment insulated insulation military outerwear primaloft tc technical technology with",
+    "visualScore": 0.6927767211905569
+  },
+  {
+    "id": "SI-140",
+    "name": "PANAMA TINTO TERRA CLOSED LOOP PROJECT",
+    "value": "550€",
+    "page": "140",
+    "image": "images/140_PANAMA_TINTO_TERRA_CLOSED_LOOP_PROJECT.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "PANAMA TINTO TERRA CLOSED LOOP PROJECT - 550€",
+    "photos": [
+      "images/140_PANAMA_TINTO_TERRA_CLOSED_LOOP_PROJECT.jpg"
+    ],
+    "keywords": "550 closed loop panama project terra tinto",
+    "visualScore": 0.854203373535837
+  },
+  {
+    "id": "SI-141",
+    "name": "DAVID-TC",
+    "value": "250-300€",
+    "page": "141",
+    "image": "images/141_DAVID_TC.jpg",
+    "source": "PDF catalogo",
+    "category": "David-TC",
+    "notes": "DAVID-TC - 250-300€",
+    "photos": [
+      "images/141_DAVID_TC.jpg"
+    ],
+    "keywords": "250 300 david dyed garment military tc",
+    "visualScore": 0.7939564635062627
+  },
+  {
+    "id": "SI-142",
+    "name": "CORDUROY FROST",
+    "value": "700-750€",
+    "page": "142",
+    "image": "images/142_CORDUROY_FROST.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "CORDUROY FROST - 700-750€",
+    "photos": [
+      "images/142_CORDUROY_FROST.jpg"
+    ],
+    "keywords": "700 750 corduroy frost",
+    "visualScore": 0.8060935837901777
+  },
+  {
+    "id": "SI-143",
+    "name": "MAGLIONE LONGSLEEVE",
+    "value": "180-200€",
+    "page": "143",
+    "image": "images/143_MAGLIONE_LONGSLEEVE.jpg",
+    "source": "PDF catalogo",
+    "category": "Knit",
+    "notes": "MAGLIONE LONGSLEEVE - 180-200€",
+    "photos": [
+      "images/143_MAGLIONE_LONGSLEEVE.jpg"
+    ],
+    "keywords": "180 200 longsleeve maglione",
+    "visualScore": 0.7068644611462767
+  },
+  {
+    "id": "SI-144",
+    "name": "ICE JACKET 1990",
+    "value": "1000€",
+    "page": "144",
+    "image": "images/144_ICE_JACKET_1990.jpg",
+    "source": "PDF catalogo",
+    "category": "Ice Jacket",
+    "notes": "ICE JACKET 1990 - 1000€",
+    "photos": [
+      "images/144_ICE_JACKET_1990.jpg"
+    ],
+    "keywords": "1000 1990 archive garment heat ice jacket reactive thermosensitive",
+    "visualScore": 0.8435960432253699
+  },
+  {
+    "id": "SI-145",
+    "name": "CARPENTER",
+    "value": "850€",
+    "page": "145",
+    "image": "images/145_CARPENTER.jpg",
+    "source": "PDF catalogo",
+    "category": "Archive",
+    "notes": "CARPENTER - 850€",
+    "photos": [
+      "images/145_CARPENTER.jpg"
+    ],
+    "keywords": "850 archive carpenter massimo osti workwear",
+    "visualScore": 0.7096674203991707
+  },
+  {
+    "id": "SI-146",
+    "name": "MARINA REFLECTIVE",
+    "value": "450€",
+    "page": "146",
+    "image": "images/146_MARINA_REFLECTIVE.jpg",
+    "source": "PDF catalogo",
+    "category": "Reflective",
+    "notes": "MARINA REFLECTIVE - 450€",
+    "photos": [
+      "images/146_MARINA_REFLECTIVE.jpg"
+    ],
+    "keywords": "450 archive bead glass jacket marina nautical reflective sailing",
+    "visualScore": 0.6999749045984374
+  },
+  {
+    "id": "SI-147",
+    "name": "GIACCA NERA",
+    "value": "250€",
+    "page": "147",
+    "image": "images/147_GIACCA_NERA.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "GIACCA NERA - 250€",
+    "photos": [
+      "images/147_GIACCA_NERA.jpg"
+    ],
+    "keywords": "250 giacca nera",
+    "visualScore": 0.7764522048713038
+  },
+  {
+    "id": "SI-148",
+    "name": "CORDUROY NERO",
+    "value": "220-250€",
+    "page": "148",
+    "image": "images/148_CORDUROY_NERO.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "CORDUROY NERO - 220-250€",
+    "photos": [
+      "images/148_CORDUROY_NERO.jpg"
+    ],
+    "keywords": "220 250 corduroy nero",
+    "visualScore": 0.6267683827770546
+  },
+  {
+    "id": "SI-149",
+    "name": "GARMENT DYED CRYNKLE REPS NY DOWN",
+    "value": "300€",
+    "page": "149",
+    "image": "images/149_GARMENT_DYED_CRYNKLE_REPS_NY_DOWN.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "GARMENT DYED CRYNKLE REPS NY DOWN - 300€",
+    "photos": [
+      "images/149_GARMENT_DYED_CRYNKLE_REPS_NY_DOWN.jpg"
+    ],
+    "keywords": "300 crynkle down dyed garment ny reps",
+    "visualScore": 0.8174301678386261
+  },
+  {
+    "id": "SI-150",
+    "name": "GILET SHADOW NASLAN LIGHT",
+    "value": "450€",
+    "page": "150",
+    "image": "images/150_GILET_SHADOW_NASLAN_LIGHT.jpg",
+    "source": "PDF catalogo",
+    "category": "Shadow Project",
+    "notes": "GILET SHADOW NASLAN LIGHT - 450€",
+    "photos": [
+      "images/150_GILET_SHADOW_NASLAN_LIGHT.jpg"
+    ],
+    "keywords": "450 errolson gilet hugh light naslan project shadow technical",
+    "visualScore": 0.7984695329146991
+  },
+  {
+    "id": "SI-151",
+    "name": "MAGLIONE VINTAGE BORDEAU",
+    "value": "120€",
+    "page": "151",
+    "image": "images/151_MAGLIONE_VINTAGE_BORDEAU.jpg",
+    "source": "PDF catalogo",
+    "category": "Vintage",
+    "notes": "MAGLIONE VINTAGE BORDEAU - 120€",
+    "photos": [
+      "images/151_MAGLIONE_VINTAGE_BORDEAU.jpg"
+    ],
+    "keywords": "120 bordeau maglione vintage",
+    "visualScore": 0.49994432783563
+  },
+  {
+    "id": "SI-152",
+    "name": "GIACCA VINTAGE BADGE GREEN",
+    "value": "200-250€",
+    "page": "152",
+    "image": "images/152_GIACCA_VINTAGE_BADGE_GREEN.jpg",
+    "source": "PDF catalogo",
+    "category": "Vintage",
+    "notes": "GIACCA VINTAGE BADGE GREEN - 200-250€",
+    "photos": [
+      "images/152_GIACCA_VINTAGE_BADGE_GREEN.jpg"
+    ],
+    "keywords": "200 250 badge giacca green vintage",
+    "visualScore": 0.6913504625974429
+  },
+  {
+    "id": "SI-153",
+    "name": "TRENCH COMPACT VINTAGE",
+    "value": "220€",
+    "page": "153",
+    "image": "images/153_TRENCH_COMPACT_VINTAGE.jpg",
+    "source": "PDF catalogo",
+    "category": "Vintage",
+    "notes": "TRENCH COMPACT VINTAGE - 220€",
+    "photos": [
+      "images/153_TRENCH_COMPACT_VINTAGE.jpg"
+    ],
+    "keywords": "220 compact trench vintage",
+    "visualScore": 0.8971037271992222
+  },
+  {
+    "id": "SI-154",
+    "name": "MAGLIONE SHADOW BIANCO",
+    "value": "170€",
+    "page": "154",
+    "image": "images/154_MAGLIONE_SHADOW_BIANCO.jpg",
+    "source": "PDF catalogo",
+    "category": "Shadow Project",
+    "notes": "MAGLIONE SHADOW BIANCO - 170€",
+    "photos": [
+      "images/154_MAGLIONE_SHADOW_BIANCO.jpg"
+    ],
+    "keywords": "170 bianco errolson hugh maglione project shadow technical",
+    "visualScore": 0.7661446217550496
+  },
+  {
+    "id": "SI-155",
+    "name": "GIUBBINO BLU",
+    "value": "300€",
+    "page": "155",
+    "image": "images/155_GIUBBINO_BLU.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "GIUBBINO BLU - 300€",
+    "photos": [
+      "images/155_GIUBBINO_BLU.jpg"
+    ],
+    "keywords": "300 blu giubbino",
+    "visualScore": 0.7014399904734374
+  },
+  {
+    "id": "SI-156",
+    "name": "CLOSE LOOP TINTO TERRA (JASON STATHAM)",
+    "value": "450€",
+    "page": "156",
+    "image": "images/156_CLOSE_LOOP_TINTO_TERRA_JASON_STATHAM.jpg",
+    "source": "PDF catalogo",
+    "category": "",
+    "notes": "CLOSE LOOP TINTO TERRA (JASON STATHAM) - 450€",
+    "photos": [
+      "images/156_CLOSE_LOOP_TINTO_TERRA_JASON_STATHAM.jpg"
+    ],
+    "keywords": "450 close jason loop statham terra tinto",
+    "visualScore": 0.7795415860438902
+  },
+  {
+    "id": "SI-157",
+    "name": "TELA STELLA",
+    "value": "700€",
+    "page": "157",
+    "image": "images/157_TELA_STELLA.jpg",
+    "source": "PDF catalogo",
+    "category": "Tela Stella",
+    "notes": "TELA STELLA - 700€",
+    "photos": [
+      "images/157_TELA_STELLA.jpg"
+    ],
+    "keywords": "700 archive coat experimental garment jacket massimo osti stella tela",
+    "visualScore": 0.6381852753583663
+  },
+  {
+    "id": "158",
+    "name": "Alcantara Ghost Piece",
+    "value": "900€",
+    "page": "",
+    "image": "/images/imported/item_157_photo_1.png",
+    "source": "Chat database",
+    "category": "Ghost Piece",
+    "notes": "Record manuale: foto non ancora esportata nella app locale.",
+    "photos": [
+      "/images/imported/item_157_photo_1.png"
+    ],
+    "keywords": "900 alcantara ancora app badge esportata foto ghost locale manuale military monochromatic nella non piece record stealth tonal",
+    "visualScore": 0.7481052499899308
+  },
+  {
+    "id": "165",
+    "name": "Pure metal shell",
+    "value": "1000-2000€",
+    "page": "",
+    "image": "/images/imported/item_158_photo_1.jpeg",
+    "source": "Chat database",
+    "category": "Archive",
+    "notes": "Record manuale: foto non ancora esportata nella app locale.",
+    "photos": [
+      "/images/imported/item_158_photo_1.jpeg"
+    ],
+    "keywords": "1000-2000€ ancora app archive esportata foto locale. manuale: metal nella non pure record shell",
+    "visualScore": 0.8597773862501072
+  },
+  {
+    "id": "166",
+    "name": "Raso Gommato Militare Camo Supreme",
+    "value": "3500-4000€",
+    "page": "",
+    "image": "/images/imported/item_159_photo_1.jpeg",
+    "source": "Chat database",
+    "category": "Supreme",
+    "notes": "Record manuale: foto non ancora esportata nella app locale.",
+    "photos": [
+      "/images/imported/item_159_photo_1.jpeg"
+    ],
+    "keywords": "3500 4000 ancora app camo esportata foto gommato locale manuale militare nella non raso record supreme",
+    "visualScore": 0.8997394493401254
+  },
+  {
+    "id": "169",
+    "name": "Rex",
+    "value": "1500-1800€",
+    "page": "",
+    "image": "/images/imported/item_160_photo_1.jpeg",
+    "source": "Chat database",
+    "category": "Archive",
+    "notes": "Record manuale: foto non ancora esportata nella app locale.",
+    "photos": [
+      "/images/imported/item_160_photo_1.jpeg"
+    ],
+    "keywords": "1500 1800 ancora app archive esportata foto locale manuale nella non record rex",
+    "visualScore": 0.8971764726364513
+  },
+  {
+    "id": "171",
+    "name": "Raso gommato cover colorato",
+    "value": "3000-3500€",
+    "page": "",
+    "image": "/images/imported/item_161_photo_1.jpeg",
+    "source": "Chat database",
+    "category": "Raso",
+    "notes": "Record manuale: foto non ancora esportata nella app locale.",
+    "photos": [
+      "/images/imported/item_161_photo_1.jpeg"
+    ],
+    "keywords": "3000 3500 ancora app colorato cover esportata foto gommato locale manuale nella non raso record",
+    "visualScore": 0.6354724239580654
+  },
+  {
+    "id": "175",
+    "name": "Stone Island SS2011 Tyveck Micro Ripstop Bomber Jacket",
+    "value": "220€",
+    "page": "",
+    "image": "/images/imported/item_162_photo_1.jpeg",
+    "category": "Archive",
+    "source": "Chat database",
+    "notes": "Size XXL | Immagine chat: file_00000000666071f4a3fff4a8e0e580db",
+    "keywords": "00000000666071f4a3fff4a8e0e580db 220 archive bomber chat file immagine island jacket micro ripstop size ss2011 stone tyveck xxl",
+    "photos": [
+      "/images/imported/item_162_photo_1.jpeg"
+    ],
+    "visualScore": 0.706141091136624
+  },
+  {
+    "id": "176",
+    "name": "Stone Island x Supreme Cotton Ripstop Ice Jacket Camouflage",
+    "value": "800€",
+    "page": "",
+    "image": "/images/imported/item_163_photo_1.jpeg",
+    "category": "Supreme",
+    "source": "Chat database",
+    "notes": "Size S | Immagine chat: file_0000000089fc71f49e662bf6b4a4e641",
+    "keywords": "0000000089fc71f49e662bf6b4a4e641 800 archive camouflage chat cotton file garment heat ice immagine island jacket reactive ripstop s size stone supreme thermosensitive x",
+    "photos": [
+      "/images/imported/item_163_photo_1.jpeg"
+    ],
+    "visualScore": 0.6328450878514891
+  },
+  {
+    "id": "178",
+    "name": "Stone Island 80s Vintage Blue Reflective Spellout Denim Vest",
+    "value": "450€",
+    "page": "",
+    "image": "/images/imported/item_164_photo_1.jpeg",
+    "category": "Reflective",
+    "source": "Chat database",
+    "notes": "Vintage reflective denim vest | Immagine chat: file_0000000083c47243b0764e74bf0ba3c9",
+    "keywords": "0000000083c47243b0764e74bf0ba3c9 450 80s archive bead blue chat denim file glass immagine island jacket reflective spellout stone vest vintage",
+    "photos": [
+      "/images/imported/item_164_photo_1.jpeg",
+      "/images/imported/item_164_photo_2.jpeg"
+    ],
+    "visualScore": 0.7054495755047282
+  },
+  {
+    "id": "186",
+    "name": "Ice Jacket M65",
+    "value": "2000€",
+    "page": "",
+    "image": "/images/imported/item_165_photo_1.jpeg",
+    "category": "Ice Jacket",
+    "source": "Chat database",
+    "notes": "",
+    "keywords": "2000 archive garment heat ice jacket m65 reactive thermosensitive",
+    "photos": [
+      "/images/imported/item_165_photo_1.jpeg"
+    ],
+    "visualScore": 0.8332360962883182
+  },
+  {
+    "id": "188",
+    "name": "Tela Stella coat ss1982",
+    "value": "1750€",
+    "page": "",
+    "image": "/images/imported/item_166_photo_1.jpeg",
+    "category": "Tela Stella",
+    "source": "Chat database",
+    "notes": "",
+    "keywords": "1750 archive coat experimental garment jacket massimo osti ss1982 stella tela",
+    "photos": [
+      "/images/imported/item_166_photo_1.jpeg"
+    ],
+    "visualScore": 0.7986286882101937
+  },
+  {
+    "id": "202",
+    "name": "Antiqued Reflective",
+    "value": "450€",
+    "page": "",
+    "image": "/images/imported/item_167_photo_1.jpeg",
+    "category": "Reflective",
+    "source": "Chat database",
+    "notes": "Reflective Jacket N°269 | Immagine chat: file_00000000a07871f78de6103a18a203d9",
+    "keywords": "00000000a07871f78de6103a18a203d9 269 450 antiqued archive bead chat file glass immagine jacket n reflective",
+    "photos": [
+      "/images/imported/item_167_photo_1.jpeg"
+    ],
+    "visualScore": 0.9470659742316121
+  },
+  {
+    "id": "203",
+    "name": "Tela Stella 982",
+    "value": "4500-5000€",
+    "page": "",
+    "image": "images/tela_stella_982_green_red_origins.jpeg",
+    "category": "Tela Stella",
+    "source": "Chat database",
+    "notes": "SS 1982 oversized Tela Stella garment | Immagine chat: file_00000000f6dc71f5b0b1ca671bad1404 | Foto aggiunta: Tela Stella S/S '982 verde/rosso Origins Massimo Osti | Foto aggiunta: variante bianca Tela Stella S/S '982 con descrizione tecnica",
+    "keywords": "1982 4500-5000€ 982 archive coat experimental garment jacket massimo osti oversized ss stella tela",
+    "photos": [
+      "images/tela_stella_982_green_red_origins.jpeg",
+      "images/tela_stella_982_white_poncho_text.jpeg"
+    ],
+    "visualScore": 0.8910279442031854
+  },
+  {
+    "id": "204",
+    "name": "SHADOW PROJECT 49157224 CATEGORY_PROOF STEALTH COAT GORE-TEX PRO SHELL",
+    "value": "1000€",
+    "page": "",
+    "image": "images/shadow_project_49157224_stealth_coat_goretex.jpeg",
+    "category": "Shadow Project",
+    "source": "Chat database",
+    "notes": "A/W 2008-2009 | Immagine chat: file_00000000fb8071f79fbc497bd353d1a2 | Foto aggiunta: 49157224 Stealth Coat Gore-Tex Pro Shell",
+    "keywords": "1000€ 2008-2009 49157224 a/w category_proof coat errolson gore-tex hugh pro project shadow shell stealth technical",
+    "photos": [
+      "images/shadow_project_49157224_stealth_coat_goretex.jpeg"
+    ],
+    "visualScore": 0.8938787787615716
+  },
+  {
+    "id": "205",
+    "name": "SHADOW PROJECT 49154YZ5 CATEGORY_RESIST STEALTH JACKET RASO-R",
+    "value": "1000€",
+    "page": "",
+    "image": "images/shadow_project_49154yz5_stealth_jacket_raso_r.jpeg",
+    "category": "Shadow Project",
+    "source": "Chat database",
+    "notes": "A/W 2008-2009 | Foto aggiunta: 49154YZ5 Stealth Jacket Raso-R",
+    "keywords": "1000€ 2008-2009 49154yz5 a/w aggiunta: category_resist errolson foto hugh jacket project raso-r shadow stealth technical |",
+    "photos": [
+      "images/shadow_project_49154yz5_stealth_jacket_raso_r.jpeg"
+    ],
+    "visualScore": 0.9117209682004204
+  },
+  {
+    "id": "206",
+    "name": "SHADOW PROJECT 811940803 FIELD JACKET DPM GRID-R",
+    "value": "500€",
+    "page": "",
+    "image": "images/shadow_project_811940603_field_jacket_dpm_grid_r.jpeg",
+    "category": "Shadow Project",
+    "source": "Chat database",
+    "notes": "A/W 2014-2015 | Immagine chat: file_00000000463c71f58ccd4fe697e2ae35 | Foto aggiunta: 811940603 Field Jacket DPM Grid-R",
+    "keywords": "2014-2015 500€ 811940803 a/w dpm errolson field grid-r hugh jacket project shadow technical",
+    "photos": [
+      "images/shadow_project_811940603_field_jacket_dpm_grid_r.jpeg"
+    ],
+    "visualScore": 0.8759072076125123
+  },
+  {
+    "id": "207",
+    "name": "Dyneema ice jacket",
+    "value": "1500-1600€",
+    "page": "",
+    "image": "images/dyneema_thermosensitive_leather_jacket.jpeg",
+    "category": "Ice Jacket",
+    "source": "Chat database",
+    "notes": "Dyneema Ice Jacket | Immagine chat: file_00000000a96871f7a3af18ec441a3e26 | Foto aggiunta: Dyneema thermosensitive leather",
+    "keywords": "1500-1600€ archive dyneema garment heat ice jacket reactive thermosensitive",
+    "photos": [
+      "images/dyneema_thermosensitive_leather_jacket.jpeg"
+    ],
+    "visualScore": 0.8857602506430919
+  },
+  {
+    "id": "208",
+    "name": "Tela stella s/s 983 Cotton Canvas",
+    "value": "2000-2500€",
+    "page": "",
+    "image": "images/tela_stella_ss983_cotton_canvas.jpeg",
+    "category": "Tela Stella",
+    "source": "Chat database",
+    "notes": "SS 1983 cotton canvas | Immagine chat: file_0000000011a871f7abedb65c56159e94 | Foto aggiunta: Tela Stella S/S 983 Cotton Canvas",
+    "keywords": "1983 2000-2500€ 983 archive canvas coat cotton experimental garment jacket massimo osti s/s ss stella tela",
+    "photos": [
+      "images/tela_stella_ss983_cotton_canvas.jpeg"
+    ],
+    "visualScore": 0.8923652391377921
+  },
+  {
+    "id": "209",
+    "name": "Jock 23 983-984 cotton canvas",
+    "value": "2500€",
+    "page": "",
+    "image": "/images/imported/item_174_photo_1.jpeg",
+    "category": "Jock",
+    "source": "Chat database",
+    "notes": "Jock 23 cotton canvas | Immagine chat: file_00000000ba5071f79e98f2ab9af85029",
+    "keywords": "00000000ba5071f79e98f2ab9af85029 23 2500 983 984 canvas chat cotton file immagine jock",
+    "photos": [
+      "/images/imported/item_174_photo_1.jpeg"
+    ],
+    "visualScore": 0.8621850333126178
+  },
+  {
+    "id": "210",
+    "name": "Reflective",
+    "value": "2500€",
+    "page": "",
+    "image": "/images/imported/item_175_photo_1.jpeg",
+    "category": "Reflective",
+    "source": "Chat database",
+    "notes": "Archive reflective | Immagine chat: file_000000008d6071f7a851b1b409e5b1c2",
+    "keywords": "000000008d6071f7a851b1b409e5b1c2 2500 archive bead chat file glass immagine jacket reflective",
+    "photos": [
+      "/images/imported/item_175_photo_1.jpeg"
+    ],
+    "visualScore": 0.9286897378606584
+  },
+  {
+    "id": "211",
+    "name": "WRQ WATER RESISTANT QUILTING",
+    "value": "700€",
+    "page": "",
+    "image": "/images/imported/item_176_photo_1.jpeg",
+    "category": "Archive",
+    "source": "Chat database",
+    "notes": "Water resistant quilting | Immagine chat: file_00000000ed6071f79be780f5c841308e",
+    "keywords": "00000000ed6071f79be780f5c841308e 700 archive chat file immagine quilting resistant water wrq",
+    "photos": [
+      "/images/imported/item_176_photo_1.jpeg"
+    ],
+    "visualScore": 0.8603909912059746
+  },
+  {
+    "id": "212",
+    "name": "Rubber",
+    "value": "600€",
+    "page": "",
+    "image": "/images/imported/item_177_photo_1.jpeg",
+    "category": "Archive",
+    "source": "Chat database",
+    "notes": "Rubber archive piece | Immagine chat: file_00000000a59471f59bd99096441953e9",
+    "keywords": "00000000a59471f59bd99096441953e9 600 archive chat file immagine piece rubber",
+    "photos": [
+      "/images/imported/item_177_photo_1.jpeg"
+    ],
+    "visualScore": 0.8617011408189879
+  },
+  {
+    "id": "214",
+    "name": "Kevlar",
+    "value": "550€",
+    "page": "",
+    "image": "/images/imported/item_178_photo_1.jpeg",
+    "category": "Archive",
+    "source": "Chat database",
+    "notes": "Kevlar archive piece | Immagine chat: file_00000000118c71f585fac401d06b4d47",
+    "keywords": "00000000118c71f585fac401d06b4d47 550 archive chat file immagine kevlar piece",
+    "photos": [
+      "/images/imported/item_178_photo_1.jpeg"
+    ],
+    "visualScore": 0.9101680542853737
+  },
+  {
+    "id": "215",
+    "name": "Opaque nylon tela 30 gr",
+    "value": "1000€",
+    "page": "",
+    "image": "/images/imported/item_179_photo_1.jpeg",
+    "category": "Archive",
+    "source": "Chat database",
+    "notes": "With upper vest/harness | Immagine chat: file_000000004bec71f7a459b49985fc004a",
+    "keywords": "000000004bec71f7a459b49985fc004a 1000 30 archive chat file gr harness immagine nylon opaque tela upper vest with",
+    "photos": [
+      "/images/imported/item_179_photo_1.jpeg"
+    ],
+    "visualScore": 0.9097935438159475
+  },
+  {
+    "id": "216",
+    "name": "David Tc Sublimation Print",
+    "value": "700€",
+    "page": "",
+    "image": "/images/imported/item_180_photo_1.jpeg",
+    "category": "David-TC",
+    "source": "Chat database",
+    "notes": "David TC sublimation print | Immagine chat: file_00000000e4f871f59f5e6ce42079de24",
+    "keywords": "00000000e4f871f59f5e6ce42079de24 700 chat david dyed file garment immagine military print sublimation tc",
+    "photos": [
+      "/images/imported/item_180_photo_1.jpeg"
+    ],
+    "visualScore": 0.9176924296715057
+  },
+  {
+    "id": "218",
+    "name": "Parka Waxed ice",
+    "value": "700€",
+    "page": "",
+    "image": "/images/imported/item_181_photo_1.jpeg",
+    "category": "Ice Jacket",
+    "source": "Chat database",
+    "notes": "Waxed ice | Immagine chat: file_0000000052d471f7b1d8314cad218773",
+    "keywords": "0000000052d471f7b1d8314cad218773 700 chat file ice immagine parka waxed",
+    "photos": [
+      "/images/imported/item_181_photo_1.jpeg"
+    ],
+    "visualScore": 0.8427560442280883
+  },
+  {
+    "id": "219",
+    "name": "Mussola prismatica",
+    "value": "700-750€",
+    "page": "",
+    "image": "/images/imported/item_182_photo_1.jpeg",
+    "category": "Mussola",
+    "source": "Chat database",
+    "notes": "Mussola prismatica | Immagine chat: file_0000000000cc71f596d99ec672d337c5",
+    "keywords": "0000000000cc71f596d99ec672d337c5 700 750 chat file immagine mussola prismatica",
+    "photos": [
+      "/images/imported/item_182_photo_1.jpeg"
+    ],
+    "visualScore": 0.88353721394716
+  },
+  {
+    "id": "220",
+    "name": "Raso gommato reverse colour process",
+    "value": "350€",
+    "page": "",
+    "image": "/images/imported/item_183_photo_1.jpeg",
+    "category": "Raso",
+    "source": "Chat database",
+    "notes": "Reverse colour process | Immagine chat: file_00000000bd1871f59b535114f29aecfd",
+    "keywords": "00000000bd1871f59b535114f29aecfd 350 chat colour file gommato immagine process raso reverse",
+    "photos": [
+      "/images/imported/item_183_photo_1.jpeg"
+    ],
+    "visualScore": 0.8761363940629306
+  },
+  {
+    "id": "221",
+    "name": "Reflective knit with windstopper 3L",
+    "value": "2500€",
+    "page": "",
+    "image": "/images/imported/item_184_photo_1.jpeg",
+    "category": "Reflective",
+    "source": "Chat database",
+    "notes": "Reflective knit | Immagine chat: file_0000000083a871f5823ca3ffed30b35a",
+    "keywords": "0000000083a871f5823ca3ffed30b35a 2500 3l archive bead chat file glass immagine jacket knit reflective windstopper with",
+    "photos": [
+      "/images/imported/item_184_photo_1.jpeg"
+    ],
+    "visualScore": 0.9088247034574246
+  },
+  {
+    "id": "222",
+    "name": "Poly cover",
+    "value": "750€",
+    "page": "",
+    "image": "/images/imported/item_185_photo_1.jpeg",
+    "category": "Poly Cover",
+    "source": "Chat database",
+    "notes": "Poly cover | Immagine chat: file_000000005af071f781a8477a6fd90429",
+    "keywords": "000000005af071f781a8477a6fd90429 750 chat cover file immagine poly",
+    "photos": [
+      "/images/imported/item_185_photo_1.jpeg"
+    ],
+    "visualScore": 0.9507907276310162
+  },
+  {
+    "id": "223",
+    "name": "Hand corrosion on raso",
+    "value": "1300€",
+    "page": "",
+    "image": "/images/imported/item_186_photo_1.jpeg",
+    "category": "Raso",
+    "source": "Chat database",
+    "notes": "White/red hand corrosion | Immagine chat: file_0000000060b871f7adaa126d6d5d8e87",
+    "keywords": "0000000060b871f7adaa126d6d5d8e87 1300 chat corrosion file hand immagine on raso red white",
+    "photos": [
+      "/images/imported/item_186_photo_1.jpeg"
+    ],
+    "visualScore": 0.917417537765909
+  },
+  {
+    "id": "224",
+    "name": "Ice Knit",
+    "value": "2000€",
+    "page": "",
+    "image": "/images/imported/item_187_photo_1.jpeg",
+    "category": "Ice Jacket",
+    "source": "Chat database",
+    "notes": "Red Ice Knit | Immagine chat: file_00000000daa071f79ce94b2368390be0",
+    "keywords": "00000000daa071f79ce94b2368390be0 2000 chat file ice immagine knit red",
+    "photos": [
+      "/images/imported/item_187_photo_1.jpeg"
+    ],
+    "visualScore": 0.9147435244711097
+  },
+  {
+    "id": "225",
+    "name": "Harris tweed with polymorphic ice",
+    "value": "2500€",
+    "page": "",
+    "image": "/images/imported/item_188_photo_1.jpeg",
+    "category": "Ice Jacket",
+    "source": "Chat database",
+    "notes": "Harris tweed with polymorphic ice | Immagine chat: file_0000000005a871f5ab1be0148d8d0eb2",
+    "keywords": "0000000005a871f5ab1be0148d8d0eb2 2500 chat file harris ice immagine polymorphic tweed with",
+    "photos": [
+      "/images/imported/item_188_photo_1.jpeg"
+    ],
+    "visualScore": 0.9013685617523213
+  },
+  {
+    "id": "226",
+    "name": "Tank shield wool stretch multi layer fusion technology",
+    "value": "450€",
+    "page": "",
+    "image": "/images/imported/item_189_photo_1.jpeg",
+    "category": "Tank Shield",
+    "source": "Chat database",
+    "notes": "Tank Shield wool stretch | Immagine chat: file_000000004b4071f784b235f77833f422",
+    "keywords": "000000004b4071f784b235f77833f422 450 chat file fusion immagine layer multi shield stretch tank technology wool",
+    "photos": [
+      "/images/imported/item_189_photo_1.jpeg"
+    ],
+    "visualScore": 0.8774650984785772
+  },
+  {
+    "id": "228",
+    "name": "Prototype n.1",
+    "value": "4500-5000€",
+    "page": "",
+    "image": "/images/imported/item_190_photo_1.jpeg",
+    "category": "Prototype",
+    "source": "Chat database",
+    "notes": "Highly reflective long anorak | Immagine chat: file_00000000392871f78d79f78d6308ce42",
+    "keywords": "00000000392871f78d79f78d6308ce42 1 4500 5000 anorak chat file highly immagine long n prototype reflective",
+    "photos": [
+      "/images/imported/item_190_photo_1.jpeg"
+    ],
+    "visualScore": 0.934262381029662
+  },
+  {
+    "id": "229",
+    "name": "Prototype n.2",
+    "value": "3500€",
+    "page": "",
+    "image": "/images/imported/item_191_photo_1.jpeg",
+    "category": "Prototype",
+    "source": "Chat database",
+    "notes": "Orange prototype set | Immagine chat: file_00000000893871f5b590245ac414450e",
+    "keywords": "00000000893871f5b590245ac414450e 2 3500 chat file immagine n orange prototype set",
+    "photos": [
+      "/images/imported/item_191_photo_1.jpeg"
+    ],
+    "visualScore": 0.8977413932845868
+  },
+  {
+    "id": "230",
+    "name": "Prototype n.3",
+    "value": "3500€",
+    "page": "",
+    "image": "/images/imported/item_192_photo_1.jpeg",
+    "category": "Prototype",
+    "source": "Chat database",
+    "notes": "Purple/red prototype parka | Immagine chat: file_00000000022071f59c7442a03aef74c3",
+    "keywords": "3500€ n.3 parka prototype purple/red",
+    "photos": [
+      "/images/imported/item_192_photo_1.jpeg"
+    ],
+    "visualScore": 0.923123694804163
+  },
+  {
+    "id": "231",
+    "name": "Anorak Supreme rosso",
+    "value": "1500€",
+    "page": "",
+    "image": "/images/imported/item_193_photo_1.jpeg",
+    "category": "Supreme",
+    "source": "Chat database",
+    "notes": "Supreme Nylon Metal 5C Anorak | Immagine chat: file_000000001cc471f7860507691c635383",
+    "keywords": "000000001cc471f7860507691c635383 1500 5c anorak chat file immagine metal nylon rosso supreme",
+    "photos": [
+      "/images/imported/item_193_photo_1.jpeg"
+    ],
+    "visualScore": 0.9020013101623261
+  },
+  {
+    "id": "232",
+    "name": "New Silk Light",
+    "value": "900-1000€",
+    "page": "",
+    "image": "/images/imported/item_194_photo_1.jpeg",
+    "category": "Supreme",
+    "source": "Chat database",
+    "notes": "Red glossy Supreme New Silk Light | Immagine chat: file_00000000d4e071f78fc09fcace8f8e13",
+    "keywords": "00000000d4e071f78fc09fcace8f8e13 1000 900 chat file glossy immagine light new red silk supreme",
+    "photos": [
+      "/images/imported/item_194_photo_1.jpeg"
+    ],
+    "visualScore": 0.9085361560819145
+  },
+  {
+    "id": "233",
+    "name": "Nike Windrunner Hyperlight Membrana 2L TC",
+    "value": "600-700€",
+    "page": "",
+    "image": "/images/imported/item_195_photo_1.jpeg",
+    "category": "Nike",
+    "source": "Chat database",
+    "notes": "Blue Nike Windrunner | Immagine chat: file_000000006d3871f78b8630ae563eea98",
+    "keywords": "000000006d3871f78b8630ae563eea98 2l 600 700 blue chat file hyperlight immagine membrana nike tc windrunner",
+    "photos": [
+      "/images/imported/item_195_photo_1.jpeg"
+    ],
+    "visualScore": 0.9301802815842107
+  },
+  {
+    "id": "234",
+    "name": "Nike Windrunner Jacquard Grid on Wool Fur",
+    "value": "600-700€",
+    "page": "",
+    "image": "/images/imported/item_196_photo_1.jpeg",
+    "category": "Nike",
+    "source": "Chat database",
+    "notes": "Beige Nike Windrunner wool fur | Immagine chat: file_00000000ba2471f7a1dcff2b2d83e819",
+    "keywords": "00000000ba2471f7a1dcff2b2d83e819 600 700 beige chat file fur grid immagine jacquard nike on windrunner wool",
+    "photos": [
+      "/images/imported/item_196_photo_1.jpeg"
+    ],
+    "visualScore": 0.9432605930218949
+  },
+  {
+    "id": "235",
+    "name": "Nike Windrunner Mussola Gommata/Nylon Metal",
+    "value": "600-700€",
+    "page": "",
+    "image": "/images/imported/item_197_photo_1.jpeg",
+    "category": "Nike",
+    "source": "Chat database",
+    "notes": "Green Nike Windrunner | Immagine chat: file_00000000bdfc71f58dfc4949905e1b69",
+    "keywords": "00000000bdfc71f58dfc4949905e1b69 600 700 chat file gommata green immagine metal mussola nike nylon windrunner",
+    "photos": [
+      "/images/imported/item_197_photo_1.jpeg"
+    ],
+    "visualScore": 0.8711932827844882
+  },
+  {
+    "id": "239",
+    "name": "SHADOW PROJECT 681940603 COACH JACKET ADJUSTMENT ZIPPERS LUCID FLOCK",
+    "value": "400-450€",
+    "page": "",
+    "image": "/images/imported/item_198_photo_1.jpeg",
+    "category": "Shadow Project",
+    "source": "Chat database",
+    "notes": "S/S 2018 Lucid Flock | Immagine chat: file_00000000ab84722fa449d644599e578d",
+    "keywords": "2018 400-450€ 681940603 adjustment coach errolson flock hugh jacket lucid project s/s shadow technical zippers",
+    "photos": [
+      "/images/imported/item_198_photo_1.jpeg"
+    ],
+    "visualScore": 0.8711171519032967
+  },
+  {
+    "id": "240",
+    "name": "Diagonal + Scarabeo / 691970406 STEALTH PARKA D-PL_SCARABEO",
+    "value": "1300-1500€",
+    "page": "",
+    "image": "/images/imported/item_199_photo_1.jpeg",
+    "category": "Shadow Project",
+    "source": "Chat database",
+    "notes": "Glass bead reflective coating | Immagine chat: file_00000000a420722fb3a11d2b3121848b",
+    "keywords": "+ / 1300-1500€ 691970406 bead coating d-pl_scarabeo diagonal glass parka project reflective scarabeo shadow stealth",
+    "photos": [
+      "/images/imported/item_199_photo_1.jpeg"
+    ],
+    "visualScore": 0.868780228334574
+  },
+  {
+    "id": "241",
+    "name": "SHADOW PROJECT 701970512 ARTICULATED FISHTAIL PARKA DPM CHINÉ",
+    "value": "550€",
+    "page": "",
+    "image": "/images/imported/item_200_photo_1.jpeg",
+    "category": "Shadow Project",
+    "source": "Chat database",
+    "notes": "S/S 2019 | Immagine chat: file_000000002ddc722fa2f2d1f80a48b04",
+    "keywords": "2019 550€ 701970512 articulated chiné dpm errolson fishtail hugh parka project s/s shadow technical",
+    "photos": [
+      "/images/imported/item_200_photo_1.jpeg"
+    ],
+    "visualScore": 0.905425335740578
+  },
+  {
+    "id": "242",
+    "name": "SHADOW PROJECT 721940403 ARTICULATED JACKET HEAVY COMPACT NYLON",
+    "value": "600€",
+    "page": "",
+    "image": "/images/imported/item_201_photo_1.jpeg",
+    "category": "Shadow Project",
+    "source": "Chat database",
+    "notes": "S/S 2020 | Immagine chat: file_00000000bb18722f895f94a54fc56779",
+    "keywords": "2020 600€ 721940403 articulated compact errolson heavy hugh jacket nylon project s/s shadow technical",
+    "photos": [
+      "/images/imported/item_201_photo_1.jpeg"
+    ],
+    "visualScore": 0.8184233873244884
+  },
+  {
+    "id": "243",
+    "name": "Raso reverse colours",
+    "value": "450€",
+    "page": "",
+    "image": "/images/imported/item_202_photo_1.jpeg",
+    "category": "Raso",
+    "source": "Chat database",
+    "notes": "",
+    "keywords": "450 colours raso reverse",
+    "photos": [
+      "/images/imported/item_202_photo_1.jpeg"
+    ],
+    "visualScore": 0.9003585247649897
+  },
+  {
+    "id": "244",
+    "name": "Raso gommato silver cover",
+    "value": "1000€",
+    "page": "",
+    "image": "/images/imported/item_203_photo_1.jpeg",
+    "category": "Raso",
+    "source": "Chat database",
+    "notes": "",
+    "keywords": "1000 cover gommato raso silver",
+    "photos": [
+      "/images/imported/item_203_photo_1.jpeg"
+    ],
+    "visualScore": 0.9355948024447808
+  },
+  {
+    "id": "245",
+    "name": "Man Suede",
+    "value": "750-800€",
+    "page": "",
+    "image": "/images/imported/item_204_photo_1.png",
+    "category": "Archive",
+    "source": "Chat database",
+    "notes": "Olive/brown hooded parka | Immagine chat: file_0000000048ac7246a856a8a5d65e1902",
+    "keywords": "0000000048ac7246a856a8a5d65e1902 750 800 archive brown chat file hooded immagine man olive parka suede",
+    "photos": [
+      "/images/imported/item_204_photo_1.png"
+    ],
+    "visualScore": 0.9112551410491435
+  },
+  {
+    "id": "246",
+    "name": "Zaino porter",
+    "value": "500-600€",
+    "page": "",
+    "image": "/images/imported/item_205_photo_1.jpeg",
+    "category": "Accessory",
+    "source": "Chat database",
+    "notes": "Stone Island x Porter backpack | Immagine chat: file_00000000c46c722fb3057e77f258a200",
+    "keywords": "500-600€ accessory backpack island porter stone x zaino",
+    "photos": [
+      "/images/imported/item_205_photo_1.jpeg"
+    ],
+    "visualScore": 0.8707348097112821
+  },
+  {
+    "id": "247",
+    "name": "Tela Stella",
+    "value": "4500-5000€",
+    "page": "",
+    "image": "/images/imported/item_206_photo_1.jpeg",
+    "category": "Tela Stella",
+    "source": "Chat database",
+    "notes": "Dark navy/purple anorak | Immagine chat: file_0000000044b0722f9b507dc3e692c482",
+    "keywords": "4500-5000€ anorak archive chat: coat dark experimental file_0000000044b0722f9b507dc3e692c482 garment immagine jacket massimo navy/purple osti stella tela |",
+    "photos": [
+      "/images/imported/item_206_photo_1.jpeg"
+    ],
+    "visualScore": 0.8211225771281154
+  },
+  {
+    "id": "248",
+    "name": "Tela Stella",
+    "value": "1500-1600€",
+    "page": "",
+    "image": "/images/imported/item_207_photo_1.jpeg",
+    "category": "Tela Stella",
+    "source": "Chat database",
+    "notes": "Long brown/purple coat | Immagine chat: file_00000000f8d0722fbbfbfb77c35fc8dc",
+    "keywords": "00000000f8d0722fbbfbfb77c35fc8dc 1500 1600 archive brown chat coat experimental file garment immagine jacket long massimo osti purple stella tela",
+    "photos": [
+      "/images/imported/item_207_photo_1.jpeg"
+    ],
+    "visualScore": 0.8869233935791055
+  },
+  {
+    "id": "250",
+    "name": "Tela Stella",
+    "value": "2500€",
+    "page": "",
+    "image": "/images/imported/item_208_photo_1.jpeg",
+    "category": "Tela Stella",
+    "source": "Chat database",
+    "notes": "Pullover with strap | Immagine chat: file_00000000af4c722f90d3bf800458d6b5",
+    "keywords": "00000000af4c722f90d3bf800458d6b5 2500 archive chat coat experimental file garment immagine jacket massimo osti pullover stella strap tela with",
+    "photos": [
+      "/images/imported/item_208_photo_1.jpeg"
+    ],
+    "visualScore": 0.9046749896218537
+  },
+  {
+    "id": "251",
+    "name": "Tela Stella",
+    "value": "2500€",
+    "page": "",
+    "image": "/images/imported/item_209_photo_1.jpeg",
+    "category": "Tela Stella",
+    "source": "Chat database",
+    "notes": "Green coat with purple panels | Immagine chat: file_0000000033e0722fa807c8834d77a004",
+    "keywords": "0000000033e0722fa807c8834d77a004 2500 archive chat coat experimental file garment green immagine jacket massimo osti panels purple stella tela with",
+    "photos": [
+      "/images/imported/item_209_photo_1.jpeg"
+    ],
+    "visualScore": 0.8777959146049423
+  },
+  {
+    "id": "252",
+    "name": "Mixed Fabrics / Tela Stella",
+    "value": "1000€",
+    "page": "",
+    "image": "/images/imported/item_210_photo_1.jpeg",
+    "category": "Tela Stella",
+    "source": "Chat database",
+    "notes": "Mixed-fabric knit | Immagine chat: file_00000000bebc722f89a6fae4f3af1e4d",
+    "keywords": "/ 1000€ archive coat experimental fabrics garment jacket knit massimo mixed mixed-fabric osti stella tela",
+    "photos": [
+      "/images/imported/item_210_photo_1.jpeg"
+    ],
+    "visualScore": 0.9345197132052578
+  },
+  {
+    "id": "253",
+    "name": "Tela Stella",
+    "value": "2000€",
+    "page": "",
+    "image": "/images/imported/item_211_photo_1.jpeg",
+    "category": "Tela Stella",
+    "source": "Chat database",
+    "notes": "Grey/lilac long coat | Immagine chat: file_00000000b694724385d50f72b59b597d",
+    "keywords": "00000000b694724385d50f72b59b597d 2000 archive chat coat experimental file garment grey immagine jacket lilac long massimo osti stella tela",
+    "photos": [
+      "/images/imported/item_211_photo_1.jpeg"
+    ],
+    "visualScore": 0.922789784405869
+  },
+  {
+    "id": "254",
+    "name": "Tela Stella",
+    "value": "2200€",
+    "page": "",
+    "image": "/images/imported/item_212_photo_1.jpeg",
+    "category": "Tela Stella",
+    "source": "Chat database",
+    "notes": "White technical jacket | Immagine chat: file_000000002bf0722f8c70bed75f894372",
+    "keywords": "000000002bf0722f8c70bed75f894372 2200 archive chat coat experimental file garment immagine jacket massimo osti stella technical tela white",
+    "photos": [
+      "/images/imported/item_212_photo_1.jpeg"
+    ],
+    "visualScore": 0.9171222008857534
+  },
+  {
+    "id": "255",
+    "name": "Tela Stella 1980",
+    "value": "2200-2300€",
+    "page": "",
+    "image": "/images/imported/item_213_photo_1.jpeg",
+    "category": "Tela Stella",
+    "source": "Chat database",
+    "notes": "Light grey/lilac utility jacket | Immagine chat: file_0000000093b0722fb70f9380c0413940",
+    "keywords": "0000000093b0722fb70f9380c0413940 1980 2200 2300 archive chat coat experimental file garment grey immagine jacket light lilac massimo osti stella tela utility",
+    "photos": [
+      "/images/imported/item_213_photo_1.jpeg"
+    ],
+    "visualScore": 0.7555853997465619
+  },
+  {
+    "id": "256",
+    "name": "Felpa Placcata",
+    "value": "800-1000€",
+    "page": "",
+    "image": "/images/imported/item_214_photo_1.jpeg",
+    "category": "Sweatshirt",
+    "source": "Chat database",
+    "notes": "White plated sweatshirt | Immagine chat: file_0000000024bc722fabf8942f08bdf4cb",
+    "keywords": "0000000024bc722fabf8942f08bdf4cb 1000 800 chat felpa file immagine placcata plated sweatshirt white",
+    "photos": [
+      "/images/imported/item_214_photo_1.jpeg"
+    ],
+    "visualScore": 0.904384610616563
+  },
+  {
+    "id": "257",
+    "name": "Costa Lino",
+    "value": "400€",
+    "page": "",
+    "image": "/images/imported/item_215_photo_1.jpeg",
+    "category": "Knit",
+    "source": "Chat database",
+    "notes": "Cream ribbed sweater | Immagine chat: file_0000000039fc7243a18fc250f7fc7a88",
+    "keywords": "0000000039fc7243a18fc250f7fc7a88 400 chat costa cream file immagine knit lino ribbed sweater",
+    "photos": [
+      "/images/imported/item_215_photo_1.jpeg"
+    ],
+    "visualScore": 0.8955450050071814
+  },
+  {
+    "id": "259",
+    "name": "Nylon Metal Spyder Watro",
+    "value": "450-500€",
+    "page": "",
+    "image": "/images/imported/item_216_photo_1.jpeg",
+    "category": "Nylon Metal",
+    "source": "Chat database",
+    "notes": "Dark blue crinkled parka | Immagine chat: file_00000000d0b471f684201db284e0878c",
+    "keywords": "450-500€ blue crinkled dark metal nylon parka spyder watro",
+    "photos": [
+      "/images/imported/item_216_photo_1.jpeg"
+    ],
+    "visualScore": 0.5651134803282314
+  },
+  {
+    "id": "260",
+    "name": "Paintball Camouflage Supreme Puffer",
+    "value": "1300€",
+    "page": "",
+    "image": "/images/imported/item_217_photo_1.jpeg",
+    "category": "Supreme",
+    "source": "Chat database",
+    "notes": "Supreme paintball camo puffer | Immagine chat: file_00000000d3b871f6a80c3ee1d55b28e3",
+    "keywords": "1300€ camo camouflage paintball puffer supreme",
+    "photos": [
+      "/images/imported/item_217_photo_1.jpeg"
+    ],
+    "visualScore": 0.7809812296952248
+  },
+  {
+    "id": "261",
+    "name": "Stone Island Dual Layer David Microfiber Parka Vintage Jacket",
+    "value": "450€",
+    "page": "",
+    "image": "/images/imported/item_218_photo_1.jpeg",
+    "category": "David-TC",
+    "source": "Chat database",
+    "notes": "Black dual layer David parka | Immagine chat: file_00000000de4c71f5a26cc25ec4894a4d",
+    "keywords": "450€ black david dual dyed garment island jacket layer microfiber military parka stone tc vintage",
+    "photos": [
+      "/images/imported/item_218_photo_1.jpeg"
+    ],
+    "visualScore": 0.5537466610224469
+  },
+  {
+    "id": "262",
+    "name": "Jock 23",
+    "value": "2500-2700€",
+    "page": "",
+    "image": "/images/imported/item_219_photo_1.jpeg",
+    "category": "Jock",
+    "source": "Chat database",
+    "notes": "Cream Jock-23 jacket | Immagine chat: file_0000000056fc722fb871ff7e3ef409b2",
+    "keywords": "0000000056fc722fb871ff7e3ef409b2 23 2500 2700 chat cream file immagine jacket jock",
+    "photos": [
+      "/images/imported/item_219_photo_1.jpeg"
+    ],
+    "visualScore": 0.9027839627973406
+  },
+  {
+    "id": "263",
+    "name": "Jock 23",
+    "value": "4500€",
+    "page": "",
+    "image": "/images/imported/item_220_photo_1.jpeg",
+    "category": "Jock",
+    "source": "Chat database",
+    "notes": "Metallic Jock-23 poncho | Immagine chat: file_00000000ad3c724384736356be3edc2a",
+    "keywords": "00000000ad3c724384736356be3edc2a 23 4500 chat file immagine jock metallic poncho",
+    "photos": [
+      "/images/imported/item_220_photo_1.jpeg"
+    ],
+    "visualScore": 0.9230796873486324
+  },
+  {
+    "id": "264",
+    "name": "Felpa doppia tintura",
+    "value": "1000€",
+    "page": "",
+    "image": "/images/imported/item_221_photo_1.jpeg",
+    "category": "Sweatshirt",
+    "source": "Chat database",
+    "notes": "Red sweatshirt with tech details | Immagine chat: file_000000000f2072439a06997cf378c6a2",
+    "keywords": "1000€ details doppia felpa red sweatshirt tech tintura with",
+    "photos": [
+      "/images/imported/item_221_photo_1.jpeg"
+    ],
+    "visualScore": 0.9294865766465457
+  },
+  {
+    "id": "265",
+    "name": "Jock 23",
+    "value": "3000€",
+    "page": "",
+    "image": "/images/imported/item_222_photo_1.jpeg",
+    "category": "Jock",
+    "source": "Chat database",
+    "notes": "Glossy black/dark brown Jock-23 | Immagine chat: file_00000000db8871f4878bdbd87047e6f6",
+    "keywords": "23 3000€ black/dark brown glossy jock jock-23",
+    "photos": [
+      "/images/imported/item_222_photo_1.jpeg"
+    ],
+    "visualScore": 0.9331710130877959
+  },
+  {
+    "id": "267",
+    "name": "Tela Denim",
+    "value": "1500-1800€",
+    "page": "",
+    "image": "/images/imported/item_223_photo_1.jpeg",
+    "category": "Tela Denim",
+    "source": "Chat database",
+    "notes": "Dark indigo Tela Denim | Immagine chat: file_000000002aec71f4aa8715f33b14dbe7",
+    "keywords": "000000002aec71f4aa8715f33b14dbe7 1500 1800 chat dark denim file immagine indigo tela",
+    "photos": [
+      "/images/imported/item_223_photo_1.jpeg"
+    ],
+    "visualScore": 0.908813717815093
+  },
+  {
+    "id": "268",
+    "name": "Raso gommato cover colorato",
+    "value": "3000€",
+    "page": "",
+    "image": "/images/imported/item_224_photo_1.jpeg",
+    "category": "Raso",
+    "source": "Chat database",
+    "notes": "Yellow smock/anorak | Immagine chat: file_000000008df471f49ee125bca690510a",
+    "keywords": "3000€ colorato cover gommato raso smock/anorak yellow",
+    "photos": [
+      "/images/imported/item_224_photo_1.jpeg"
+    ],
+    "visualScore": 0.9149565837863018
+  },
+  {
+    "id": "269",
+    "name": "Maglia marina costina pesante",
+    "value": "350-400€",
+    "page": "",
+    "image": "/images/imported/item_225_photo_1.jpeg",
+    "category": "Marina",
+    "source": "Chat database",
+    "notes": "Marina heavy rib knit/shirt",
+    "keywords": "350 400 archive costina heavy knit maglia marina nautical pesante rib sailing shirt",
+    "photos": [
+      "/images/imported/item_225_photo_1.jpeg"
+    ],
+    "visualScore": 0.9248750232756275
+  },
+  {
+    "id": "270",
+    "name": "Raso gommato cover colorato",
+    "value": "2000€",
+    "page": "",
+    "image": "/images/imported/item_226_photo_1.jpeg",
+    "category": "Raso",
+    "source": "Chat database",
+    "notes": "Bright red overshirt | Immagine chat: file_00000000a46071f4b8fe1726fbb70a31",
+    "keywords": "00000000a46071f4b8fe1726fbb70a31 2000 bright chat colorato cover file gommato immagine overshirt raso red",
+    "photos": [
+      "/images/imported/item_226_photo_1.jpeg"
+    ],
+    "visualScore": 0.9068337188559346
+  },
+  {
+    "id": "271",
+    "name": "Chambray Mix",
+    "value": "300€",
+    "page": "",
+    "image": "/images/imported/item_227_photo_1.jpeg",
+    "category": "Archive",
+    "source": "Chat database",
+    "notes": "Light beige Chambray Mix | Immagine chat: file_00000000df30720aba8e626a1fdb2863",
+    "keywords": "300€ archive beige chambray light mix",
+    "photos": [
+      "/images/imported/item_227_photo_1.jpeg"
+    ],
+    "visualScore": 0.9158699666260572
+  },
+  {
+    "id": "272",
+    "name": "Raso gommato cover colorato",
+    "value": "1300€",
+    "page": "",
+    "image": "/images/imported/item_228_photo_1.jpeg",
+    "category": "Raso",
+    "source": "Chat database",
+    "notes": "Long red duffle coat | Immagine chat: file_000000006aa0724380d69fb06ac0e001",
+    "keywords": "000000006aa0724380d69fb06ac0e001 1300 chat coat colorato cover duffle file gommato immagine long raso red",
+    "photos": [
+      "/images/imported/item_228_photo_1.jpeg"
+    ],
+    "visualScore": 0.901627826972969
+  },
+  {
+    "id": "273",
+    "name": "Jock Country",
+    "value": "1800-2000€",
+    "page": "",
+    "image": "/images/imported/item_229_photo_1.jpeg",
+    "category": "Jock",
+    "source": "Chat database",
+    "notes": "Cream quilted hooded jacket | Immagine chat: file_00000000ac4472438d30571057f24cae",
+    "keywords": "00000000ac4472438d30571057f24cae 1800 2000 chat country cream file hooded immagine jacket jock quilted",
+    "photos": [
+      "/images/imported/item_229_photo_1.jpeg"
+    ],
+    "visualScore": 0.8964036791918102
+  },
+  {
+    "id": "274",
+    "name": "Shetland",
+    "value": "300€",
+    "page": "",
+    "image": "/images/imported/item_230_photo_1.jpeg",
+    "category": "Knit",
+    "source": "Chat database",
+    "notes": "Black Shetland knit | Immagine chat: file_000000008e8871f4a387013a795345fc",
+    "keywords": "000000008e8871f4a387013a795345fc 300 black chat file immagine knit shetland",
+    "photos": [
+      "/images/imported/item_230_photo_1.jpeg"
+    ],
+    "visualScore": 0.9083222249198476
+  },
+  {
+    "id": "275",
+    "name": "Raso gommato cover bianco",
+    "value": "3000-3500€",
+    "page": "",
+    "image": "/images/imported/item_231_photo_1.jpeg",
+    "category": "Raso",
+    "source": "Chat database",
+    "notes": "Bright yellow Cover Bianco | Immagine chat: file_0000000060d472468b93264ef33a2aeb",
+    "keywords": "0000000060d472468b93264ef33a2aeb 3000 3500 bianco bright chat cover file gommato immagine raso yellow",
+    "photos": [
+      "/images/imported/item_231_photo_1.jpeg"
+    ],
+    "visualScore": 0.9124846676582231
+  },
+  {
+    "id": "276",
+    "name": "Maglia marina vintage",
+    "value": "350€",
+    "page": "",
+    "image": "/images/imported/item_232_photo_1.jpeg",
+    "category": "Marina",
+    "source": "Chat database",
+    "notes": "Blue/white striped Marina shirt | Immagine chat: file_000000006af071f4a031e68356b38773",
+    "keywords": "350€ archive blue/white maglia marina nautical sailing shirt striped vintage",
+    "photos": [
+      "/images/imported/item_232_photo_1.jpeg"
+    ],
+    "visualScore": 0.9269660780327086
+  },
+  {
+    "id": "278",
+    "name": "Maglia marina vintage",
+    "value": "400€",
+    "page": "",
+    "image": "/images/imported/item_233_photo_1.jpeg",
+    "category": "Marina",
+    "source": "Chat database",
+    "notes": "White/pink striped Marina t-shirt | Immagine chat: file_00000000cb3c71f4aeeeae0dc4e4896c",
+    "keywords": "400€ archive maglia marina nautical sailing striped t-shirt vintage white/pink",
+    "photos": [
+      "/images/imported/item_233_photo_1.jpeg"
+    ],
+    "visualScore": 0.9257473986534166
+  },
+  {
+    "id": "279",
+    "name": "Raso gommato cover bianco badge vertical",
+    "value": "2500-3000€",
+    "page": "",
+    "image": "/images/imported/item_234_photo_1.jpeg",
+    "category": "Raso",
+    "source": "Chat database",
+    "notes": "Cover Bianco vertical badge variant",
+    "keywords": "2500-3000€ badge bianco cover gommato raso variant vertical",
+    "photos": [
+      "/images/imported/item_234_photo_1.jpeg"
+    ],
+    "visualScore": 0.9270193366299645
+  },
+  {
+    "id": "280",
+    "name": "Jock Country",
+    "value": "2000€",
+    "page": "",
+    "image": "/images/imported/item_235_photo_1.jpeg",
+    "category": "Jock",
+    "source": "Chat database",
+    "notes": "Cream Jock Country bomber | Immagine chat: file_00000000a61871f4b305818bd0590492",
+    "keywords": "2000€ bomber country cream jock",
+    "photos": [
+      "/images/imported/item_235_photo_1.jpeg"
+    ],
+    "visualScore": 0.9091911532905728
+  },
+  {
+    "id": "281",
+    "name": "Jock Country Colorato",
+    "value": "2500€",
+    "page": "",
+    "image": "/images/imported/item_236_photo_1.jpeg",
+    "category": "Jock",
+    "source": "Chat database",
+    "notes": "Brown/bronze Jock Country Colorato | Immagine chat: file_00000000cd4071f4b2017a9c01125f3d",
+    "keywords": "00000000cd4071f4b2017a9c01125f3d 2500 bronze brown chat colorato country file immagine jock",
+    "photos": [
+      "/images/imported/item_236_photo_1.jpeg"
+    ],
+    "visualScore": 0.9137190719886986
+  },
+  {
+    "id": "282",
+    "name": "Raso gommato cover colorato",
+    "value": "2000€",
+    "page": "",
+    "image": "/images/imported/item_237_photo_1.jpeg",
+    "category": "Raso",
+    "source": "Chat database",
+    "notes": "Yellow bomber | Immagine chat: file_00000000259c724695c641a140917036",
+    "keywords": "2000€ bomber colorato cover gommato raso yellow",
+    "photos": [
+      "/images/imported/item_237_photo_1.jpeg"
+    ],
+    "visualScore": 0.9205749892111924
+  },
+  {
+    "id": "283",
+    "name": "Shetland",
+    "value": "1200€",
+    "page": "",
+    "image": "/images/imported/item_238_photo_1.jpeg",
+    "category": "Knit",
+    "source": "Chat database",
+    "notes": "Shetland wool jacket | Immagine chat: file_000000006180720ab4005f9556d1c4cc",
+    "keywords": "1200€ jacket knit shetland wool",
+    "photos": [
+      "/images/imported/item_238_photo_1.jpeg"
+    ],
+    "visualScore": 0.8937208611335736
+  },
+  {
+    "id": "284",
+    "name": "Jock Country / Silver Foil",
+    "value": "1500€",
+    "page": "",
+    "image": "/images/imported/item_239_photo_1.jpeg",
+    "category": "Jock",
+    "source": "Chat database",
+    "notes": "Quilted silver foil jacket | Immagine chat: file_00000000ac0471f49a62f50a182148ce",
+    "keywords": "/ 1500€ country foil jacket jock quilted silver",
+    "photos": [
+      "/images/imported/item_239_photo_1.jpeg"
+    ],
+    "visualScore": 0.7468033749692748
+  },
+  {
+    "id": "285",
+    "name": "Nylon Steel",
+    "value": "2000€",
+    "page": "",
+    "image": "/images/imported/item_240_photo_1.jpeg",
+    "category": "Nylon Steel",
+    "source": "Chat database",
+    "notes": "Silver metallic jacket | Immagine chat: file_00000000c66871f48888613e0a001730",
+    "keywords": "2000€ jacket metallic nylon silver steel",
+    "photos": [
+      "/images/imported/item_240_photo_1.jpeg"
+    ],
+    "visualScore": 0.9470936017536895
+  },
+  {
+    "id": "286",
+    "name": "Reps stampa pigmento",
+    "value": "1200-1500€",
+    "page": "",
+    "image": "/images/imported/item_241_photo_1.jpeg",
+    "category": "Reps",
+    "source": "Chat database",
+    "notes": "Grey herringbone jacket | Immagine chat: file_00000000b4c871f4aa2450c79533c998",
+    "keywords": "1200-1500€ grey herringbone jacket pigmento reps stampa",
+    "photos": [
+      "/images/imported/item_241_photo_1.jpeg"
+    ],
+    "visualScore": 0.9334981533306825
+  },
+  {
+    "id": "287",
+    "name": "Reps placcato argento",
+    "value": "1000€",
+    "page": "",
+    "image": "images/chat_287_reps_placcato_argento.jpeg",
+    "category": "Reps",
+    "source": "Chat database",
+    "notes": "Silver Reps Placcato Argento | Immagine chat: file_0000000047d471f4af3c3dd0315285eb",
+    "keywords": "1000€ argento placcato reps silver",
+    "photos": [
+      "images/chat_287_reps_placcato_argento.jpeg"
+    ],
+    "visualScore": 0.9109551518996515
+  },
+  {
+    "id": "288",
+    "name": "Reps stampa pigmento",
+    "value": "1000€",
+    "page": "",
+    "image": "images/chat_288_reps_stampa_pigmento.jpeg",
+    "category": "Reps",
+    "source": "Chat database",
+    "notes": "Deep blue/purple workwear jacket | Immagine chat: file_0000000013987246a5e86da4e75a72d3",
+    "keywords": "1000€ blue/purple deep jacket pigmento reps stampa workwear",
+    "photos": [
+      "images/chat_288_reps_stampa_pigmento.jpeg"
+    ],
+    "visualScore": 0.8864986969320772
+  },
+  {
+    "id": "289",
+    "name": "Reps stampa pigmento",
+    "value": "1000€",
+    "page": "",
+    "image": "images/chat_289_reps_stampa_pigmento.jpeg",
+    "category": "Reps",
+    "source": "Chat database",
+    "notes": "Black/white striped jacket | Immagine chat: file_00000000c7ac71f4895e57312a0891f7",
+    "keywords": "1000€ black/white jacket pigmento reps stampa striped",
+    "photos": [
+      "images/chat_289_reps_stampa_pigmento.jpeg"
+    ],
+    "visualScore": 0.9421236431654245
+  },
+  {
+    "id": "291",
+    "name": "Vintage black workwear jacket green edge",
+    "value": "500-900€ stimati",
+    "page": "",
+    "image": "images/chat_291_vintage_black_workwear_jacket_green_edge.jpeg",
+    "category": "Reference",
+    "source": "Chat database",
+    "notes": "Reference: not saved as confirmed item | Immagine chat: file_00000000ad6871f4a613b85ed79cd8de",
+    "keywords": "500-900€ as black confirmed edge green item jacket not reference reference: saved stimati vintage workwear",
+    "photos": [
+      "images/chat_291_vintage_black_workwear_jacket_green_edge.jpeg"
+    ],
+    "visualScore": 0.461599191688704
+  },
+  {
+    "id": "292",
+    "name": "Vintage red corduroy henley green edge badge",
+    "value": "900-1500€ stimati",
+    "page": "",
+    "image": "images/chat_292_vintage_red_corduroy_henley_green_edge_badge.jpeg",
+    "category": "Reference",
+    "source": "Chat database",
+    "notes": "Reference: not saved as confirmed item | Immagine chat: file_000000007c0071f4863ecc578c437a33",
+    "keywords": "900-1500€ as badge confirmed corduroy edge green henley item not red reference reference: saved stimati vintage",
+    "photos": [
+      "images/chat_292_vintage_red_corduroy_henley_green_edge_badge.jpeg"
+    ],
+    "visualScore": 0.623029164634683
+  },
+  {
+    "id": "293",
+    "name": "Shadow Project modular shell Scarabeo-like",
+    "value": "800-1500€ stimati",
+    "page": "",
+    "image": "images/chat_293_shadow_project_modular_shell_scarabeo_like.png",
+    "category": "Shadow Project",
+    "source": "Chat database",
+    "notes": "Reference similar to Scarabeo/Stealth modular | Immagine chat: file_00000000531471f49e72f8be201b2b99",
+    "keywords": "800-1500€ errolson hugh modular project reference scarabeo-like scarabeo/stealth shadow shell similar stimati technical to",
+    "photos": [
+      "images/chat_293_shadow_project_modular_shell_scarabeo_like.png"
+    ],
+    "visualScore": 0.6309538981846727
+  },
+  {
+    "id": "294",
+    "name": "STONE ISLAND SHADOW PROJECT 661941004 DECONSTRUCT FIELD JACKET_GATEWAY POCKETS DAVID-C SILVER MIST TREATMENT",
+    "value": "valore d700a definire",
+    "page": "",
+    "image": "images/shadow_project_661941004_deconstruct_field_jacket_david_c.jpeg",
+    "photos": [
+      "images/shadow_project_661941004_deconstruct_field_jacket_david_c.jpeg"
+    ],
+    "category": "Shadow Project",
+    "source": "Chat database",
+    "notes": "A/W 2017-2018, garment dyed single layer fabric",
+    "keywords": "2017-2018, 661941004 a/w d700a david david-c deconstruct definire dyed errolson fabric field garment hugh island jacket_gateway layer military mist pockets project shadow silver single stone tc technical treatment valore",
+    "visualScore": 0.8994852118899974
+  },
+  {
+    "id": "295",
+    "name": "STONE ISLAND GARMENT DYEING CONCEPT PIECE S/S '20",
+    "value": "450€",
+    "page": "",
+    "image": "images/garment_dyeing_concept_piece_ss20.jpeg",
+    "photos": [
+      "images/garment_dyeing_concept_piece_ss20.jpeg"
+    ],
+    "category": "Concept Piece",
+    "source": "Chat database",
+    "notes": "Concept piece made for book, garment dyeing technology",
+    "keywords": "'20 450€ book, concept dyeing for garment island made piece s/s stone technology",
+    "visualScore": 0.8701438044932901
+  },
+  {
+    "id": "SI-296",
+    "name": "Tortoise Shell",
+    "value": "1500-1700",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_250_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_250_photo_1.jpeg"
+    ],
+    "keywords": "1500 1700 shell tortoise",
+    "visualScore": 0.8431226783492933
+  },
+  {
+    "id": "SI-297",
+    "name": "monofilament camo",
+    "value": "400",
+    "category": "Monofilament",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_251_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_251_photo_1.jpeg"
+    ],
+    "keywords": "400 camo monofilament",
+    "visualScore": 0.8271164618489406
+  },
+  {
+    "id": "SI-298",
+    "name": "Modular Anatomy",
+    "value": "1500",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_252_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_252_photo_1.jpeg"
+    ],
+    "keywords": "1500 anatomy modular",
+    "visualScore": 0.8352322248020752
+  },
+  {
+    "id": "SI-299",
+    "name": "Zaino Porter Yoshida",
+    "value": "500-600",
+    "category": "Accessory",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_253_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_253_photo_1.jpeg"
+    ],
+    "keywords": "500 600 porter yoshida zaino",
+    "visualScore": 0.7412478230886776
+  },
+  {
+    "id": "SI-300",
+    "name": "Mesh Reflective",
+    "value": "550",
+    "category": "bomber",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_254_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_254_photo_1.jpeg"
+    ],
+    "keywords": "550 archive bead bomber glass jacket mesh reflective",
+    "visualScore": 0.6420406240354541
+  },
+  {
+    "id": "SI-301",
+    "name": "Reflective camouflage",
+    "value": "450-500",
+    "category": "Reflective",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_255_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_255_photo_1.jpeg"
+    ],
+    "keywords": "450 500 archive bead camouflage glass jacket reflective",
+    "visualScore": 0.6022142220756318
+  },
+  {
+    "id": "SI-302",
+    "name": "Tela Stella",
+    "value": "5000",
+    "category": "Tela Stella",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_256_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_256_photo_1.jpeg"
+    ],
+    "keywords": "5000 archive coat experimental garment jacket massimo osti stella tela",
+    "visualScore": 0.771012186413019
+  },
+  {
+    "id": "SI-303",
+    "name": "Tela Stella",
+    "value": "2200-2300€",
+    "category": "Tela Stella",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_257_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_257_photo_1.jpeg"
+    ],
+    "keywords": "2200 2300 archive coat experimental garment jacket massimo osti stella tela",
+    "visualScore": 0.907230315335803
+  },
+  {
+    "id": "SI-304",
+    "name": "Tela Stella",
+    "value": "2200€",
+    "category": "Tela Stella",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_258_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_258_photo_1.jpeg"
+    ],
+    "keywords": "2200 archive coat experimental garment jacket massimo osti stella tela",
+    "visualScore": 0.7720831502975714
+  },
+  {
+    "id": "SI-305",
+    "name": "Raso Gommato Cover Bianco",
+    "value": "2500-300€",
+    "category": "Vertical",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_259_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_259_photo_1.jpeg"
+    ],
+    "keywords": "2500 300 bianco cover gommato raso vertical",
+    "visualScore": 0.9202811331073855
+  },
+  {
+    "id": "SI-306",
+    "name": "Raso Gommato cover colorato",
+    "value": "500",
+    "category": "Raso Gommato",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_260_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_260_photo_1.jpeg"
+    ],
+    "keywords": "500 colorato cover gommato raso",
+    "visualScore": 0.9609993958160685
+  },
+  {
+    "id": "SI-307",
+    "name": "Raso Gommato Cover Lucido",
+    "value": "1000€",
+    "category": "Raso Gommato",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_261_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_261_photo_1.jpeg"
+    ],
+    "keywords": "1000 cover gommato lucido raso",
+    "visualScore": 0.9331537140610753
+  },
+  {
+    "id": "SI-308",
+    "name": "Formula Steel",
+    "value": "700€",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_262_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_262_photo_1.jpeg"
+    ],
+    "keywords": "700 formula steel",
+    "visualScore": 0.9291321033901179
+  },
+  {
+    "id": "SI-309",
+    "name": "Nylon Micro RipStop Jersey di Cotone",
+    "value": "700€",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_263_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_263_photo_1.jpeg"
+    ],
+    "keywords": "700 cotone di jersey micro nylon ripstop",
+    "visualScore": 0.935064040064423
+  },
+  {
+    "id": "SI-310",
+    "name": "Oltre",
+    "value": "800-1000€",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_264_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_264_photo_1.jpeg"
+    ],
+    "keywords": "1000 800 oltre",
+    "visualScore": 0.939790801354108
+  },
+  {
+    "id": "SI-311",
+    "name": "Nylon alta tenacità",
+    "value": "800-900€",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_265_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_265_photo_1.jpeg"
+    ],
+    "keywords": "800 900 alta nylon tenacita",
+    "visualScore": 0.9227091519956574
+  },
+  {
+    "id": "SI-312",
+    "name": "Raso Gommato cover trasparente",
+    "value": "800-900€",
+    "category": "Raso Gommato",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_266_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_266_photo_1.jpeg"
+    ],
+    "keywords": "800 900 cover gommato raso trasparente",
+    "visualScore": 0.9245407692437629
+  },
+  {
+    "id": "SI-313",
+    "name": "Radiale esploso",
+    "value": "600€",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_267_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_267_photo_1.jpeg"
+    ],
+    "keywords": "600 esploso radiale",
+    "visualScore": 0.9246982838395346
+  },
+  {
+    "id": "SI-314",
+    "name": "vdm",
+    "value": "450€",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_268_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_268_photo_1.jpeg"
+    ],
+    "keywords": "450 vdm",
+    "visualScore": 0.7748329626956609
+  },
+  {
+    "id": "SI-315",
+    "name": "Longsleeve logo manica",
+    "value": "300€",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_269_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_269_photo_1.jpeg"
+    ],
+    "keywords": "300 logo longsleeve manica",
+    "visualScore": 0.9296480428001377
+  },
+  {
+    "id": "SI-316",
+    "name": "Laminate",
+    "value": "500",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_270_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_270_photo_1.jpeg"
+    ],
+    "keywords": "500 laminate",
+    "visualScore": 0.9303519925141136
+  },
+  {
+    "id": "SI-317",
+    "name": "Raso Gommato Cover Ripstop",
+    "value": "450",
+    "category": "Raso Gommato",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_271_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_271_photo_1.jpeg"
+    ],
+    "keywords": "450 cover gommato raso ripstop",
+    "visualScore": 0.9439558245919144
+  },
+  {
+    "id": "SI-318",
+    "name": "Monobava",
+    "value": "450-500",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_272_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_272_photo_1.jpeg"
+    ],
+    "keywords": "450 500 monobava",
+    "visualScore": 0.9601288811014972
+  },
+  {
+    "id": "SI-319",
+    "name": "Oltre",
+    "value": "1200-1500€",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_273_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_273_photo_1.jpeg"
+    ],
+    "keywords": "1200 1500 oltre",
+    "visualScore": 0.9032517591444352
+  },
+  {
+    "id": "SI-320",
+    "name": "Rubber",
+    "value": "650-700",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_274_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_274_photo_1.jpeg"
+    ],
+    "keywords": "650 700 rubber",
+    "visualScore": 0.9421849504714375
+  },
+  {
+    "id": "SI-321",
+    "name": "Felpa Accoppiata",
+    "value": "350€",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_275_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_275_photo_1.jpeg"
+    ],
+    "keywords": "350 accoppiata felpa",
+    "visualScore": 0.870416922332041
+  },
+  {
+    "id": "SI-322",
+    "name": "Triplex",
+    "value": "200-250€",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_276_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_276_photo_1.jpeg"
+    ],
+    "keywords": "200 250 triplex",
+    "visualScore": 0.8753855281209519
+  },
+  {
+    "id": "SI-323",
+    "name": "Ciniglia Corrosa",
+    "value": "150€",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_277_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_277_photo_1.jpeg"
+    ],
+    "keywords": "150 ciniglia corrosa",
+    "visualScore": 0.9269304823054736
+  },
+  {
+    "id": "SI-324",
+    "name": "Lino Gommato Reverse Colour Process",
+    "value": "700€",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_278_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_278_photo_1.jpeg"
+    ],
+    "keywords": "700 colour gommato lino process reverse",
+    "visualScore": 0.9573669161603094
+  },
+  {
+    "id": "SI-325",
+    "name": "Gesso",
+    "value": "450",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_279_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_279_photo_1.jpeg"
+    ],
+    "keywords": "450 gesso",
+    "visualScore": 0.9208623000572549
+  },
+  {
+    "id": "SI-326",
+    "name": "Lana nylon infeltrito",
+    "value": "450",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_280_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_280_photo_1.jpeg"
+    ],
+    "keywords": "450 infeltrito lana nylon",
+    "visualScore": 0.952698002917501
+  },
+  {
+    "id": "SI-327",
+    "name": "Raso gommato double",
+    "value": "500€",
+    "category": "Raso Gommato",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_281_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_281_photo_1.jpeg"
+    ],
+    "keywords": "500 double gommato raso",
+    "visualScore": 0.8666347753272567
+  },
+  {
+    "id": "SI-328",
+    "name": "Nylana",
+    "value": "300",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_282_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_282_photo_1.jpeg"
+    ],
+    "keywords": "300 nylana",
+    "visualScore": 0.9355615934351924
+  },
+  {
+    "id": "SI-329",
+    "name": "President Knit",
+    "value": "450-500",
+    "category": "Knit",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_283_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_283_photo_1.jpeg"
+    ],
+    "keywords": "450 500 knit president",
+    "visualScore": 0.9106017199042754
+  },
+  {
+    "id": "SI-330",
+    "name": "Sp. Coat",
+    "value": "600",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_284_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_284_photo_1.jpeg"
+    ],
+    "keywords": "600 coat sp",
+    "visualScore": 0.9119399152736519
+  },
+  {
+    "id": "SI-331",
+    "name": "laminate- noc 1",
+    "value": "650-700",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_285_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_285_photo_1.jpeg"
+    ],
+    "keywords": "1 650 700 laminate noc",
+    "visualScore": 0.9230830893602884
+  },
+  {
+    "id": "SI-332",
+    "name": "Raso Gommato double",
+    "value": "350",
+    "category": "Raso Gommato",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_286_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_286_photo_1.jpeg"
+    ],
+    "keywords": "350 double gommato raso",
+    "visualScore": 0.9082325249983274
+  },
+  {
+    "id": "SI-333",
+    "name": "Laminate",
+    "value": "600€",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_287_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_287_photo_1.jpeg"
+    ],
+    "keywords": "600 laminate",
+    "visualScore": 0.9111967059848447
+  },
+  {
+    "id": "SI-334",
+    "name": "Glass",
+    "value": "1000€",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_288_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_288_photo_1.jpeg"
+    ],
+    "keywords": "1000 glass",
+    "visualScore": 0.9240041315133957
+  },
+  {
+    "id": "SI-335",
+    "name": "K-Felt",
+    "value": "600€",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_289_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_289_photo_1.jpeg"
+    ],
+    "keywords": "600 felt k",
+    "visualScore": 0.8925174589266597
+  },
+  {
+    "id": "SI-336",
+    "name": "Raso Gommato Camo Cover Transparent",
+    "value": "2000€",
+    "category": "Raso Gommato",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_290_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_290_photo_1.jpeg"
+    ],
+    "keywords": "2000 camo cover gommato raso transparent",
+    "visualScore": 0.9148178624681091
+  },
+  {
+    "id": "SI-337",
+    "name": "Pure Metal Shell- silver spray",
+    "value": "700-800€",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_291_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_291_photo_1.jpeg"
+    ],
+    "keywords": "700 800 metal pure shell silver spray",
+    "visualScore": 0.9697068668522456
+  },
+  {
+    "id": "SI-338",
+    "name": "Nylam",
+    "value": "500€",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_292_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_292_photo_1.jpeg"
+    ],
+    "keywords": "500 nylam",
+    "visualScore": 0.9213534294997692
+  },
+  {
+    "id": "SI-339",
+    "name": "Microfelt mesh cover",
+    "value": "450€",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_293_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_293_photo_1.jpeg"
+    ],
+    "keywords": "450 cover mesh microfelt",
+    "visualScore": 0.9254508829849707
+  },
+  {
+    "id": "SI-340",
+    "name": "Microfelt white cover",
+    "value": "300€",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_294_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_294_photo_1.jpeg"
+    ],
+    "keywords": "300 cover microfelt white",
+    "visualScore": 0.9254035447025064
+  },
+  {
+    "id": "SI-341",
+    "name": "Microfelt transparent cover",
+    "value": "400€",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_295_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_295_photo_1.jpeg"
+    ],
+    "keywords": "400 cover microfelt transparent",
+    "visualScore": 0.9736552729999317
+  },
+  {
+    "id": "SI-342",
+    "name": "Tyvek stretch",
+    "value": "200€",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_296_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_296_photo_1.jpeg"
+    ],
+    "keywords": "200 stretch tyvek",
+    "visualScore": 0.9712826443430693
+  },
+  {
+    "id": "SI-343",
+    "name": "Double Mesh",
+    "value": "400-500€",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_297_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_297_photo_1.jpeg"
+    ],
+    "keywords": "400 500 double mesh",
+    "visualScore": 0.8930423273198727
+  },
+  {
+    "id": "SI-344",
+    "name": "Kevlar",
+    "value": "600€",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_298_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_298_photo_1.jpeg"
+    ],
+    "keywords": "600 kevlar",
+    "visualScore": 0.939874923711747
+  },
+  {
+    "id": "SI-345",
+    "name": "Pure metal shell- silver spray coloured",
+    "value": "1500",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_299_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_299_photo_1.jpeg"
+    ],
+    "keywords": "1500 coloured metal pure shell silver spray",
+    "visualScore": 0.9648226758794465
+  },
+  {
+    "id": "SI-346",
+    "name": "Felted Lana",
+    "value": "300€",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_300_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_300_photo_1.jpeg"
+    ],
+    "keywords": "300 felted lana",
+    "visualScore": 0.974535657733402
+  },
+  {
+    "id": "SI-347",
+    "name": "Panno di Lana Agugliato",
+    "value": "600-700€",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_301_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_301_photo_1.jpeg"
+    ],
+    "keywords": "600 700 agugliato di lana panno",
+    "visualScore": 0.8930717278955285
+  },
+  {
+    "id": "SI-348",
+    "name": "Mac",
+    "value": "400€",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_302_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_302_photo_1.jpeg"
+    ],
+    "keywords": "400 mac",
+    "visualScore": 0.919850193773724
+  },
+  {
+    "id": "SI-349",
+    "name": "Sublimation printed yarn",
+    "value": "400€",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_303_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_303_photo_1.jpeg"
+    ],
+    "keywords": "400 printed sublimation yarn",
+    "visualScore": 0.9322235868635691
+  },
+  {
+    "id": "SI-350",
+    "name": "kevlar",
+    "value": "600€",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_304_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_304_photo_1.jpeg"
+    ],
+    "keywords": "600 kevlar",
+    "visualScore": 0.9359300950396999
+  },
+  {
+    "id": "SI-351",
+    "name": "microfelt transparent cover",
+    "value": "300",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_305_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_305_photo_1.jpeg"
+    ],
+    "keywords": "300 cover microfelt transparent",
+    "visualScore": 0.9305633248061457
+  },
+  {
+    "id": "SI-352",
+    "name": "Monofilament",
+    "value": "350-400€",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_306_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_306_photo_1.jpeg"
+    ],
+    "keywords": "350 400 monofilament",
+    "visualScore": 0.9708992404401248
+  },
+  {
+    "id": "SI-353",
+    "name": "Orsetto placcato",
+    "value": "350-400",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_307_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_307_photo_1.jpeg"
+    ],
+    "keywords": "350 400 orsetto placcato",
+    "visualScore": 0.925649550373971
+  },
+  {
+    "id": "SI-354",
+    "name": "Laminated webbing",
+    "value": "400",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_308_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_308_photo_1.jpeg"
+    ],
+    "keywords": "400 laminated webbing",
+    "visualScore": 0.9476192915900181
+  },
+  {
+    "id": "SI-355",
+    "name": "Ventile",
+    "value": "800€",
+    "category": "Archive",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_309_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_309_photo_1.jpeg"
+    ],
+    "keywords": "800 archive cotton military ventile",
+    "visualScore": 0.9250616490877374
+  },
+  {
+    "id": "SI-356",
+    "name": "SUBLIMATION POLY KNIT",
+    "value": "200",
+    "category": "Knit",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_310_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_310_photo_1.jpeg"
+    ],
+    "keywords": "200 knit poly sublimation",
+    "visualScore": 0.9379825177570744
+  },
+  {
+    "id": "SI-357",
+    "name": "Laminated Webbing",
+    "value": "450€",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_311_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_311_photo_1.jpeg"
+    ],
+    "keywords": "450 laminated webbing",
+    "visualScore": 0.9395106718533519
+  },
+  {
+    "id": "SI-358",
+    "name": "Laminated Webbing 2",
+    "value": "450",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_312_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_312_photo_1.jpeg"
+    ],
+    "keywords": "2 450 laminated webbing",
+    "visualScore": 0.9428478306529781
+  },
+  {
+    "id": "SI-359",
+    "name": "Nyco Resinato",
+    "value": "400",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_313_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_313_photo_1.jpeg"
+    ],
+    "keywords": "400 nyco resinato",
+    "visualScore": 0.9000916941775443
+  },
+  {
+    "id": "SI-360",
+    "name": "Monofilament",
+    "value": "300",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_314_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_314_photo_1.jpeg"
+    ],
+    "keywords": "300 monofilament",
+    "visualScore": 0.9636718620597273
+  },
+  {
+    "id": "SI-361",
+    "name": "RASO GOMMATO-F / COVER BIANCO",
+    "value": "450",
+    "category": "Raso Gommato",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_315_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_315_photo_1.jpeg"
+    ],
+    "keywords": "450 bianco cover f gommato raso",
+    "visualScore": 0.9227640413895866
+  },
+  {
+    "id": "SI-362",
+    "name": "Monofilament- S",
+    "value": "450",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_316_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_316_photo_1.jpeg"
+    ],
+    "keywords": "450 monofilament s",
+    "visualScore": 0.9150797778469446
+  },
+  {
+    "id": "SI-363",
+    "name": "Raso Gommato- Flat",
+    "value": "500€",
+    "category": "Raso Gommato",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_317_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_317_photo_1.jpeg"
+    ],
+    "keywords": "500 flat gommato raso",
+    "visualScore": 0.9171038869490487
+  },
+  {
+    "id": "SI-364",
+    "name": "MAGLINA DI POLIESTERE SUBLIMATICA",
+    "value": "450",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_318_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_318_photo_1.jpeg"
+    ],
+    "keywords": "450 di maglina poliestere sublimatica",
+    "visualScore": 0.9100886971512785
+  },
+  {
+    "id": "SI-365",
+    "name": "LANA NYLON",
+    "value": "200",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_319_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_319_photo_1.jpeg"
+    ],
+    "keywords": "200 lana nylon",
+    "visualScore": 0.9001559249200107
+  },
+  {
+    "id": "SI-366",
+    "name": "Light",
+    "value": "1300-1500",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_320_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_320_photo_1.jpeg"
+    ],
+    "keywords": "1300 1500 light",
+    "visualScore": 0.8740915202848962
+  },
+  {
+    "id": "SI-367",
+    "name": "Oltre rip stop",
+    "value": "600",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_321_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_321_photo_1.jpeg"
+    ],
+    "keywords": "600 oltre rip stop",
+    "visualScore": 0.9348125421177716
+  },
+  {
+    "id": "SI-368",
+    "name": "TYVEK® SHIELD",
+    "value": "400€",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_322_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_322_photo_1.jpeg"
+    ],
+    "keywords": "400 shield tyvek",
+    "visualScore": 0.9140344816716488
+  },
+  {
+    "id": "SI-369",
+    "name": "Compact",
+    "value": "300-350",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_323_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_323_photo_1.jpeg"
+    ],
+    "keywords": "300 350 compact",
+    "visualScore": 0.9445352249675953
+  },
+  {
+    "id": "SI-370",
+    "name": "Compact",
+    "value": "300-350",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_324_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_324_photo_1.jpeg"
+    ],
+    "keywords": "300 350 compact",
+    "visualScore": 0.9314608439512904
+  },
+  {
+    "id": "SI-371",
+    "name": "CINIGLIA SUBLIMATICA",
+    "value": "200",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_325_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_325_photo_1.jpeg"
+    ],
+    "keywords": "200 ciniglia sublimatica",
+    "visualScore": 0.9403789162839148
+  },
+  {
+    "id": "SI-372",
+    "name": "Compact",
+    "value": "1200",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_326_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_326_photo_1.jpeg"
+    ],
+    "keywords": "1200 compact",
+    "visualScore": 0.9256406523011584
+  },
+  {
+    "id": "SI-373",
+    "name": "RASO GOMMATO COVER VINILE",
+    "value": "500",
+    "category": "Raso Gommato",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_327_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_327_photo_1.jpeg"
+    ],
+    "keywords": "500 cover gommato raso vinile",
+    "visualScore": 0.9431852409273562
+  },
+  {
+    "id": "SI-374",
+    "name": "POLYESTER MESH DOWN",
+    "value": "500",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_328_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_328_photo_1.jpeg"
+    ],
+    "keywords": "500 down mesh polyester",
+    "visualScore": 0.9532083726086652
+  },
+  {
+    "id": "SI-375",
+    "name": "RASO GOMMATO METALLIC COVER",
+    "value": "600",
+    "category": "Raso Gommato",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_329_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_329_photo_1.jpeg"
+    ],
+    "keywords": "600 cover gommato metallic raso",
+    "visualScore": 0.8995123100432516
+  },
+  {
+    "id": "SI-376",
+    "name": "RASO GOMMATO METALLIC COVER",
+    "value": "800",
+    "category": "Raso Gommato",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_330_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_330_photo_1.jpeg"
+    ],
+    "keywords": "800 cover gommato metallic raso",
+    "visualScore": 0.9125748862767835
+  },
+  {
+    "id": "SI-377",
+    "name": "DOPPIA FRONTURA",
+    "value": "200",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_331_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_331_photo_1.jpeg"
+    ],
+    "keywords": "200 doppia frontura",
+    "visualScore": 0.9303333129010902
+  },
+  {
+    "id": "SI-378",
+    "name": "Telona Cover",
+    "value": "400",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_332_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_332_photo_1.jpeg"
+    ],
+    "keywords": "400 cover telona",
+    "visualScore": 0.9470273046748441
+  },
+  {
+    "id": "SI-379",
+    "name": "LINO WATRO",
+    "value": "350",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_333_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_333_photo_1.jpeg"
+    ],
+    "keywords": "350 lino watro",
+    "visualScore": 0.9376069611684479
+  },
+  {
+    "id": "SI-381",
+    "name": "Tela resinata",
+    "value": "300",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_334_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_334_photo_1.jpeg"
+    ],
+    "keywords": "300 resinata tela",
+    "visualScore": 0.9562432772061566
+  },
+  {
+    "id": "SI-382",
+    "name": "Raso Gommato cover nero",
+    "value": "500",
+    "category": "Raso Gommato",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_335_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_335_photo_1.jpeg"
+    ],
+    "keywords": "500 cover gommato nero raso",
+    "visualScore": 0.9070691597898036
+  },
+  {
+    "id": "SI-383",
+    "name": "POLIESTERE PRESSATO",
+    "value": "250",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_336_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_336_photo_1.jpeg"
+    ],
+    "keywords": "250 poliestere pressato",
+    "visualScore": 0.9261664925265245
+  },
+  {
+    "id": "SI-384",
+    "name": "LANA NYLON DOUBLE",
+    "value": "200",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_337_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_337_photo_1.jpeg"
+    ],
+    "keywords": "200 double lana nylon",
+    "visualScore": 0.9262977355026973
+  },
+  {
+    "id": "SI-385",
+    "name": "MUSSOLA GOMMATA DOUBLE",
+    "value": "450",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_338_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_338_photo_1.jpeg"
+    ],
+    "keywords": "450 double gommata mussola",
+    "visualScore": 0.9122081653954534
+  },
+  {
+    "id": "SI-386",
+    "name": "Poly Fleece",
+    "value": "220",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_339_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_339_photo_1.jpeg"
+    ],
+    "keywords": "220 fleece poly",
+    "visualScore": 0.9253293687178364
+  },
+  {
+    "id": "SI-387",
+    "name": "OPAQUE NYLON TELA 30GR",
+    "value": "500",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_340_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_340_photo_1.jpeg"
+    ],
+    "keywords": "30gr 500 nylon opaque tela",
+    "visualScore": 0.9379314374583165
+  },
+  {
+    "id": "SI-388",
+    "name": "MUSSOLA GOMMATA",
+    "value": "350",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_341_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_341_photo_1.jpeg"
+    ],
+    "keywords": "350 gommata mussola",
+    "visualScore": 0.9255999275206177
+  },
+  {
+    "id": "SI-389",
+    "name": "Nylon metal",
+    "value": "300",
+    "category": "Nylon Metal",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_342_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_342_photo_1.jpeg"
+    ],
+    "keywords": "300 metal nylon",
+    "visualScore": 0.9519916880777943
+  },
+  {
+    "id": "SI-390",
+    "name": "Mussola tripla",
+    "value": "300",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_343_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_343_photo_1.jpeg"
+    ],
+    "keywords": "300 mussola tripla",
+    "visualScore": 0.9395185464818558
+  },
+  {
+    "id": "SI-391",
+    "name": "Compact",
+    "value": "250",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_344_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_344_photo_1.jpeg"
+    ],
+    "keywords": "250 compact",
+    "visualScore": 0.952341851387249
+  },
+  {
+    "id": "SI-392",
+    "name": "Nylon Metal Flock",
+    "value": "400",
+    "category": "Nylon Metal",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_345_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_345_photo_1.jpeg"
+    ],
+    "keywords": "400 flock metal nylon",
+    "visualScore": 0.948283141845213
+  },
+  {
+    "id": "SI-393",
+    "name": "Lino Watro",
+    "value": "300",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_346_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_346_photo_1.jpeg"
+    ],
+    "keywords": "300 lino watro",
+    "visualScore": 0.9351120344477784
+  },
+  {
+    "id": "SI-394",
+    "name": "Raso Gommato cover nero",
+    "value": "350",
+    "category": "Raso Gommato",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_347_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_347_photo_1.jpeg"
+    ],
+    "keywords": "350 cover gommato nero raso",
+    "visualScore": 0.9421019787370791
+  },
+  {
+    "id": "SI-395",
+    "name": "lamy",
+    "value": "350-400",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_348_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_348_photo_1.jpeg"
+    ],
+    "keywords": "350 400 lamy",
+    "visualScore": 0.9577404339009297
+  },
+  {
+    "id": "SI-396",
+    "name": "Tela Nova",
+    "value": "500",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_349_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_349_photo_1.jpeg"
+    ],
+    "keywords": "500 nova tela",
+    "visualScore": 0.9255476745577411
+  },
+  {
+    "id": "SI-397",
+    "name": "OPAQUE NYLON TELA 30GR",
+    "value": "350",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_350_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_350_photo_1.jpeg"
+    ],
+    "keywords": "30gr 350 nylon opaque tela",
+    "visualScore": 0.9071451808883191
+  },
+  {
+    "id": "SI-398",
+    "name": "denim badge",
+    "value": "2000",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_351_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_351_photo_1.jpeg"
+    ],
+    "keywords": "2000 badge denim",
+    "visualScore": 0.9388742919063673
+  },
+  {
+    "id": "SI-399",
+    "name": "DOPPIO RASO / MUSSOLA",
+    "value": "350",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_352_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_352_photo_1.jpeg"
+    ],
+    "keywords": "350 doppio mussola raso",
+    "visualScore": 0.9367723568398647
+  },
+  {
+    "id": "SI-400",
+    "name": "David Tc",
+    "value": "300",
+    "category": "David-TC",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_353_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_353_photo_1.jpeg"
+    ],
+    "keywords": "300 david dyed garment military tc",
+    "visualScore": 0.9372354839301691
+  },
+  {
+    "id": "SI-401",
+    "name": "opaque nylon tela",
+    "value": "1000",
+    "category": "mesh badge",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_354_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_354_photo_1.jpeg"
+    ],
+    "keywords": "1000 badge mesh nylon opaque tela",
+    "visualScore": 0.9466049382620694
+  },
+  {
+    "id": "SI-402",
+    "name": "Handpainted sheepskin",
+    "value": "800",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_355_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_355_photo_1.jpeg"
+    ],
+    "keywords": "800 handpainted sheepskin",
+    "visualScore": 0.9268277584757006
+  },
+  {
+    "id": "SI-403",
+    "name": "Poly felt",
+    "value": "300",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_356_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_356_photo_1.jpeg"
+    ],
+    "keywords": "300 felt poly",
+    "visualScore": 0.9329634251338395
+  },
+  {
+    "id": "SI-404",
+    "name": "DOPPIO RASO / MUSSOLA",
+    "value": "250",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_357_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_357_photo_1.jpeg"
+    ],
+    "keywords": "250 doppio mussola raso",
+    "visualScore": 0.8955620374383458
+  },
+  {
+    "id": "SI-405",
+    "name": "Ventile",
+    "value": "400",
+    "category": "Archive",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_358_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_358_photo_1.jpeg"
+    ],
+    "keywords": "400 archive cotton military ventile",
+    "visualScore": 0.9167791383554145
+  },
+  {
+    "id": "SI-406",
+    "name": "Mesh reflective",
+    "value": "1000",
+    "category": "Reflective",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_359_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_359_photo_1.jpeg"
+    ],
+    "keywords": "1000 archive bead glass jacket mesh reflective",
+    "visualScore": 0.9406502300694832
+  },
+  {
+    "id": "SI-407",
+    "name": "doppio raso/ mussola",
+    "value": "350",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_360_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_360_photo_1.jpeg"
+    ],
+    "keywords": "350 doppio mussola raso",
+    "visualScore": 0.9423373255869011
+  },
+  {
+    "id": "SI-408",
+    "name": "nylon metal",
+    "value": "400€",
+    "category": "Nylon Metal",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_361_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_361_photo_1.jpeg"
+    ],
+    "keywords": "400 metal nylon",
+    "visualScore": 0.9360524156633658
+  },
+  {
+    "id": "SI-409",
+    "name": "POPELINE WATERPROOF",
+    "value": "250-300€",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_362_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_362_photo_1.jpeg"
+    ],
+    "keywords": "250 300 popeline waterproof",
+    "visualScore": 0.9284156081562346
+  },
+  {
+    "id": "SI-410",
+    "name": "raso gommato cover nero",
+    "value": "300",
+    "category": "Raso Gommato",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_363_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_363_photo_1.jpeg"
+    ],
+    "keywords": "300 cover gommato nero raso",
+    "visualScore": 0.9304404118956204
+  },
+  {
+    "id": "SI-411",
+    "name": "MICROFIBRA ARMATURATA",
+    "value": "250",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_364_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_364_photo_1.jpeg"
+    ],
+    "keywords": "250 armaturata microfibra",
+    "visualScore": 0.914229981618608
+  },
+  {
+    "id": "SI-412",
+    "name": "Raso watro camouflage",
+    "value": "1000-1200€",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_365_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_365_photo_1.jpeg"
+    ],
+    "keywords": "1000 1200 camouflage raso watro",
+    "visualScore": 0.9193644050161411
+  },
+  {
+    "id": "SI-413",
+    "name": "Mesh reflective",
+    "value": "500-600",
+    "category": "Reflective",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_366_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_366_photo_1.jpeg"
+    ],
+    "keywords": "500 600 archive bead glass jacket mesh reflective",
+    "visualScore": 0.951137762805701
+  },
+  {
+    "id": "SI-414",
+    "name": "nylon metal",
+    "value": "200-250€",
+    "category": "Nylon Metal",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_367_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_367_photo_1.jpeg"
+    ],
+    "keywords": "200 250 metal nylon",
+    "visualScore": 0.9360031310587568
+  },
+  {
+    "id": "SI-415",
+    "name": "DOPPIO NYLON METAL / MUSSOLA",
+    "value": "350",
+    "category": "Nylon Metal",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_368_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_368_photo_1.jpeg"
+    ],
+    "keywords": "350 doppio metal mussola nylon",
+    "visualScore": 0.9461949060736443
+  },
+  {
+    "id": "SI-416",
+    "name": "DOPPIO RASO / MEMBRANA",
+    "value": "150",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_369_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_369_photo_1.jpeg"
+    ],
+    "keywords": "150 doppio membrana raso",
+    "visualScore": 0.9412665218499638
+  },
+  {
+    "id": "SI-417",
+    "name": "Snowflake",
+    "value": "700-800",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "Se viola anche 900€",
+    "page": "",
+    "image": "/images/imported/item_370_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_370_photo_1.jpeg"
+    ],
+    "keywords": "700 800 900 anche se snowflake viola",
+    "visualScore": 0.9502812172577827
+  },
+  {
+    "id": "SI-418",
+    "name": "RASO GOMMATO - HAND PAINTED CAMOUFLAGE",
+    "value": "1500",
+    "category": "Raso Gommato",
+    "source": "Aggiunto manualmente",
+    "notes": "verde vale anche 2500",
+    "page": "",
+    "image": "/images/imported/item_371_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_371_photo_1.jpeg"
+    ],
+    "keywords": "1500 2500 anche camouflage gommato hand painted raso vale verde",
+    "visualScore": 0.9091931228507484
+  },
+  {
+    "id": "SI-419",
+    "name": "David Tc Shoulder badge",
+    "value": "300",
+    "category": "David-TC",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_372_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_372_photo_1.jpeg"
+    ],
+    "keywords": "300 badge david dyed garment military shoulder tc",
+    "visualScore": 0.9375158495313007
+  },
+  {
+    "id": "SI-420",
+    "name": "Lana Nylon",
+    "value": "300",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_373_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_373_photo_1.jpeg"
+    ],
+    "keywords": "300 lana nylon",
+    "visualScore": 0.9433561513192953
+  },
+  {
+    "id": "SI-421",
+    "name": "Seta Prismatica",
+    "value": "500€",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_374_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_374_photo_1.jpeg"
+    ],
+    "keywords": "500 prismatica seta",
+    "visualScore": 0.9312180069994342
+  },
+  {
+    "id": "SI-422",
+    "name": "Cotone Invernale",
+    "value": "330",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_375_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_375_photo_1.jpeg"
+    ],
+    "keywords": "330 cotone invernale",
+    "visualScore": 0.9101347118160318
+  },
+  {
+    "id": "SI-423",
+    "name": "Mussola Gommata",
+    "value": "350",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_376_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_376_photo_1.jpeg"
+    ],
+    "keywords": "350 gommata mussola",
+    "visualScore": 0.94709404740037
+  },
+  {
+    "id": "SI-424",
+    "name": "MONOFILAMENT STAMPATO",
+    "value": "300",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_377_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_377_photo_1.jpeg"
+    ],
+    "keywords": "300 monofilament stampato",
+    "visualScore": 0.9468397949869019
+  },
+  {
+    "id": "SI-425",
+    "name": "Raso Resinato",
+    "value": "450",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_378_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_378_photo_1.jpeg"
+    ],
+    "keywords": "450 raso resinato",
+    "visualScore": 0.9248438249601176
+  },
+  {
+    "id": "SI-426",
+    "name": "Doppia nylon metal /mussola",
+    "value": "300",
+    "category": "Nylon Metal",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_379_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_379_photo_1.jpeg"
+    ],
+    "keywords": "300 doppia metal mussola nylon",
+    "visualScore": 0.9442734883648318
+  },
+  {
+    "id": "SI-427",
+    "name": "Tyvek shield",
+    "value": "300",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_380_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_380_photo_1.jpeg"
+    ],
+    "keywords": "300 shield tyvek",
+    "visualScore": 0.9250744840705845
+  },
+  {
+    "id": "SI-428",
+    "name": "Ice Jacket",
+    "value": "600-650",
+    "category": "Ice Jacket",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_381_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_381_photo_1.jpeg"
+    ],
+    "keywords": "600 650 archive garment heat ice jacket reactive thermosensitive",
+    "visualScore": 0.9030403395507449
+  },
+  {
+    "id": "SI-429",
+    "name": "ALU-LEATHER",
+    "value": "400",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_382_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_382_photo_1.jpeg"
+    ],
+    "keywords": "400 alu leather",
+    "visualScore": 0.9256821894928183
+  },
+  {
+    "id": "SI-430",
+    "name": "Maglia Graphite",
+    "value": "500",
+    "category": "Knit",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_383_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_383_photo_1.jpeg"
+    ],
+    "keywords": "500 graphite maglia",
+    "visualScore": 0.8923352670843987
+  },
+  {
+    "id": "SI-431",
+    "name": "Grafite",
+    "value": "700",
+    "category": "Graphite",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_384_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_384_photo_1.jpeg"
+    ],
+    "keywords": "700 grafite graphite",
+    "visualScore": 0.9294328486397574
+  },
+  {
+    "id": "SI-432",
+    "name": "Mussola Gommata",
+    "value": "300",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_385_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_385_photo_1.jpeg"
+    ],
+    "keywords": "300 gommata mussola",
+    "visualScore": 0.9521635516721395
+  },
+  {
+    "id": "SI-433",
+    "name": "Tela Resinata",
+    "value": "250",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_386_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_386_photo_1.jpeg"
+    ],
+    "keywords": "250 resinata tela",
+    "visualScore": 0.8913324343641493
+  },
+  {
+    "id": "SI-434",
+    "name": "David Tc",
+    "value": "450",
+    "category": "David-TC",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_387_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_387_photo_1.jpeg"
+    ],
+    "keywords": "450 david dyed garment military tc",
+    "visualScore": 0.9026245318080489
+  },
+  {
+    "id": "SI-435",
+    "name": "Heat Reactive",
+    "value": "500",
+    "category": "Ice Jacket",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_388_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_388_photo_1.jpeg"
+    ],
+    "keywords": "500 heat reactive",
+    "visualScore": 0.9039627670954103
+  },
+  {
+    "id": "SI-436",
+    "name": "MUSSOLA GOMMATA REVERSE COLOUR PROCESS",
+    "value": "500",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_389_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_389_photo_1.jpeg"
+    ],
+    "keywords": "500 colour gommata mussola process reverse",
+    "visualScore": 0.9611533876022589
+  },
+  {
+    "id": "SI-437",
+    "name": "Welded down",
+    "value": "500",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "SE NON PERDE PIUME",
+    "page": "",
+    "image": "/images/imported/item_390_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_390_photo_1.jpeg"
+    ],
+    "keywords": "500 down non perde piume se welded",
+    "visualScore": 0.921030757496984
+  },
+  {
+    "id": "SI-438",
+    "name": "Waxed ice 2",
+    "value": "550",
+    "category": "Ice Jacket",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_391_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_391_photo_1.jpeg"
+    ],
+    "keywords": "2 550 ice waxed",
+    "visualScore": 0.924266576201841
+  },
+  {
+    "id": "SI-439",
+    "name": "David Tc",
+    "value": "400",
+    "category": "David-TC",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_392_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_392_photo_1.jpeg"
+    ],
+    "keywords": "400 david dyed garment military tc",
+    "visualScore": 0.9002942626055326
+  },
+  {
+    "id": "SI-440",
+    "name": "ice jacket camo",
+    "value": "500",
+    "category": "Ice Jacket",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_393_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_393_photo_1.jpeg"
+    ],
+    "keywords": "500 archive camo garment heat ice jacket reactive thermosensitive",
+    "visualScore": 0.9420827120938056
+  },
+  {
+    "id": "SI-441",
+    "name": "Membrana tc",
+    "value": "400",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_394_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_394_photo_1.jpeg"
+    ],
+    "keywords": "400 membrana tc",
+    "visualScore": 0.8934922829047898
+  },
+  {
+    "id": "SI-442",
+    "name": "Liquid tonic",
+    "value": "500-600€",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_395_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_395_photo_1.jpeg"
+    ],
+    "keywords": "500 600 liquid tonic",
+    "visualScore": 0.9076894614395641
+  },
+  {
+    "id": "SI-443",
+    "name": "David Tc",
+    "value": "300",
+    "category": "David-TC",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_396_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_396_photo_1.jpeg"
+    ],
+    "keywords": "300 david dyed garment military tc",
+    "visualScore": 0.9061510107752675
+  },
+  {
+    "id": "SI-444",
+    "name": "Ventile ghost piece",
+    "value": "450-500",
+    "category": "Ghost Piece",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_397_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_397_photo_1.jpeg"
+    ],
+    "keywords": "450 500 archive badge cotton ghost military monochromatic piece stealth tonal ventile",
+    "visualScore": 0.8920637812893537
+  },
+  {
+    "id": "SI-445",
+    "name": "MIL_SPEC_DIAGONAL WOOL",
+    "value": "300",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_398_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_398_photo_1.jpeg"
+    ],
+    "keywords": "300 diagonal mil spec wool",
+    "visualScore": 0.9401124582562935
+  },
+  {
+    "id": "SI-446",
+    "name": "Panno speciale",
+    "value": "250",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_399_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_399_photo_1.jpeg"
+    ],
+    "keywords": "250 panno speciale",
+    "visualScore": 0.898127682871297
+  },
+  {
+    "id": "SI-447",
+    "name": "GARMENT DYED DOWN_26 GR X SQM_N",
+    "value": "350",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_400_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_400_photo_1.jpeg"
+    ],
+    "keywords": "26 350 down dyed garment gr n sqm x",
+    "visualScore": 0.9075704389548613
+  },
+  {
+    "id": "SI-448",
+    "name": "Ciniglia Doppia",
+    "value": "350",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_401_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_401_photo_1.jpeg"
+    ],
+    "keywords": "350 ciniglia doppia",
+    "visualScore": 0.886287721507197
+  },
+  {
+    "id": "SI-449",
+    "name": "Nylon Metal",
+    "value": "250€",
+    "category": "Nylon Metal",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_402_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_402_photo_1.jpeg"
+    ],
+    "keywords": "250 metal nylon",
+    "visualScore": 0.9082819711906254
+  },
+  {
+    "id": "SI-450",
+    "name": "MEMBRANA TC",
+    "value": "250",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_403_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_403_photo_1.jpeg"
+    ],
+    "keywords": "250 membrana tc",
+    "visualScore": 0.912044409337865
+  },
+  {
+    "id": "SI-451",
+    "name": "TRATTAMENTO IDROFOBICO",
+    "value": "250",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_404_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_404_photo_1.jpeg"
+    ],
+    "keywords": "250 idrofobico trattamento",
+    "visualScore": 0.9183995894273154
+  },
+  {
+    "id": "SI-452",
+    "name": "DOPPIO REPS HT CAMO-OVD",
+    "value": "1000-1200",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_405_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_405_photo_1.jpeg"
+    ],
+    "keywords": "1000 1200 camo doppio ht ovd reps",
+    "visualScore": 0.9058799686915304
+  },
+  {
+    "id": "SI-453",
+    "name": "REFLECTIVE CAMOUFLAGE",
+    "value": "400-500",
+    "category": "Reflective",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_406_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_406_photo_1.jpeg"
+    ],
+    "keywords": "400 500 archive bead camouflage glass jacket reflective",
+    "visualScore": 0.9330305338463394
+  },
+  {
+    "id": "SI-454",
+    "name": "30/30 JACKET",
+    "value": "2000-2500€",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_407_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_407_photo_1.jpeg"
+    ],
+    "keywords": "2000 2500 30 jacket",
+    "visualScore": 0.893582763006154
+  },
+  {
+    "id": "SI-455",
+    "name": "Tela Stella",
+    "value": "1500-2000€",
+    "category": "Tela Stella",
+    "source": "Aggiunto manualmente",
+    "notes": "dipende dal colore",
+    "page": "",
+    "image": "/images/imported/item_408_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_408_photo_1.jpeg"
+    ],
+    "keywords": "1500 2000 archive coat colore dal dipende experimental garment jacket massimo osti stella tela",
+    "visualScore": 0.9079233422635298
+  },
+  {
+    "id": "SI-456",
+    "name": "Prototype n.7",
+    "value": "2500-2700€",
+    "category": "Prototype",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_409_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_409_photo_1.jpeg",
+      "/images/imported/item_409_photo_2.jpeg",
+      "/images/imported/item_409_photo_3.jpeg"
+    ],
+    "keywords": "2500 2700 7 n prototype",
+    "visualScore": 0.8962435211247071
+  },
+  {
+    "id": "SI-457",
+    "name": "Clark x cp company",
+    "value": "350€",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_410_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_410_photo_1.jpeg"
+    ],
+    "keywords": "350 clark company cp x"
+  },
+  {
+    "id": "SI-458",
+    "name": "Rain camo reflective parka",
+    "value": "900-1000€",
+    "category": "Reflective",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_411_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_411_photo_1.jpeg"
+    ],
+    "keywords": "1000 900 archive bead camo glass jacket parka rain reflective"
+  },
+  {
+    "id": "SI-459",
+    "name": "Dpm ripstop Devorè",
+    "value": "300€",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_412_photo_1.jpeg",
+    "photos": [
+      "/images/imported/item_412_photo_1.jpeg"
+    ],
+    "keywords": "300 devore dpm ripstop"
+  },
+  {
+    "id": "SI-460",
+    "name": "Corduroy rosa",
+    "value": "200",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_413_photo_1.webp",
+    "photos": [
+      "/images/imported/item_413_photo_1.webp"
+    ],
+    "keywords": "200 corduroy rosa"
+  },
+  {
+    "id": "SI-461",
+    "name": "Vest stone island famiglia",
+    "value": "400€",
+    "category": "",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_414_photo_1.webp",
+    "photos": [
+      "/images/imported/item_414_photo_1.webp"
+    ],
+    "keywords": "400 famiglia island stone vest"
+  },
+  {
+    "id": "SI-462",
+    "name": "David Tc Ghost Piece",
+    "value": "600-650",
+    "category": "Ghost Piece",
+    "source": "Aggiunto manualmente",
+    "notes": "",
+    "page": "",
+    "image": "/images/imported/item_415_photo_1.webp",
+    "photos": [
+      "/images/imported/item_415_photo_1.webp"
+    ],
+    "keywords": "600 650 badge david dyed garment ghost military monochromatic piece stealth tc tonal"
+  }
+]

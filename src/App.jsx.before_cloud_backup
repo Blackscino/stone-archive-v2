@@ -2,7 +2,6 @@ import { useEffect, useMemo, useRef, useState } from 'react'
 import { get, set, del } from 'idb-keyval'
 import itemsData from './items.json'
 import './styles.css'
-import { supabase } from './lib/supabase'
 
 const DB_KEY = 'stone_archive_v3'
 
@@ -284,52 +283,6 @@ export default function App() {
     location.reload()
   }
 
-  
-  async function backupCloud(){
-
-    const payload = items.map(x=>({
-      id:x.id,
-      name:x.name,
-      value:x.value,
-      category:x.category || '',
-      source:x.source || '',
-      notes:x.notes || '',
-      buyer:x.buyer || '',
-      image:x.image || '',
-      photos:x.photos || [],
-      page:x.page || '',
-      keywords:x.keywords || '',
-      visualScore:x.visualScore || null
-    }))
-
-    await supabase.from('items').delete().neq('id','___never___')
-    await supabase.from('items').insert(payload)
-
-    alert('Backup Cloud completato')
-  }
-
-  async function restoreCloud(){
-
-    const { data, error } =
-      await supabase
-        .from('items')
-        .select('*')
-
-    if(error){
-      alert(error.message)
-      return
-    }
-
-    if(!data?.length){
-      alert('Nessun dato nel cloud')
-      return
-    }
-
-    await set(DB_KEY,data)
-    location.reload()
-  }
-
-
   function exportJson(){
 
     const blob = new Blob(
@@ -490,14 +443,6 @@ export default function App() {
 
           <button onClick={exportJson}>
             Backup JSON
-          </button>
-
-          <button onClick={backupCloud}>
-            ☁ Backup Cloud
-          </button>
-
-          <button onClick={restoreCloud}>
-            ☁ Ripristina Cloud
           </button>
 
           <button
