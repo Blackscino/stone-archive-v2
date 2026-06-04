@@ -421,6 +421,63 @@ export default function App() {
   }
 
 
+
+
+  async function createSnapshot(){
+
+    const payload = items
+
+    const { error } =
+      await supabase
+        .from('snapshots')
+        .insert([
+          {
+            item_count: payload.length,
+            payload: payload
+          }
+        ])
+
+    if(error){
+      alert('ERRORE SNAPSHOT: ' + error.message)
+      return
+    }
+
+    alert('Snapshot creata')
+  }
+
+  async function restoreLatestSnapshot(){
+
+    const { data, error } =
+      await supabase
+        .from('snapshots')
+        .select('*')
+        .order('created_at',{ascending:false})
+        .limit(1)
+
+    if(error){
+      alert(error.message)
+      return
+    }
+
+    if(!data?.length){
+      alert('Nessuna snapshot trovata')
+      return
+    }
+
+    const archive = data[0].payload
+
+    await set(DB_KEY, archive)
+
+    setItems(archive)
+
+    alert(
+      'Snapshot ripristinata (' +
+      archive.length +
+      ' capi)'
+    )
+  }
+
+
   function exportJson(){
 
     const blob = new Blob(
@@ -581,6 +638,14 @@ export default function App() {
 
           <button onClick={exportJson}>
             Backup JSON
+          </button>
+
+          <button onClick={createSnapshot}>
+            📦 Snapshot
+          </button>
+
+          <button onClick={restoreLatestSnapshot}>
+            ♻️ Ripristina Snapshot
           </button>
 
           <button onClick={backupCloud}>
