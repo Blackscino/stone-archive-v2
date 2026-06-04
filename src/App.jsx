@@ -258,6 +258,8 @@ export default function App() {
 
     await persist(next)
 
+    await backupCloud(next)
+
     setSelected(clean)
   }
 
@@ -274,6 +276,8 @@ export default function App() {
       )
 
     await persist(next)
+
+    await backupCloud(next)
 
     setSelected(null)
   }
@@ -358,9 +362,9 @@ export default function App() {
   }
 
   
-  async function backupCloud(){
+  async function backupCloud(sourceItems = items){
 
-    const payload = items.map(x=>({
+    const payload = sourceItems.map(x=>({
       id:x.id,
       name:x.name,
       value:x.value,
