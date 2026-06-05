@@ -751,10 +751,6 @@ export default function App() {
         </select>
 
         <input
-          value={aiText}
-          onChange={e=>setAiText(e.target.value)}
-          placeholder="Parole guida (es: tela stella, ghost piece, ice jacket)"
-        />
 
 
       </div>
