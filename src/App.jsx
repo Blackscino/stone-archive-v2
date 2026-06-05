@@ -750,9 +750,6 @@ export default function App() {
 
         </select>
 
-        <input
-
-
       </div>
 
       <div className="grid">
