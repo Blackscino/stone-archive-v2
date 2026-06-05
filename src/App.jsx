@@ -75,7 +75,6 @@ export default function App() {
 
   const [items,setItems] = useState([])
   const [query,setQuery] = useState('')
-  const [aiText,setAiText] = useState('')
   const [imageUrl,setImageUrl] = useState('')
   const [selected,setSelected] = useState(null)
   const [zoom,setZoom] = useState(null)
