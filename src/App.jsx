@@ -907,8 +907,7 @@ export default function App() {
 
               <label>Tipologia</label>
 
-              <input
-                list="type-list"
+              <select
                 value={selected.type || ''}
                 onChange={e=>
                   updateField(
@@ -916,14 +915,22 @@ export default function App() {
                     e.target.value
                   )
                 }
-                placeholder="Scrivi o scegli una tipologia"
-              />
-
-              <datalist id="type-list">
-                {typeOptions.map(t=>(
-                  <option key={t} value={t} />
-                ))}
-              </datalist>
+              >
+                <option value="">-- scegli tipologia --</option>
+                <option value="Jacket">Jacket</option>
+                <option value="Parka">Parka</option>
+                <option value="Trench">Trench</option>
+                <option value="Overshirt">Overshirt</option>
+                <option value="Hoodie">Hoodie</option>
+                <option value="Crewneck">Crewneck</option>
+                <option value="Knitwear">Knitwear</option>
+                <option value="Vest">Vest</option>
+                <option value="T-Shirt">T-Shirt</option>
+                <option value="Pants">Pants</option>
+                <option value="Shorts">Shorts</option>
+                <option value="Accessory">Accessory</option>
+                <option value="Reference">Reference</option>
+              </select>
 
               <label>Tecnologia / Collezione</label>
 
@@ -936,7 +943,7 @@ export default function App() {
                     e.target.value
                   )
                 }
-                placeholder="Scrivi o scegli una tecnologia"
+                placeholder="Scrivi nuova tecnologia"
               />
 
               <datalist id="category-list">
@@ -944,6 +951,25 @@ export default function App() {
                   <option key={c} value={c} />
                 ))}
               </datalist>
+
+              <select
+                value=""
+                onChange={e=>{
+                  if(e.target.value){
+                    updateField(
+                      'category',
+                      e.target.value
+                    )
+                  }
+                }}
+              >
+                <option value="">Oppure scegli tecnologia esistente</option>
+                {categoryOptions.map(c=>(
+                  <option key={c} value={c}>
+                    {c}
+                  </option>
+                ))}
+              </select>
 
               <label>
                 Acquirente / contatto
@@ -996,13 +1022,24 @@ export default function App() {
                 }
               />
 
-              <button
+              <div
+                className="dropzone"
                 onClick={()=>
                   fileInputRef.current.click()
                 }
+                onDragOver={e=>{
+                  e.preventDefault()
+                }}
+                onDrop={e=>{
+                  e.preventDefault()
+                  addPhotos(
+                    e.dataTransfer.files
+                  )
+                }}
               >
-                + Aggiungi foto
-              </button>
+                <strong>Trascina foto qui</strong>
+                <span>oppure clicca per caricare</span>
+              </div>
 
               <button
                 className="save"

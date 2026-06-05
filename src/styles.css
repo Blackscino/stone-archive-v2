@@ -540,3 +540,40 @@ h1{
   font-size:22px !important;
   margin-top:8px !important;
 }
+
+
+.dropzone{
+  margin-top:14px;
+  border:1px dashed rgba(210,194,141,.45);
+  background:rgba(210,194,141,.06);
+  border-radius:18px;
+  padding:22px;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+  gap:6px;
+  cursor:pointer;
+  color:#f4f1e8;
+  transition:.2s ease;
+}
+
+.dropzone:hover{
+  background:rgba(210,194,141,.11);
+  border-color:#d2c28d;
+  transform:translateY(-2px);
+}
+
+.dropzone strong{
+  color:#d2c28d;
+  font-size:17px;
+}
+
+.dropzone span{
+  color:#aeb4bd;
+  font-size:13px;
+}
+
+.editor select{
+  cursor:pointer;
+}
