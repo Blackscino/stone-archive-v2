@@ -703,12 +703,8 @@ export default function App() {
           placeholder="Cerca capo..."
         />
 
-        <select
-        >
-          <option value="all">Tutti</option>
-          <option value="available">Disponibili</option>
-          <option value="sold">Venduti ⭐</option>
-        </select>
+        
+
 
         <select
           value={typeFilter}
