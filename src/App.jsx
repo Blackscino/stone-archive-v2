@@ -652,32 +652,44 @@ export default function App() {
             + Aggiungi capo
           </button>
 
-          <button onClick={exportJson}>
-            Backup JSON
-          </button>
+          <details className="toolsMenu">
 
-          <button onClick={createSnapshot}>
-            📦 Snapshot
-          </button>
+            <summary>
+              ⚙️ Strumenti
+            </summary>
 
-          <button onClick={restoreLatestSnapshot}>
-            ♻️ Ripristina Snapshot
-          </button>
+            <div className="toolsPanel">
 
-          <button onClick={backupCloud}>
-            ☁ Backup Cloud
-          </button>
+              <button onClick={exportJson}>
+                Backup JSON
+              </button>
 
-          <button onClick={restoreCloud}>
-            ☁ Ripristina Cloud
-          </button>
+              <button onClick={createSnapshot}>
+                📦 Snapshot
+              </button>
 
-          <button
-            className="danger"
-            onClick={resetDatabase}
-          >
-            Reset DB
-          </button>
+              <button onClick={restoreLatestSnapshot}>
+                ♻️ Ripristina Snapshot
+              </button>
+
+              <button onClick={backupCloud}>
+                ☁ Backup Cloud
+              </button>
+
+              <button onClick={restoreCloud}>
+                ☁ Ripristina Cloud
+              </button>
+
+              <button
+                className="danger"
+                onClick={resetDatabase}
+              >
+                Reset DB
+              </button>
+
+            </div>
+
+          </details>
 
         </div>
 
