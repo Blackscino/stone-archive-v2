@@ -636,13 +636,19 @@ export default function App() {
       <header className="topbar">
 
         <div>
-          <h1>STONE ISLAND ARCHIVE</h1>
+          <h1>Stone Archive V3</h1>
 
           <p>
-            {totalItems} capi in archivio
+            {visible.length} capi visibili
           </p>
 
-          
+          <p>
+            Archivio: {totalItems} capi
+            {' • '}
+            Disponibili: {availableItems}
+            {' • '}
+            Acquirente ⭐: {buyerItems}
+          </p>
 
         </div>
 
