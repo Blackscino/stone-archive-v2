@@ -230,6 +230,52 @@ export default function App() {
     })
   }
 
+  function openZoomGallery(photos,index=0){
+
+    const cleanPhotos =
+      (photos || []).filter(Boolean)
+
+    if(!cleanPhotos.length) return
+
+    setZoom({
+      photos:cleanPhotos,
+      index
+    })
+  }
+
+  function nextZoomPhoto(e){
+
+    e.stopPropagation()
+
+    setZoom(prev=>{
+      if(!prev) return prev
+
+      return {
+        ...prev,
+        index:
+          (prev.index + 1) %
+          prev.photos.length
+      }
+    })
+  }
+
+  function prevZoomPhoto(e){
+
+    e.stopPropagation()
+
+    setZoom(prev=>{
+      if(!prev) return prev
+
+      return {
+        ...prev,
+        index:
+          (prev.index - 1 + prev.photos.length) %
+          prev.photos.length
+      }
+    })
+  }
+
+
   async function saveSelected(){
 
     const clean =
@@ -786,8 +832,10 @@ export default function App() {
               }
               alt={item.name}
               onClick={()=>
-                item.image &&
-                setZoom(item.image)
+                openZoomGallery(
+                  item.photos || [item.image],
+                  0
+                )
               }
               onError={e=>{
                 e.currentTarget.src =
@@ -827,9 +875,19 @@ export default function App() {
 
       {selected && (
 
-        <div className="modalOverlay">
+        <div
+          className="modalOverlay"
+          onMouseDown={()=>
+            setSelected(null)
+          }
+        >
 
-          <div className="modal">
+          <div
+            className="modal"
+            onMouseDown={e=>
+              e.stopPropagation()
+            }
+          >
 
             <div className="gallery">
 
@@ -851,7 +909,10 @@ export default function App() {
                     src={photo}
                     alt=""
                     onClick={()=>
-                      setZoom(photo)
+                      openZoomGallery(
+                        selected.photos,
+                        index
+                      )
                     }
                   />
 
@@ -918,16 +979,23 @@ export default function App() {
               >
                 <option value="">-- scegli tipologia --</option>
                 <option value="Jacket">Jacket</option>
+                <option value="Light Jacket">Light Jacket</option>
                 <option value="Parka">Parka</option>
-                <option value="Trench">Trench</option>
+                <option value="Smock">Smock</option>
+                <option value="Bomber">Bomber</option>
+                <option value="Raso">Raso</option>
                 <option value="Overshirt">Overshirt</option>
                 <option value="Hoodie">Hoodie</option>
                 <option value="Crewneck">Crewneck</option>
                 <option value="Knitwear">Knitwear</option>
                 <option value="Vest">Vest</option>
                 <option value="T-Shirt">T-Shirt</option>
+                <option value="Cargo">Cargo</option>
+                <option value="Pantaloni">Pantaloni</option>
                 <option value="Pants">Pants</option>
                 <option value="Shorts">Shorts</option>
+                <option value="Tuta">Tuta</option>
+                <option value="Trench">Trench</option>
                 <option value="Accessory">Accessory</option>
                 <option value="Reference">Reference</option>
               </select>
@@ -1072,10 +1140,37 @@ export default function App() {
           }
         >
 
+          {zoom.photos.length > 1 && (
+            <button
+              className="zoomNav zoomPrev"
+              onClick={prevZoomPhoto}
+            >
+              ‹
+            </button>
+          )}
+
           <img loading="lazy"
-            src={zoom}
+            src={zoom.photos[zoom.index]}
             alt=""
+            onClick={e=>
+              e.stopPropagation()
+            }
           />
+
+          {zoom.photos.length > 1 && (
+            <button
+              className="zoomNav zoomNext"
+              onClick={nextZoomPhoto}
+            >
+              ›
+            </button>
+          )}
+
+          {zoom.photos.length > 1 && (
+            <div className="zoomCounter">
+              {zoom.index + 1} / {zoom.photos.length}
+            </div>
+          )}
 
         </div>
 

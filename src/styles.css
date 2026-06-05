@@ -577,3 +577,71 @@ h1{
 .editor select{
   cursor:pointer;
 }
+
+
+.modalOverlay{
+  cursor:pointer;
+}
+
+.modal{
+  cursor:default;
+}
+
+.zoom{
+  position:fixed;
+  inset:0;
+  background:rgba(0,0,0,.95);
+  z-index:2000;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  cursor:zoom-out;
+}
+
+.zoom img{
+  max-width:92vw;
+  max-height:92vh;
+  border-radius:18px;
+  object-fit:contain;
+}
+
+.zoomNav{
+  position:absolute;
+  top:50%;
+  transform:translateY(-50%);
+  width:58px;
+  height:58px;
+  border-radius:50%;
+  font-size:44px;
+  line-height:1;
+  padding:0;
+  z-index:2010;
+  background:rgba(244,241,232,.12);
+  border:1px solid rgba(244,241,232,.24);
+  color:#f4f1e8;
+}
+
+.zoomNav:hover{
+  background:rgba(244,241,232,.22);
+}
+
+.zoomPrev{
+  left:28px;
+}
+
+.zoomNext{
+  right:28px;
+}
+
+.zoomCounter{
+  position:absolute;
+  bottom:28px;
+  left:50%;
+  transform:translateX(-50%);
+  padding:8px 14px;
+  border-radius:999px;
+  background:rgba(0,0,0,.55);
+  border:1px solid rgba(255,255,255,.15);
+  color:#f4f1e8;
+  font-weight:800;
+}
