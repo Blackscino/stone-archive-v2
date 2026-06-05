@@ -196,7 +196,6 @@ export default function App() {
         form.append('image_url', imageUrl.trim())
       }
 
-      form.append('text', aiText)
 
       const res = await fetch(
         'http://127.0.0.1:5001/search-image',
