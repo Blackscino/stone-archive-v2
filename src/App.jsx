@@ -143,50 +143,43 @@ export default function App() {
 
     await set(DB_KEY,next)
 
-    try{
-
-      const payload = next.map(x=>({
-        id:x.id,
-        name:x.name,
-        value:x.value,
-        type:x.type || '',
-        category:x.category || '',
-        source:x.source || '',
-        notes:x.notes || '',
-        buyer:x.buyer || '',
-        image:x.image || '',
-        photos:x.photos || [],
-        page:x.page || '',
-        keywords:x.keywords || '',
-        visualScore:x.visualScore || null
-      }))
-      const { error } =
-        await supabase
-          .from('items')
-          .upsert(
-            payload,
-            {
-              onConflict:'id'
-            }
-          )
-
-      if(error){
-        alert(
-          'ERRORE UPSERT CLOUD: ' +
-          error.message
-        )
-        return
-      }
-
-
-    }catch(err){
-
-      console.log(
-        'AUTO CLOUD SAVE ERROR',
-        err
-      )
-    }
   }
+
+
+  async function syncItem(item){
+
+    const { error } =
+      await supabase
+        .from('items')
+        .upsert(
+          [item],
+          {
+            onConflict:'id'
+          }
+        )
+
+    if(error){
+      console.error('SYNC ITEM ERROR', error)
+      alert('Errore sync cloud: ' + error.message)
+    }
+
+  }
+
+  async function deleteItemCloud(id){
+
+    const { error } =
+      await supabase
+        .from('items')
+        .delete()
+        .eq('id', id)
+
+    if(error){
+      console.error('DELETE ITEM ERROR', error)
+      alert('Errore delete cloud: ' + error.message)
+    }
+
+  }
+
 
   async function searchByImage(file){
 
@@ -257,7 +250,7 @@ export default function App() {
 
     await persist(next)
 
-    await backupCloud(next)
+    await syncItem(clean)
 
     setSelected(clean)
   }
@@ -276,7 +269,7 @@ export default function App() {
 
     await persist(next)
 
-    await backupCloud(next)
+    await deleteItemCloud(selected.id)
 
     setSelected(null)
   }
@@ -749,17 +742,11 @@ export default function App() {
         >
           <option value="all">Tutte le tecnologie</option>
 
-          <option value="Reflective">Reflective</option>
-          <option value="Ghost Piece">Ghost Piece</option>
-          <option value="Ice Jacket">Ice Jacket</option>
-          <option value="Shadow Project">Shadow Project</option>
-          <option value="Marina">Marina</option>
-          <option value="Tela Stella">Tela Stella</option>
-          <option value="Raso Gommato">Raso Gommato</option>
-          <option value="Prototype">Prototype</option>
-          <option value="Supreme">Supreme</option>
-          <option value="Nike">Nike</option>
-          <option value="Archive">Archive</option>
+          {categoryOptions.map(c=>(
+            <option key={c} value={c}>
+              {c}
+            </option>
+          ))}
 
         </select>
 
