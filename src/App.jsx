@@ -465,7 +465,7 @@ export default function App() {
 
   async function createSnapshot(){
 
-    const payload = items
+    const payload = items.map(({ image, photos, ...rest }) => rest)
 
     const { error } =
       await supabase
