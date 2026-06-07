@@ -334,6 +334,43 @@ export default function App() {
     })
   }
 
+  async function uploadPhotoToStorage(file){
+
+    const ext =
+      file.name.split('.').pop()?.toLowerCase() || 'jpg'
+
+    const safeName =
+      file.name
+        .toLowerCase()
+        .replace(/[^a-z0-9.]+/g,'-')
+        .replace(/-+/g,'-')
+
+    const path =
+      `items/${Date.now()}-${Math.random().toString(36).slice(2)}-${safeName || 'photo.' + ext}`
+
+    const { error } =
+      await supabase
+        .storage
+        .from('stone-images')
+        .upload(path,file,{
+          cacheControl:'31536000',
+          upsert:false
+        })
+
+    if(error){
+      console.error('UPLOAD STORAGE ERROR', error)
+      throw error
+    }
+
+    const { data } =
+      supabase
+        .storage
+        .from('stone-images')
+        .getPublicUrl(path)
+
+    return data.publicUrl
+  }
+
   async function addPhotos(files){
 
     if(!selected) return
@@ -343,23 +380,31 @@ export default function App() {
         f=>f.type.startsWith('image/')
       )
 
-    const data =
-      await Promise.all(
-        arr.map(fileToDataUrl)
-      )
+    if(!arr.length) return
 
-    const photos = [
-      ...new Set([
-        ...(selected.photos || []),
-        ...data
-      ])
-    ]
+    try{
 
-    setSelected({
-      ...selected,
-      photos,
-      image: photos[0] || ''
-    })
+      const data =
+        await Promise.all(
+          arr.map(uploadPhotoToStorage)
+        )
+
+      const photos = [
+        ...new Set([
+          ...(selected.photos || []),
+          ...data
+        ])
+      ]
+
+      setSelected({
+        ...selected,
+        photos,
+        image: photos[0] || ''
+      })
+
+    }catch(error){
+      alert('Errore upload foto: ' + error.message)
+    }
   }
 
   function updateField(field,value){
