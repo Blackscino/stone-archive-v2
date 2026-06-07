@@ -96,7 +96,7 @@ export default function App() {
         const { data } =
           await supabase
             .from('items')
-            .select('*')
+            .select('id,name,value,type,category,source,notes,buyer,image,created_at,page,keywords,visualScore')
 
         if(data && data.length){
 
