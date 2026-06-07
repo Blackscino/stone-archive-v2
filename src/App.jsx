@@ -983,6 +983,8 @@ export default function App() {
                 <option value="Parka">Parka</option>
                 <option value="Smock">Smock</option>
                 <option value="Bomber">Bomber</option>
+                <option value="Puffer">Puffer</option>
+                <option value="Piumino">Piumino</option>
                 <option value="Raso">Raso</option>
                 <option value="Overshirt">Overshirt</option>
                 <option value="Hoodie">Hoodie</option>
