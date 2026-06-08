@@ -1,0 +1,392 @@
+35-
+36-  const image = normalizePath(
+37-    item.image || photos[0]
+38-  )
+39-
+40-  const cleanPhotos = [
+41-    ...new Set(
+42-      [image,...photos].filter(Boolean)
+43-    )
+44-  ]
+45-
+46-  return {
+47-    id: item.id || `SI-${index}`,
+48-    name: item.name || 'NO NAME',
+49-    value: item.value || item.price || '',
+50-    type: item.type || '',
+51-    category: item.category || '',
+52-    source: item.source || '',
+53-    notes: item.notes || '',
+54-    buyer: item.buyer || '',
+55:    photos: cleanPhotos,
+56:    image: cleanPhotos[0] || ''
+57-  }
+58-}
+59-
+60:function fileToDataUrl(file) {
+61-  return new Promise(resolve=>{
+62-    const reader = new FileReader()
+63-
+64-    reader.onload = ()=>{
+65-      resolve(reader.result)
+66-    }
+67-
+68-    reader.readAsDataURL(file)
+69-  })
+70-}
+71-
+72-export default function App() {
+73-
+74-  const fileInputRef = useRef(null)
+75-
+76-  const [items,setItems] = useState([])
+77-  const [query,setQuery] = useState('')
+78-  const [imageUrl,setImageUrl] = useState('')
+79-  const [selected,setSelected] = useState(null)
+80-  const [zoom,setZoom] = useState(null)
+81-  const [loaded,setLoaded] = useState(false)
+82-
+83-  const [aiResults,setAiResults] = useState([])
+84-  const [aiLoading,setAiLoading] = useState(false)
+85-
+86-  const [priceFilter,setPriceFilter] = useState('all')
+87-  const [typeFilter,setTypeFilter] = useState('all')
+88-  const [categoryFilter,setCategoryFilter] = useState('all')
+89-
+90-  useEffect(()=>{
+91-
+92-    async function loadDB(){
+93-
+94-      try{
+95-
+96-        const { data } =
+97-          await supabase
+98-            .from('items')
+99-            .select('id,name,value,type,category,source,notes,buyer,image,created_at,page,keywords,visualScore')
+100-
+101-        if(data && data.length){
+102-
+103-          const clean =
+104-            data.map(normalizeItem)
+105-
+106-          setItems(clean)
+107-
+108-          await set(DB_KEY, clean)
+109-
+110-          setLoaded(true)
+111-          return
+112-        }
+113-
+114-      }catch(e){
+115-        console.log('SUPABASE LOAD ERROR',e)
+116-      }
+117-
+118-      const stored = await get(DB_KEY)
+119-
+120-      if(stored && Array.isArray(stored)){
+121-        setItems(stored)
+122-      } else {
+123-
+124-        const clean =
+125-          itemsData.map(normalizeItem)
+126-
+127-        setItems(clean)
+128-
+129-        await set(DB_KEY, clean)
+130-      }
+131-
+132-      setLoaded(true)
+133-    }
+134-
+135-    loadDB()
+136-
+137-  },[])
+138-
+139-  async function persist(next){
+140-
+--
+209-
+210-      setAiResults(data)
+211-
+212-    }catch(err){
+213-
+214-      console.error(err)
+215-
+216-      alert('Errore ricerca AI')
+217-
+218-    }finally{
+219-
+220-      setAiLoading(false)
+221-
+222-    }
+223-
+224-  }
+225-
+226-  function openItem(item){
+227-    setSelected({
+228-      ...item,
+229:      photos:[...(item.photos || [])]
+230-    })
+231-  }
+232-
+233-  function openZoomGallery(photos,index=0){
+234-
+235-    const cleanPhotos =
+236-      (photos || []).filter(Boolean)
+237-
+238-    if(!cleanPhotos.length) return
+239-
+240-    setZoom({
+241:      photos:cleanPhotos,
+242-      index
+243-    })
+244-  }
+245-
+246-  function nextZoomPhoto(e){
+247-
+248-    e.stopPropagation()
+249-
+250-    setZoom(prev=>{
+251-      if(!prev) return prev
+252-
+253-      return {
+254-        ...prev,
+255-        index:
+256-          (prev.index + 1) %
+257-          prev.photos.length
+258-      }
+259-    })
+260-  }
+261-
+262-  function prevZoomPhoto(e){
+263-
+264-    e.stopPropagation()
+265-
+266-    setZoom(prev=>{
+267-      if(!prev) return prev
+268-
+269-      return {
+270-        ...prev,
+271-        index:
+272-          (prev.index - 1 + prev.photos.length) %
+273-          prev.photos.length
+274-      }
+275-    })
+276-  }
+277-
+278-
+279-  async function saveSelected(){
+280-
+281-    const clean =
+282-      normalizeItem(selected,0)
+283-
+284-    const exists =
+285-      items.some(x=>x.id===clean.id)
+286-
+287-    const next = exists
+288-      ? items.map(x=>
+289-          x.id===clean.id
+290-          ? clean
+291-          : x
+292-        )
+293-      : [clean,...items]
+294-
+295-    await persist(next)
+296-
+297-    await syncItem(clean)
+298-
+299-    setSelected(clean)
+300-  }
+301-
+302-  async function deleteSelected(){
+303-
+304-    if(!selected) return
+305-
+306-    if(!confirm(`Eliminare "${selected.name}"?`))
+307-      return
+308-
+309-    const next =
+310-      items.filter(
+311-        x=>x.id!==selected.id
+312-      )
+313-
+314-    await persist(next)
+315-
+316-    await deleteItemCloud(selected.id)
+317-
+318-    setSelected(null)
+319-  }
+320-
+321-  function deletePhoto(index){
+322-
+323-    if(!selected) return
+324-
+325-    const photos =
+326-      selected.photos.filter(
+327-        (_,i)=>i!==index
+328-      )
+329-
+330-    setSelected({
+331-      ...selected,
+332-      photos,
+333:      image: photos[0] || ''
+334-    })
+335-  }
+336-
+337-  async function addPhotos(files){
+338-
+339-    if(!selected) return
+340-
+341-    const arr =
+342-      [...files].filter(
+343-        f=>f.type.startsWith('image/')
+344-      )
+345-
+346-    const data =
+347-      await Promise.all(
+348:        arr.map(fileToDataUrl)
+349-      )
+350-
+351-    const photos = [
+352-      ...new Set([
+353-        ...(selected.photos || []),
+354-        ...data
+355-      ])
+356-    ]
+357-
+358-    setSelected({
+359-      ...selected,
+360-      photos,
+361:      image: photos[0] || ''
+362-    })
+363-  }
+364-
+365-  function updateField(field,value){
+366-
+367-    setSelected(prev=>({
+368-      ...prev,
+369-      [field]:value
+370-    }))
+371-  }
+372-
+373-  function createNewItem(){
+374-
+375-    setSelected({
+376-      id:`SI-${Date.now()}`,
+377-      name:'',
+378-      value:'',
+379-      type:'',
+380-      category:'',
+381-      source:'',
+382-      notes:'',
+383-      buyer:'',
+384-      tags:'',
+385:      photos:[],
+386:      image:''
+387-    })
+388-  }
+389-
+390-  async function resetDatabase(){
+391-
+392-    if(!confirm('Reset database locale?'))
+393-      return
+394-
+395-    await del(DB_KEY)
+396-
+397-    location.reload()
+398-  }
+399-
+400-  
+401-  async function backupCloud(sourceItems = items){
+402-
+403-    const payload = sourceItems.map(x=>({
+404-      id:x.id,
+405-      name:x.name,
+406-      value:x.value,
+407-      type:x.type || '',
+408-      category:x.category || '',
+409-      source:x.source || '',
+410-      notes:x.notes || '',
+411-      buyer:x.buyer || '',
+412:      image:x.image || '',
+413:      photos:x.photos || [],
+414-      page:x.page || '',
+415-      keywords:x.keywords || '',
+416-      visualScore:x.visualScore || null
+417-    }))
+418-
+419-    const delRes =
+420-      await supabase
+421-        .from('items')
+422-        .delete()
+423-        .neq('id','___never___')
+424-
+425-    console.log('DELETE', delRes)
+426-
+427-    const insRes =
+428-      await supabase
+429-        .from('items')
+430-        .insert(payload)
+431-
+432-    console.log('INSERT', insRes)
+433-
+434-    if(insRes.error){
+435-      alert('ERRORE: ' + insRes.error.message)
+436-      return
+437-    }
+438-
+439-    alert('Backup Cloud completato')
+440-  }
+441-
+442-  async function restoreCloud(){
+443-
+444-    const { data, error } =
+445-      await supabase
+446-        .from('items')
+447-        .select('*')
+448-
+449-    if(error){
+450-      alert(error.message)
+451-      return
+452-    }
+453-
+454-    if(!data?.length){
+455-      alert('Nessun dato nel cloud')
+456-      return
+457-    }
+458-
+459-    await set(DB_KEY,data)
+460-    location.reload()
+461-  }
+462-
+463-
+464-
+465-
+466-  async function createSnapshot(){
+467-
+468-    const payload = items.map(({ image, photos, ...rest }) => rest)
+469-
+470-    const { error } =
+471-      await supabase
+472-        .from('snapshots')
+473-        .insert([
+474-          {
+475-            item_count: payload.length,
+476-            payload: payload
+477-          }
+478-        ])
+479-
+480-    if(error){
+481-      alert('ERRORE SNAPSHOT: ' + error.message)
+482-      return
+483-    }
+484-
+485-    alert('Snapshot creata')
+486-  }
+487-
+488-  async function restoreLatestSnapshot(){
+489-
+490-    const { data, error } =
+491-      await supabase
+492-        .from('snapshots')
+493-        .select('*')
