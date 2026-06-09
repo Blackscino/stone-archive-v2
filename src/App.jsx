@@ -510,7 +510,7 @@ export default function App() {
 
   async function createSnapshot(){
 
-    const payload = items.map(({ image, photos, ...rest }) => rest)
+    const payload = items
 
     const { error } =
       await supabase
@@ -1023,28 +1023,28 @@ export default function App() {
                 }
               >
                 <option value="">-- scegli tipologia --</option>
-                <option value="Jacket">Jacket</option>
-                <option value="Light Jacket">Light Jacket</option>
-                <option value="Parka">Parka</option>
-                <option value="Smock">Smock</option>
+                <option value="Accessory">Accessory</option>
                 <option value="Bomber">Bomber</option>
-                <option value="Puffer">Puffer</option>
-                <option value="Piumino">Piumino</option>
-                <option value="Raso">Raso</option>
-                <option value="Overshirt">Overshirt</option>
-                <option value="Hoodie">Hoodie</option>
-                <option value="Crewneck">Crewneck</option>
-                <option value="Knitwear">Knitwear</option>
-                <option value="Vest">Vest</option>
-                <option value="T-Shirt">T-Shirt</option>
                 <option value="Cargo">Cargo</option>
+                <option value="Crewneck">Crewneck</option>
+                <option value="Hoodie">Hoodie</option>
+                <option value="Jacket">Jacket</option>
+                <option value="Knitwear">Knitwear</option>
+                <option value="Light Jacket">Light Jacket</option>
+                <option value="Overshirt">Overshirt</option>
                 <option value="Pantaloni">Pantaloni</option>
                 <option value="Pants">Pants</option>
-                <option value="Shorts">Shorts</option>
-                <option value="Tuta">Tuta</option>
-                <option value="Trench">Trench</option>
-                <option value="Accessory">Accessory</option>
+                <option value="Parka">Parka</option>
+                <option value="Piumino">Piumino</option>
+                <option value="Puffer">Puffer</option>
+                <option value="Raso">Raso</option>
                 <option value="Reference">Reference</option>
+                <option value="Shorts">Shorts</option>
+                <option value="Smock">Smock</option>
+                <option value="T-Shirt">T-Shirt</option>
+                <option value="Trench">Trench</option>
+                <option value="Tuta">Tuta</option>
+                <option value="Vest">Vest</option>
               </select>
 
               <label>Tecnologia / Collezione</label>
